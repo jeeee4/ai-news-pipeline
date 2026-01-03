@@ -1,76 +1,107 @@
 # AI News Pipeline
 
-Hacker NewsからAI関連ニュースを取得し、LLMで要約するCLIツール
+Hacker NewsからAI関連ニュースを取得し、LLMで要約してSlack通知＆Webで公開するツール
+
+[![CI](https://github.com/jeeee4/ai-news-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/jeeee4/ai-news-pipeline/actions/workflows/ci.yml)
 
 ## 機能
 
-### 実装済み
-
 - [x] Hacker News API連携（Top/New記事の取得）
-- [x] AI関連キーワードによるフィルタリング（28キーワード対応）
-- [x] CLI上でのニュース一覧表示
+- [x] AI関連キーワードによるフィルタリング
+- [x] 記事本文のスクレイピング
+- [x] Anthropic Claude APIによる要約生成
+- [x] Slack通知（リッチメッセージ）
+- [x] Webページ（Next.js SSG）
+- [x] GitHub Actions自動実行
 
-### 未実装
+## アーキテクチャ
 
-- [ ] 記事本文の取得（URLからのスクレイピング）
-- [ ] LLM API連携（OpenAI / Anthropic）
-- [ ] 記事の要約生成
-- [ ] 要約結果の出力（ファイル / Slack等）
+```
+┌─────────────────────────────────────────────────────────┐
+│                    GitHub Actions                       │
+│              (毎朝定時実行 + 自動デプロイ)                │
+└─────────────────┬───────────────────────────────────────┘
+                  │
+                  ▼
+┌─────────────────────────────────────────────────────────┐
+│              Node.js / TypeScript                       │
+│  ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌────────┐  │
+│  │ HN API   │→│ Scraper  │→│ LLM API  │→│ Output │  │
+│  │ 記事取得  │  │ 本文取得  │  │ 要約生成  │  │ 配信   │  │
+│  └──────────┘  └──────────┘  └──────────┘  └────────┘  │
+└─────────────────────────────────────────────────────────┘
+                  │                              │
+                  ▼                              ▼
+         ┌───────────────┐              ┌───────────────┐
+         │  Slack API    │              │ GitHub Pages  │
+         │  (Webhook)    │              │ (Next.js SSG) │
+         └───────────────┘              └───────────────┘
+```
 
 ## セットアップ
 
 ```bash
+# 依存関係のインストール
 npm install
+
+# 環境変数の設定
+cp .env.example .env
+# .envを編集してAPI keyを設定
 ```
 
 ## 使い方
 
 ```bash
-# 開発モードで実行
+# ニュース取得（開発）
 npm run dev
 
-# ビルド
-npm run build
+# テスト
+npm run test
 
-# ビルド後の実行
-npm start
-```
-
-## 出力例
-
-```
-============================================================
-  AI News from Hacker News
-============================================================
-
-[1] OpenAI announces new model
-    Score: 500 | Comments: 200
-    Author: user123 | Posted: 2025/01/03 10:00
-    URL: https://example.com/article
-    HN: https://news.ycombinator.com/item?id=12345
-
-============================================================
-Total: 10 AI-related stories
-============================================================
+# Webサーバー起動
+npm run web:dev
 ```
 
 ## プロジェクト構造
 
 ```
-src/
-├── index.ts              # エントリーポイント、CLI表示
-├── api/
-│   └── hackernews.ts     # Hacker News API連携
-└── types/
-    └── hackernews.ts     # 型定義
+├── src/
+│   ├── api/           # Hacker News API
+│   ├── scraper/       # 記事スクレイピング
+│   ├── llm/           # LLMクライアント
+│   ├── summarizer/    # 要約サービス
+│   ├── slack/         # Slack通知
+│   ├── pipeline/      # パイプライン統合
+│   ├── lib/           # 設定等
+│   └── types/         # 型定義
+├── web/               # Next.js Webフロントエンド
+├── docs/              # ドキュメント
+└── .github/workflows/ # GitHub Actions
 ```
 
-## AIフィルタリングキーワード
+## GitHub Secretsの設定
 
-ai, artificial intelligence, machine learning, ml, deep learning, neural network, gpt, llm, chatgpt, openai, anthropic, claude, gemini, transformer, diffusion, stable diffusion, midjourney, generative ai, langchain, rag, embedding
+GitHub Actionsで自動実行するには、以下のSecretsを設定してください：
+
+1. リポジトリの Settings → Secrets and variables → Actions
+2. 以下のSecretsを追加：
+
+| Secret名 | 説明 |
+|----------|------|
+| `ANTHROPIC_API_KEY` | Anthropic API Key |
+| `SLACK_WEBHOOK_URL` | Slack Incoming Webhook URL |
+
+## GitHub Pages の設定
+
+1. Settings → Pages
+2. Source: "GitHub Actions" を選択
 
 ## 技術スタック
 
-- TypeScript
-- Node.js (ESM)
-- tsx (開発時の実行)
+- **言語**: TypeScript
+- **ランタイム**: Node.js (ESM)
+- **テスト**: Vitest + Playwright
+- **LLM**: Anthropic Claude
+- **フロント**: Next.js (SSG)
+- **CI/CD**: GitHub Actions
+- **ホスティング**: GitHub Pages
