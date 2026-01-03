@@ -1,6 +1,8 @@
 import * as cheerio from "cheerio";
 import type { ArticleContent, ScrapingResult } from "../types/article.js";
 
+type CheerioAPI = ReturnType<typeof cheerio.load>;
+
 const USER_AGENT =
   "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36";
 
@@ -67,7 +69,7 @@ async function fetchHtml(url: string): Promise<string> {
   }
 }
 
-function extractContent($: cheerio.CheerioAPI): string {
+function extractContent($: CheerioAPI): string {
   // 不要な要素を削除
   REMOVE_SELECTORS.forEach((selector) => {
     $(selector).remove();
@@ -97,7 +99,7 @@ function cleanText(text: string): string {
     .trim();
 }
 
-function extractTitle($: cheerio.CheerioAPI): string {
+function extractTitle($: CheerioAPI): string {
   // og:titleを優先
   const ogTitle = $('meta[property="og:title"]').attr("content");
   if (ogTitle) return ogTitle;
@@ -113,7 +115,7 @@ function extractTitle($: cheerio.CheerioAPI): string {
   return "";
 }
 
-function extractSiteName($: cheerio.CheerioAPI): string | null {
+function extractSiteName($: CheerioAPI): string | null {
   const ogSiteName = $('meta[property="og:site_name"]').attr("content");
   if (ogSiteName) return ogSiteName;
 
