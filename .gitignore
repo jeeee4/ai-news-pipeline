@@ -25,3 +25,10 @@ npm-debug.log*
 
 # TypeScript cache
 *.tsbuildinfo
+
+# Test coverage
+coverage/
+
+# Playwright
+playwright-report/
+test-results/
