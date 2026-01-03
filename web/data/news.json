@@ -1,0 +1,75 @@
+{
+  "generatedAt": "2024-01-03T09:00:00.000Z",
+  "articles": [
+    {
+      "id": 1,
+      "title": "OpenAI Announces GPT-5 with Enhanced Reasoning Capabilities",
+      "url": "https://example.com/gpt5",
+      "summary": "OpenAIが次世代モデルGPT-5を発表。推論能力が大幅に向上し、複雑な問題解決タスクで人間レベルのパフォーマンスを達成。",
+      "keyPoints": [
+        "推論能力が前世代比2倍に向上",
+        "マルチモーダル対応の強化",
+        "企業向けAPIの提供開始"
+      ],
+      "category": "LLM",
+      "sentiment": "positive",
+      "createdAt": "2024-01-03T08:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "title": "Anthropic Releases Claude 4 with Improved Safety Features",
+      "url": "https://example.com/claude4",
+      "summary": "AnthropicがClaude 4をリリース。安全性と有用性のバランスを改善し、より信頼性の高い応答を実現。",
+      "keyPoints": [
+        "Constitutional AIの進化版を搭載",
+        "ハルシネーションを50%削減",
+        "200Kトークンのコンテキストウィンドウ"
+      ],
+      "category": "AI",
+      "sentiment": "positive",
+      "createdAt": "2024-01-03T07:30:00.000Z"
+    },
+    {
+      "id": 3,
+      "title": "Google DeepMind's New Robot Learns Tasks from Video Demonstrations",
+      "url": "https://example.com/robot-learning",
+      "summary": "Google DeepMindが動画からタスクを学習するロボットを開発。従来の学習方法と比べて効率が大幅に向上。",
+      "keyPoints": [
+        "1本の動画から新しいタスクを習得",
+        "汎用的な動作スキルの獲得",
+        "家庭用ロボットへの応用を検討"
+      ],
+      "category": "Robotics",
+      "sentiment": "positive",
+      "createdAt": "2024-01-03T06:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "title": "Concerns Rise Over AI-Generated Misinformation in Elections",
+      "url": "https://example.com/ai-misinformation",
+      "summary": "選挙シーズンを前に、AI生成コンテンツによる偽情報拡散への懸念が高まる。各国で規制強化の動き。",
+      "keyPoints": [
+        "ディープフェイク検出ツールの需要増加",
+        "SNS各社が対策を強化",
+        "法規制の議論が活発化"
+      ],
+      "category": "AI",
+      "sentiment": "negative",
+      "createdAt": "2024-01-03T05:00:00.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Open Source LLM Llama 3 Achieves GPT-4 Level Performance",
+      "url": "https://example.com/llama3",
+      "summary": "MetaのオープンソースLLM Llama 3がベンチマークでGPT-4に匹敵する性能を達成。オープンソースAIの新たな節目。",
+      "keyPoints": [
+        "70Bパラメータモデルを公開",
+        "商用利用も可能なライセンス",
+        "コミュニティによる改良版が続々登場"
+      ],
+      "category": "ML",
+      "sentiment": "positive",
+      "createdAt": "2024-01-03T04:00:00.000Z"
+    }
+  ]
+}
