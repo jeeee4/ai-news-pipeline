@@ -2,6 +2,9 @@ import type { NewsSource, NewsItem, NewsSourceType } from "../types/source.js";
 import { hackerNewsSource } from "./hackernews.js";
 import { itmediaSource } from "./itmedia.js";
 import { qiitaSource } from "./qiita.js";
+import { aishinbunSource } from "./aishinbun.js";
+import { ainowSource } from "./ainow.js";
+import { ledgeSource } from "./ledge.js";
 
 export interface SourceManagerOptions {
   /** 有効にするソースタイプ（指定しない場合は全て有効） */
@@ -20,6 +23,9 @@ export class SourceManager {
     hackerNewsSource,
     itmediaSource,
     qiitaSource,
+    aishinbunSource,
+    ainowSource,
+    ledgeSource,
   ];
 
   /**
@@ -115,4 +121,7 @@ export const sourceManager = new SourceManager();
 export { hackerNewsSource } from "./hackernews.js";
 export { itmediaSource } from "./itmedia.js";
 export { qiitaSource } from "./qiita.js";
+export { aishinbunSource } from "./aishinbun.js";
+export { ainowSource } from "./ainow.js";
+export { ledgeSource } from "./ledge.js";
 export type { NewsSource, NewsItem, NewsSourceType } from "../types/source.js";

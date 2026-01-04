@@ -39,12 +39,12 @@ describe("SourceManager", () => {
   describe("getEnabledSources", () => {
     it("should return all enabled sources by default", () => {
       const sources = manager.getEnabledSources();
-      expect(sources.length).toBe(3);
+      expect(sources.length).toBe(6); // HN, ITmedia, Qiita, AI新聞, AINOW, Ledge.ai
     });
 
     it("should filter by japaneseOnly option", () => {
       const sources = manager.getEnabledSources({ japaneseOnly: true });
-      expect(sources.length).toBe(2);
+      expect(sources.length).toBe(5); // ITmedia, Qiita, AI新聞, AINOW, Ledge.ai
       sources.forEach((source) => {
         expect(source.config.language).toBe("ja");
       });
