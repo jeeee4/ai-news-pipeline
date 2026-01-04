@@ -2,7 +2,10 @@ import { writeFileSync, mkdirSync } from "node:fs";
 import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import { getAINews } from "./api/hackernews.js";
+import { runPipeline } from "./pipeline/index.js";
+import { getConfigSafe } from "./lib/config.js";
 import type { AINewsItem } from "./types/hackernews.js";
+import type { ArticleSummary } from "./types/summary.js";
 import type { NewsData } from "./types/news.js";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -43,7 +46,8 @@ function displayNews(news: AINewsItem[]): void {
   console.log("=".repeat(60));
 }
 
-function convertToNewsData(news: AINewsItem[]): NewsData {
+// LLM要約なしのフォールバック変換
+function convertToNewsDataSimple(news: AINewsItem[]): NewsData {
   return {
     generatedAt: new Date().toISOString(),
     articles: news.map((item) => ({
@@ -63,6 +67,23 @@ function convertToNewsData(news: AINewsItem[]): NewsData {
   };
 }
 
+// LLM要約結果をNewsData形式に変換
+function convertSummariesToNewsData(summaries: ArticleSummary[]): NewsData {
+  return {
+    generatedAt: new Date().toISOString(),
+    articles: summaries.map((summary) => ({
+      id: summary.id,
+      title: summary.title,
+      url: summary.url,
+      summary: summary.summary,
+      keyPoints: summary.keyPoints,
+      category: summary.category,
+      sentiment: summary.sentiment,
+      createdAt: summary.createdAt.toISOString(),
+    })),
+  };
+}
+
 function saveNewsData(data: NewsData): void {
   const outputPath = resolve(__dirname, "../web/data/news.json");
   const outputDir = dirname(outputPath);
@@ -74,13 +95,34 @@ function saveNewsData(data: NewsData): void {
 
 async function main(): Promise<void> {
   try {
-    const news = await getAINews(10);
-    displayNews(news);
+    // APIキーが設定されているか確認
+    const config = getConfigSafe();
 
-    const newsData = convertToNewsData(news);
-    saveNewsData(newsData);
+    if (config) {
+      // LLM要約パイプラインを実行
+      console.log("Running pipeline with LLM summarization...\n");
+      const result = await runPipeline({ maxArticles: 10 });
+
+      if (result.summaries.length > 0) {
+        const newsData = convertSummariesToNewsData(result.summaries);
+        saveNewsData(newsData);
+      } else {
+        console.log("\nNo summaries generated. Falling back to simple mode...");
+        const news = await getAINews(10);
+        displayNews(news);
+        const newsData = convertToNewsDataSimple(news);
+        saveNewsData(newsData);
+      }
+    } else {
+      // APIキーなし: シンプルモードで実行
+      console.log("ANTHROPIC_API_KEY not set. Running in simple mode (no LLM summarization)...\n");
+      const news = await getAINews(10);
+      displayNews(news);
+      const newsData = convertToNewsDataSimple(news);
+      saveNewsData(newsData);
+    }
   } catch (error) {
-    console.error("Error fetching news:", error);
+    console.error("Error running pipeline:", error);
     process.exit(1);
   }
 }
