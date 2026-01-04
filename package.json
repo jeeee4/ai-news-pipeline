@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "tsx src/index.ts",
+    "archive": "tsx src/archive/index.ts",
     "build": "tsc",
     "start": "node dist/index.js",
     "test": "vitest",
@@ -37,6 +38,7 @@
   "dependencies": {
     "@anthropic-ai/sdk": "^0.71.2",
     "cheerio": "^1.1.2",
-    "dotenv": "^17.2.3"
+    "dotenv": "^17.2.3",
+    "rss-parser": "^3.13.0"
   }
 }

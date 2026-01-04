@@ -1,0 +1,48 @@
+name: Archive Old News
+
+on:
+  schedule:
+    # 毎月1日 JST 9:00 (UTC 0:00) に実行
+    - cron: '0 0 1 * *'
+  workflow_dispatch: # 手動実行も可能
+
+permissions:
+  contents: write
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run archive process
+        run: npm run archive
+
+      - name: Commit and push archived data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add web/data/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Archive old news $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
+
+      - name: Trigger deploy workflow
+        run: |
+          gh workflow run deploy.yml
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
