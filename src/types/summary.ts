@@ -1,5 +1,5 @@
 export interface ArticleSummary {
-  id: number;
+  id: string | number;
   title: string;
   url: string | null;
   originalContent: string;
