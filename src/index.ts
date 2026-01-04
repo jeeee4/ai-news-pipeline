@@ -3,22 +3,9 @@ import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import { getAINews } from "./api/hackernews.js";
 import type { AINewsItem } from "./types/hackernews.js";
+import type { NewsData } from "./types/news.js";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-
-interface NewsData {
-  generatedAt: string;
-  articles: Array<{
-    id: number;
-    title: string;
-    url: string | null;
-    summary: string;
-    keyPoints: string[];
-    category: string;
-    sentiment: "positive" | "negative" | "neutral";
-    createdAt: string;
-  }>;
-}
 
 function formatDate(date: Date): string {
   return date.toLocaleString("ja-JP", {
