@@ -42,12 +42,7 @@ jobs:
             git commit -m "Update news data $(date -u +'%Y-%m-%d %H:%M UTC')"
             git push
           fi
-
-      - name: Trigger deploy workflow
-        run: |
-          gh workflow run deploy.yml
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        # Note: Deploy is auto-triggered by push to web/** (see deploy.yml)
 
       - name: Notify Slack on success
         if: success()
