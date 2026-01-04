@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { NewsList } from "@/components/NewsList";
 import newsData from "../../data/news.json";
 import type { NewsData } from "@/types/news";
@@ -22,9 +23,17 @@ export default function Home() {
           <h1 className="logo">
             <span>AI</span> News Pipeline
           </h1>
-          <span style={{ color: "var(--text-secondary)", fontSize: "0.875rem" }}>
-            Last updated: {formatDate(data.generatedAt)}
-          </span>
+          <div style={{ display: "flex", alignItems: "center", gap: "1rem" }}>
+            <Link
+              href="/archive"
+              style={{ color: "var(--text-secondary)", fontSize: "0.875rem" }}
+            >
+              アーカイブ
+            </Link>
+            <span style={{ color: "var(--text-secondary)", fontSize: "0.875rem" }}>
+              Last updated: {formatDate(data.generatedAt)}
+            </span>
+          </div>
         </div>
       </header>
 
