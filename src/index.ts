@@ -2,7 +2,8 @@ import { writeFileSync, mkdirSync } from "node:fs";
 import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import { getAINews } from "./api/hackernews.js";
-import { runPipeline } from "./pipeline/index.js";
+import { getRedditAINews } from "./api/reddit.js";
+import { runPipeline, type NewsSource } from "./pipeline/index.js";
 import { getConfigSafe } from "./lib/config.js";
 import type { AINewsItem } from "./types/hackernews.js";
 import type { ArticleSummary } from "./types/summary.js";
@@ -20,9 +21,10 @@ function formatDate(date: Date): string {
   });
 }
 
-function displayNews(news: AINewsItem[]): void {
+function displayNews(news: AINewsItem[], source: NewsSource): void {
+  const sourceLabel = source === "all" ? "Hacker News & Reddit" : source === "reddit" ? "Reddit" : "Hacker News";
   console.log("\n" + "=".repeat(60));
-  console.log("  AI News from Hacker News");
+  console.log(`  AI News from ${sourceLabel}`);
   console.log("=".repeat(60) + "\n");
 
   if (news.length === 0) {
@@ -37,7 +39,10 @@ function displayNews(news: AINewsItem[]): void {
     if (item.url) {
       console.log(`    URL: ${item.url}`);
     }
-    console.log(`    HN: https://news.ycombinator.com/item?id=${item.id}`);
+    // Reddit posts have IDs > 1 billion
+    if (item.id < 1_000_000_000) {
+      console.log(`    HN: https://news.ycombinator.com/item?id=${item.id}`);
+    }
     console.log("");
   });
 
@@ -93,31 +98,70 @@ function saveNewsData(data: NewsData): void {
   console.log(`\nNews data saved to: ${outputPath}`);
 }
 
+function parseArgs(): { source: NewsSource; limit: number } {
+  const args = process.argv.slice(2);
+  let source: NewsSource = "all";
+  let limit = 10;
+
+  for (let i = 0; i < args.length; i++) {
+    if (args[i] === "--source" && args[i + 1]) {
+      const val = args[i + 1];
+      if (val === "hackernews" || val === "reddit" || val === "all") {
+        source = val;
+      }
+      i++;
+    } else if (args[i] === "--limit" && args[i + 1]) {
+      limit = parseInt(args[i + 1], 10) || 10;
+      i++;
+    }
+  }
+
+  return { source, limit };
+}
+
+async function fetchNewsBySource(source: NewsSource, limit: number): Promise<AINewsItem[]> {
+  if (source === "hackernews") {
+    return getAINews(limit);
+  }
+  if (source === "reddit") {
+    return getRedditAINews({ limit });
+  }
+  // source === "all"
+  const perSource = Math.ceil(limit / 2);
+  const [hn, reddit] = await Promise.all([
+    getAINews(perSource),
+    getRedditAINews({ limit: perSource }),
+  ]);
+  return [...hn, ...reddit].sort((a, b) => b.score - a.score).slice(0, limit);
+}
+
 async function main(): Promise<void> {
   try {
+    const { source, limit } = parseArgs();
+
     // APIキーが設定されているか確認
     const config = getConfigSafe();
 
     if (config) {
       // LLM要約パイプラインを実行
-      console.log("Running pipeline with LLM summarization...\n");
-      const result = await runPipeline({ maxArticles: 10 });
+      console.log(`Running pipeline with LLM summarization (source: ${source})...\n`);
+      const result = await runPipeline({ maxArticles: limit, sources: source });
 
       if (result.summaries.length > 0) {
         const newsData = convertSummariesToNewsData(result.summaries);
         saveNewsData(newsData);
       } else {
         console.log("\nNo summaries generated. Falling back to simple mode...");
-        const news = await getAINews(10);
-        displayNews(news);
+        const news = await fetchNewsBySource(source, limit);
+        displayNews(news, source);
         const newsData = convertToNewsDataSimple(news);
         saveNewsData(newsData);
       }
     } else {
       // APIキーなし: シンプルモードで実行
-      console.log("ANTHROPIC_API_KEY not set. Running in simple mode (no LLM summarization)...\n");
-      const news = await getAINews(10);
-      displayNews(news);
+      console.log(`ANTHROPIC_API_KEY not set. Running in simple mode (source: ${source})...\n`);
+      const news = await fetchNewsBySource(source, limit);
+      displayNews(news, source);
       const newsData = convertToNewsDataSimple(news);
       saveNewsData(newsData);
     }

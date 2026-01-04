@@ -1,15 +1,21 @@
 import { getAINews } from "../api/hackernews.js";
+import { getRedditAINews } from "../api/reddit.js";
 import { scrapeArticle } from "../scraper/article.js";
 import { createLLMClient } from "../llm/client.js";
 import { createSummarizerService } from "../summarizer/service.js";
 import { loadConfig } from "../lib/config.js";
 import type { AINewsItem } from "../types/hackernews.js";
 import type { ArticleSummary } from "../types/summary.js";
+import type { RedditFetchOptions } from "../types/reddit.js";
+
+export type NewsSource = "hackernews" | "reddit" | "all";
 
 export interface PipelineOptions {
   maxArticles: number;
   language: "ja" | "en";
   verbose: boolean;
+  sources: NewsSource;
+  redditOptions?: Partial<RedditFetchOptions>;
 }
 
 export interface PipelineResult {
@@ -27,6 +33,7 @@ const DEFAULT_OPTIONS: PipelineOptions = {
   maxArticles: 10,
   language: "ja",
   verbose: true,
+  sources: "hackernews",
 };
 
 export async function runPipeline(
@@ -59,8 +66,7 @@ export async function runPipeline(
   });
 
   // 3. ニュース取得
-  log(`Fetching top ${opts.maxArticles} AI news from Hacker News...`);
-  const newsItems = await getAINews(opts.maxArticles);
+  const newsItems = await fetchNewsFromSources(opts, log);
   result.stats.totalFetched = newsItems.length;
   log(`Found ${newsItems.length} AI-related articles`);
 
@@ -130,6 +136,42 @@ export async function runPipeline(
   log("=".repeat(50));
 
   return result;
+}
+
+// ソースに応じてニュースを取得
+async function fetchNewsFromSources(
+  opts: PipelineOptions,
+  log: (msg: string) => void
+): Promise<AINewsItem[]> {
+  const { sources, maxArticles, redditOptions } = opts;
+
+  if (sources === "hackernews") {
+    log(`Fetching top ${maxArticles} AI news from Hacker News...`);
+    return getAINews(maxArticles);
+  }
+
+  if (sources === "reddit") {
+    log(`Fetching top ${maxArticles} AI news from Reddit...`);
+    return getRedditAINews({ ...redditOptions, limit: maxArticles });
+  }
+
+  // sources === "all": 両方から取得
+  const perSource = Math.ceil(maxArticles / 2);
+  log(`Fetching AI news from multiple sources...`);
+
+  const [hnNews, redditNews] = await Promise.all([
+    getAINews(perSource),
+    getRedditAINews({ ...redditOptions, limit: perSource }),
+  ]);
+
+  // スコアでソートしてマージ
+  const merged = [...hnNews, ...redditNews]
+    .sort((a, b) => b.score - a.score)
+    .slice(0, maxArticles);
+
+  log(`  Hacker News: ${hnNews.length}, Reddit: ${redditNews.length}`);
+
+  return merged;
 }
 
 // 結果をフォーマットして表示
