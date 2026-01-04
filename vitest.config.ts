@@ -15,6 +15,13 @@ export default defineConfig({
         "src/types/**/*.ts", // Type definitions only
         "src/pipeline/**/*.ts", // Requires external API integration
         "src/summarizer/service.ts", // Requires LLM API
+        "src/sources/aishinbun.ts", // Requires external site scraping
+        "src/sources/ainow.ts", // Requires external site scraping
+        "src/sources/ledge.ts", // Requires external site scraping
+        "src/sources/itmedia.ts", // Requires external RSS feed
+        "src/sources/qiita.ts", // Requires external Atom feed
+        "src/sources/hackernews.ts", // Wrapper for existing API module
+        "src/sources/scraper-utils.ts", // Utility for scraping sources
       ],
       thresholds: {
         lines: 60,
