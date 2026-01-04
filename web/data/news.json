@@ -1,75 +1,145 @@
 {
-  "generatedAt": "2024-01-03T09:00:00.000Z",
+  "generatedAt": "2026-01-04T05:11:39.144Z",
   "articles": [
     {
-      "id": 1,
-      "title": "OpenAI Announces GPT-5 with Enhanced Reasoning Capabilities",
-      "url": "https://example.com/gpt5",
-      "summary": "OpenAIが次世代モデルGPT-5を発表。推論能力が大幅に向上し、複雑な問題解決タスクで人間レベルのパフォーマンスを達成。",
+      "id": 46484104,
+      "title": "How Thomas Mann Wrote the Magic Mountain",
+      "url": "https://www.theguardian.com/books/2025/dec/31/the-master-of-contradictions-by-morten-hi-jensen-review-how-thomas-mann-wrote-the-magic-mountain",
+      "summary": "Hacker Newsで21ポイント、0件のコメントを獲得した記事です。",
       "keyPoints": [
-        "推論能力が前世代比2倍に向上",
-        "マルチモーダル対応の強化",
-        "企業向けAPIの提供開始"
-      ],
-      "category": "LLM",
-      "sentiment": "positive",
-      "createdAt": "2024-01-03T08:00:00.000Z"
-    },
-    {
-      "id": 2,
-      "title": "Anthropic Releases Claude 4 with Improved Safety Features",
-      "url": "https://example.com/claude4",
-      "summary": "AnthropicがClaude 4をリリース。安全性と有用性のバランスを改善し、より信頼性の高い応答を実現。",
-      "keyPoints": [
-        "Constitutional AIの進化版を搭載",
-        "ハルシネーションを50%削減",
-        "200Kトークンのコンテキストウィンドウ"
+        "スコア: 21",
+        "コメント数: 0",
+        "投稿者: Caiero"
       ],
       "category": "AI",
-      "sentiment": "positive",
-      "createdAt": "2024-01-03T07:30:00.000Z"
+      "sentiment": "neutral",
+      "createdAt": "2026-01-04T02:13:23.000Z"
     },
     {
-      "id": 3,
-      "title": "Google DeepMind's New Robot Learns Tasks from Video Demonstrations",
-      "url": "https://example.com/robot-learning",
-      "summary": "Google DeepMindが動画からタスクを学習するロボットを開発。従来の学習方法と比べて効率が大幅に向上。",
+      "id": 46483811,
+      "title": "Developing a BLAS Library for the AMD AI Engine [pdf]",
+      "url": "https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf",
+      "summary": "Hacker Newsで22ポイント、6件のコメントを獲得した記事です。",
       "keyPoints": [
-        "1本の動画から新しいタスクを習得",
-        "汎用的な動作スキルの獲得",
-        "家庭用ロボットへの応用を検討"
-      ],
-      "category": "Robotics",
-      "sentiment": "positive",
-      "createdAt": "2024-01-03T06:00:00.000Z"
-    },
-    {
-      "id": 4,
-      "title": "Concerns Rise Over AI-Generated Misinformation in Elections",
-      "url": "https://example.com/ai-misinformation",
-      "summary": "選挙シーズンを前に、AI生成コンテンツによる偽情報拡散への懸念が高まる。各国で規制強化の動き。",
-      "keyPoints": [
-        "ディープフェイク検出ツールの需要増加",
-        "SNS各社が対策を強化",
-        "法規制の議論が活発化"
+        "スコア: 22",
+        "コメント数: 6",
+        "投稿者: teleforce"
       ],
       "category": "AI",
-      "sentiment": "negative",
-      "createdAt": "2024-01-03T05:00:00.000Z"
+      "sentiment": "neutral",
+      "createdAt": "2026-01-04T01:26:39.000Z"
     },
     {
-      "id": 5,
-      "title": "Open Source LLM Llama 3 Achieves GPT-4 Level Performance",
-      "url": "https://example.com/llama3",
-      "summary": "MetaのオープンソースLLM Llama 3がベンチマークでGPT-4に匹敵する性能を達成。オープンソースAIの新たな節目。",
+      "id": 46482437,
+      "title": "Advanced Rail Energy Storage of North America",
+      "url": "https://aresnorthamerica.com/",
+      "summary": "Hacker Newsで18ポイント、8件のコメントを獲得した記事です。",
       "keyPoints": [
-        "70Bパラメータモデルを公開",
-        "商用利用も可能なライセンス",
-        "コミュニティによる改良版が続々登場"
+        "スコア: 18",
+        "コメント数: 8",
+        "投稿者: tomjakubowski"
       ],
-      "category": "ML",
-      "sentiment": "positive",
-      "createdAt": "2024-01-03T04:00:00.000Z"
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-01-03T22:35:11.000Z"
+    },
+    {
+      "id": 46482731,
+      "title": "Comparing benefits of every-third-day vs. daily low-dose aspirin therapy (2001)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11190906/",
+      "summary": "Hacker Newsで30ポイント、15件のコメントを獲得した記事です。",
+      "keyPoints": [
+        "スコア: 30",
+        "コメント数: 15",
+        "投稿者: walterbell"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-01-03T23:10:30.000Z"
+    },
+    {
+      "id": 46472667,
+      "title": "IQuest-Coder: A new open-source code model beats Claude Sonnet 4.5 and GPT 5.1 [pdf]",
+      "url": "https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf",
+      "summary": "Hacker Newsで171ポイント、45件のコメントを獲得した記事です。",
+      "keyPoints": [
+        "スコア: 171",
+        "コメント数: 45",
+        "投稿者: shenli3514"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-01-03T04:01:03.000Z"
+    },
+    {
+      "id": 46482733,
+      "title": "Dogan (Google): Claude built in 1 HR what Google had tried since last year",
+      "url": "https://twitter.com/rakyll/status/2007239758158975130",
+      "summary": "Hacker Newsで26ポイント、1件のコメントを獲得した記事です。",
+      "keyPoints": [
+        "スコア: 26",
+        "コメント数: 1",
+        "投稿者: oceansprayed"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-01-03T23:10:33.000Z"
+    },
+    {
+      "id": 46414908,
+      "title": "Chain Flinger",
+      "url": "https://nealstephenson.substack.com/p/kdk-kinetik-der-kontinua-part-1-introduction",
+      "summary": "Hacker Newsで62ポイント、8件のコメントを獲得した記事です。",
+      "keyPoints": [
+        "スコア: 62",
+        "コメント数: 8",
+        "投稿者: roomey"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2025-12-28T21:56:27.000Z"
+    },
+    {
+      "id": 46463644,
+      "title": "10 years of personal finances in plain text files",
+      "url": "https://sgoel.dev/posts/10-years-of-personal-finances-in-plain-text-files/",
+      "summary": "Hacker Newsで484ポイント、182件のコメントを獲得した記事です。",
+      "keyPoints": [
+        "スコア: 484",
+        "コメント数: 182",
+        "投稿者: wrxd"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-01-02T11:07:51.000Z"
+    },
+    {
+      "id": 46463407,
+      "title": "One Number I Trust: Plain-Text Accounting for a Multi-Currency Household",
+      "url": "https://lalitm.com/post/one-number-i-trust/",
+      "summary": "Hacker Newsで136ポイント、81件のコメントを獲得した記事です。",
+      "keyPoints": [
+        "スコア: 136",
+        "コメント数: 81",
+        "投稿者: ayi"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-01-02T10:25:11.000Z"
+    },
+    {
+      "id": 46462702,
+      "title": "Standard Ebooks: Public Domain Day 2026 in Literature",
+      "url": "https://standardebooks.org/blog/public-domain-day-2026",
+      "summary": "Hacker Newsで376ポイント、55件のコメントを獲得した記事です。",
+      "keyPoints": [
+        "スコア: 376",
+        "コメント数: 55",
+        "投稿者: WithinReason"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-01-02T08:40:41.000Z"
     }
   ]
 }

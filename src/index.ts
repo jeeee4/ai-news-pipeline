@@ -1,5 +1,24 @@
+import { writeFileSync, mkdirSync } from "node:fs";
+import { dirname, resolve } from "node:path";
+import { fileURLToPath } from "node:url";
 import { getAINews } from "./api/hackernews.js";
 import type { AINewsItem } from "./types/hackernews.js";
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
+
+interface NewsData {
+  generatedAt: string;
+  articles: Array<{
+    id: number;
+    title: string;
+    url: string | null;
+    summary: string;
+    keyPoints: string[];
+    category: string;
+    sentiment: "positive" | "negative" | "neutral";
+    createdAt: string;
+  }>;
+}
 
 function formatDate(date: Date): string {
   return date.toLocaleString("ja-JP", {
@@ -37,10 +56,42 @@ function displayNews(news: AINewsItem[]): void {
   console.log("=".repeat(60));
 }
 
+function convertToNewsData(news: AINewsItem[]): NewsData {
+  return {
+    generatedAt: new Date().toISOString(),
+    articles: news.map((item) => ({
+      id: item.id,
+      title: item.title,
+      url: item.url,
+      summary: `Hacker Newsで${item.score}ポイント、${item.commentsCount}件のコメントを獲得した記事です。`,
+      keyPoints: [
+        `スコア: ${item.score}`,
+        `コメント数: ${item.commentsCount}`,
+        `投稿者: ${item.author}`,
+      ],
+      category: "AI",
+      sentiment: "neutral" as const,
+      createdAt: item.postedAt.toISOString(),
+    })),
+  };
+}
+
+function saveNewsData(data: NewsData): void {
+  const outputPath = resolve(__dirname, "../web/data/news.json");
+  const outputDir = dirname(outputPath);
+
+  mkdirSync(outputDir, { recursive: true });
+  writeFileSync(outputPath, JSON.stringify(data, null, 2));
+  console.log(`\nNews data saved to: ${outputPath}`);
+}
+
 async function main(): Promise<void> {
   try {
     const news = await getAINews(10);
     displayNews(news);
+
+    const newsData = convertToNewsData(news);
+    saveNewsData(newsData);
   } catch (error) {
     console.error("Error fetching news:", error);
     process.exit(1);
