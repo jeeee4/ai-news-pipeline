@@ -3,7 +3,8 @@ import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import { getAINews } from "./api/hackernews.js";
 import { getBlogNews } from "./api/rss.js";
-import { runPipeline } from "./pipeline/index.js";
+import { getRedditAINews } from "./api/reddit.js";
+import { runPipeline, type NewsSource } from "./pipeline/index.js";
 import { runBlogPipeline } from "./pipeline/blog.js";
 import { getConfigSafe } from "./lib/config.js";
 import type { AINewsItem } from "./types/hackernews.js";
@@ -23,9 +24,10 @@ function formatDate(date: Date): string {
   });
 }
 
-function displayNews(news: AINewsItem[]): void {
+function displayNews(news: AINewsItem[], source: NewsSource): void {
+  const sourceLabel = source === "all" ? "Hacker News & Reddit" : source === "reddit" ? "Reddit" : "Hacker News";
   console.log("\n" + "=".repeat(60));
-  console.log("  AI News from Hacker News");
+  console.log(`  AI News from ${sourceLabel}`);
   console.log("=".repeat(60) + "\n");
 
   if (news.length === 0) {
@@ -40,7 +42,10 @@ function displayNews(news: AINewsItem[]): void {
     if (item.url) {
       console.log(`    URL: ${item.url}`);
     }
-    console.log(`    HN: https://news.ycombinator.com/item?id=${item.id}`);
+    // Reddit posts have IDs > 1 billion
+    if (item.id < 1_000_000_000) {
+      console.log(`    HN: https://news.ycombinator.com/item?id=${item.id}`);
+    }
     console.log("");
   });
 
@@ -149,49 +154,88 @@ function saveNewsData(data: NewsData): void {
   console.log(`\nNews data saved to: ${outputPath}`);
 }
 
+function parseArgs(): { source: NewsSource; limit: number } {
+  const args = process.argv.slice(2);
+  let source: NewsSource = "all";
+  let limit = 10;
+
+  for (let i = 0; i < args.length; i++) {
+    if (args[i] === "--source" && args[i + 1]) {
+      const val = args[i + 1];
+      if (val === "hackernews" || val === "reddit" || val === "all") {
+        source = val;
+      }
+      i++;
+    } else if (args[i] === "--limit" && args[i + 1]) {
+      limit = parseInt(args[i + 1], 10) || 10;
+      i++;
+    }
+  }
+
+  return { source, limit };
+}
+
+async function fetchNewsBySource(source: NewsSource, limit: number): Promise<AINewsItem[]> {
+  if (source === "hackernews") {
+    return getAINews(limit);
+  }
+  if (source === "reddit") {
+    return getRedditAINews({ limit });
+  }
+  // source === "all"
+  const perSource = Math.ceil(limit / 2);
+  const [hn, reddit] = await Promise.all([
+    getAINews(perSource),
+    getRedditAINews({ limit: perSource }),
+  ]);
+  return [...hn, ...reddit].sort((a, b) => b.score - a.score).slice(0, limit);
+}
+
 async function main(): Promise<void> {
   try {
+    const { source, limit } = parseArgs();
+
     // APIキーが設定されているか確認
     const config = getConfigSafe();
 
     if (config) {
       // LLM要約パイプラインを実行
-      console.log("Running pipeline with LLM summarization...\n");
+      console.log(`Running pipeline with LLM summarization (source: ${source})...\n`);
 
-      // Hacker Newsパイプライン
-      console.log("=== Hacker News ===");
-      const hnResult = await runPipeline({ maxArticles: 5 });
+      // HN + Reddit パイプライン
+      console.log("=== Hacker News & Reddit ===");
+      const hnRedditResult = await runPipeline({ maxArticles: limit, sources: source });
 
       // ブログパイプライン
       console.log("\n=== Tech Blogs ===");
       const blogResult = await runBlogPipeline({ maxArticles: 5 });
 
       // 結果をマージ
-      const allSummaries = [...hnResult.summaries, ...blogResult.summaries];
+      const allSummaries = [...hnRedditResult.summaries, ...blogResult.summaries];
 
       if (allSummaries.length > 0) {
         const newsData = convertSummariesToNewsData(allSummaries);
         saveNewsData(newsData);
       } else {
         console.log("\nNo summaries generated. Falling back to simple mode...");
-        const hnNews = await getAINews(5);
+        const news = await fetchNewsBySource(source, limit);
         const blogNews = await getBlogNews(5);
-        displayNews(hnNews);
+        displayNews(news, source);
         displayBlogNews(blogNews);
         const newsData = mergeNewsData(
-          convertToNewsDataSimple(hnNews),
+          convertToNewsDataSimple(news),
           convertBlogToNewsDataSimple(blogNews)
         );
         saveNewsData(newsData);
       }
     } else {
       // APIキーなし: シンプルモードで実行
-      console.log("ANTHROPIC_API_KEY not set. Running in simple mode (no LLM summarization)...\n");
+      console.log(`ANTHROPIC_API_KEY not set. Running in simple mode (source: ${source})...\n`);
 
-      // Hacker News
-      console.log("=== Hacker News ===");
-      const hnNews = await getAINews(5);
-      displayNews(hnNews);
+      // HN + Reddit
+      console.log("=== Hacker News & Reddit ===");
+      const news = await fetchNewsBySource(source, limit);
+      displayNews(news, source);
 
       // Tech Blogs
       console.log("\n=== Tech Blogs ===");
@@ -200,7 +244,7 @@ async function main(): Promise<void> {
 
       // マージして保存
       const newsData = mergeNewsData(
-        convertToNewsDataSimple(hnNews),
+        convertToNewsDataSimple(news),
         convertBlogToNewsDataSimple(blogNews)
       );
       saveNewsData(newsData);
