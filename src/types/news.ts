@@ -1,5 +1,5 @@
 export interface NewsSummary {
-  id: number;
+  id: string | number;
   title: string;
   url: string | null;
   summary: string;

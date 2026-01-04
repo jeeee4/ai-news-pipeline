@@ -6,6 +6,8 @@ import { getBlogNews } from "./api/rss.js";
 import { getRedditAINews } from "./api/reddit.js";
 import { runPipeline, type NewsSource } from "./pipeline/index.js";
 import { runBlogPipeline } from "./pipeline/blog.js";
+import { runMultiSourcePipeline, runJapanesePipeline } from "./pipeline/multi-source.js";
+import { sourceManager, type NewsItem } from "./sources/index.js";
 import { getConfigSafe } from "./lib/config.js";
 import type { AINewsItem } from "./types/hackernews.js";
 import type { BlogNewsItem } from "./types/rss.js";
@@ -42,7 +44,6 @@ function displayNews(news: AINewsItem[], source: NewsSource): void {
     if (item.url) {
       console.log(`    URL: ${item.url}`);
     }
-    // Reddit posts have IDs > 1 billion
     if (item.id < 1_000_000_000) {
       console.log(`    HN: https://news.ycombinator.com/item?id=${item.id}`);
     }
@@ -76,6 +77,33 @@ function displayBlogNews(news: BlogNewsItem[]): void {
   console.log("=".repeat(60));
 }
 
+function displayMultiSourceNews(news: NewsItem[]): void {
+  console.log("\n" + "=".repeat(60));
+  console.log("  AI News from Japanese Sources");
+  console.log("=".repeat(60) + "\n");
+
+  if (news.length === 0) {
+    console.log("No AI-related news found.");
+    return;
+  }
+
+  news.forEach((item, index) => {
+    console.log(`[${index + 1}] [${item.source}] ${item.title}`);
+    if (item.author) {
+      console.log(`    Author: ${item.author}`);
+    }
+    console.log(`    Posted: ${formatDate(item.publishedAt)}`);
+    if (item.url) {
+      console.log(`    URL: ${item.url}`);
+    }
+    console.log("");
+  });
+
+  console.log("=".repeat(60));
+  console.log(`Total: ${news.length} articles`);
+  console.log("=".repeat(60));
+}
+
 // LLM要約なしのフォールバック変換
 function convertToNewsDataSimple(news: AINewsItem[]): NewsData {
   return {
@@ -102,7 +130,7 @@ function convertBlogToNewsDataSimple(news: BlogNewsItem[]): NewsData {
   return {
     generatedAt: new Date().toISOString(),
     articles: news.map((item, index) => ({
-      id: index + 10000, // ブログ記事用のIDオフセット
+      id: index + 10000,
       title: item.title,
       url: item.url,
       summary: item.description ?? `${item.source}の公式ブログ記事です。`,
@@ -112,6 +140,26 @@ function convertBlogToNewsDataSimple(news: BlogNewsItem[]): NewsData {
       category: "AI",
       sentiment: "neutral" as const,
       createdAt: item.postedAt.toISOString(),
+    })),
+  };
+}
+
+// マルチソースのニュースをシンプルなNewsDataに変換
+function convertMultiSourceToNewsDataSimple(news: NewsItem[]): NewsData {
+  return {
+    generatedAt: new Date().toISOString(),
+    articles: news.map((item) => ({
+      id: item.id,
+      title: item.title,
+      url: item.url,
+      summary: `${item.source}から取得した記事です。`,
+      keyPoints: [
+        `ソース: ${item.source}`,
+        item.author ? `投稿者: ${item.author}` : null,
+      ].filter((p): p is string => p !== null),
+      category: "AI",
+      sentiment: "neutral" as const,
+      createdAt: item.publishedAt.toISOString(),
     })),
   };
 }
@@ -136,7 +184,6 @@ function convertSummariesToNewsData(summaries: ArticleSummary[]): NewsData {
 // 複数のNewsDataをマージ
 function mergeNewsData(...dataSources: NewsData[]): NewsData {
   const allArticles = dataSources.flatMap((d) => d.articles);
-  // 日付で降順ソート
   allArticles.sort((a, b) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime());
 
   return {
@@ -154,25 +201,30 @@ function saveNewsData(data: NewsData): void {
   console.log(`\nNews data saved to: ${outputPath}`);
 }
 
-function parseArgs(): { source: NewsSource; limit: number } {
-  const args = process.argv.slice(2);
-  let source: NewsSource = "all";
-  let limit = 10;
+type SourceMode = "hackernews" | "reddit" | "blogs" | "japan" | "all";
 
-  for (let i = 0; i < args.length; i++) {
-    if (args[i] === "--source" && args[i + 1]) {
-      const val = args[i + 1];
-      if (val === "hackernews" || val === "reddit" || val === "all") {
-        source = val;
-      }
-      i++;
-    } else if (args[i] === "--limit" && args[i + 1]) {
-      limit = parseInt(args[i + 1], 10) || 10;
-      i++;
+function parseArgs(): { mode: SourceMode; maxArticles: number } {
+  const args = process.argv.slice(2);
+  let mode: SourceMode = "all";
+  let maxArticles = 5;
+
+  for (const arg of args) {
+    if (arg === "--hackernews" || arg === "-hn") {
+      mode = "hackernews";
+    } else if (arg === "--reddit" || arg === "-r") {
+      mode = "reddit";
+    } else if (arg === "--blogs" || arg === "-b") {
+      mode = "blogs";
+    } else if (arg === "--japan" || arg === "-jp") {
+      mode = "japan";
+    } else if (arg === "--all" || arg === "-a") {
+      mode = "all";
+    } else if (arg.startsWith("--max=")) {
+      maxArticles = parseInt(arg.split("=")[1], 10) || 5;
     }
   }
 
-  return { source, limit };
+  return { mode, maxArticles };
 }
 
 async function fetchNewsBySource(source: NewsSource, limit: number): Promise<AINewsItem[]> {
@@ -182,7 +234,6 @@ async function fetchNewsBySource(source: NewsSource, limit: number): Promise<AIN
   if (source === "reddit") {
     return getRedditAINews({ limit });
   }
-  // source === "all"
   const perSource = Math.ceil(limit / 2);
   const [hn, reddit] = await Promise.all([
     getAINews(perSource),
@@ -192,62 +243,137 @@ async function fetchNewsBySource(source: NewsSource, limit: number): Promise<AIN
 }
 
 async function main(): Promise<void> {
-  try {
-    const { source, limit } = parseArgs();
+  const { mode, maxArticles } = parseArgs();
 
-    // APIキーが設定されているか確認
+  console.log(`Mode: ${mode}, Max articles per source: ${maxArticles}\n`);
+  console.log("Available Japanese sources:");
+  sourceManager.listSources().forEach((s) => {
+    console.log(`  - ${s.name} (${s.type}, ${s.language})`);
+  });
+  console.log("");
+
+  try {
     const config = getConfigSafe();
 
-    if (config) {
-      // LLM要約パイプラインを実行
-      console.log(`Running pipeline with LLM summarization (source: ${source})...\n`);
-
-      // HN + Reddit パイプライン
-      console.log("=== Hacker News & Reddit ===");
-      const hnRedditResult = await runPipeline({ maxArticles: limit, sources: source });
-
-      // ブログパイプライン
-      console.log("\n=== Tech Blogs ===");
-      const blogResult = await runBlogPipeline({ maxArticles: 5 });
-
-      // 結果をマージ
-      const allSummaries = [...hnRedditResult.summaries, ...blogResult.summaries];
-
-      if (allSummaries.length > 0) {
-        const newsData = convertSummariesToNewsData(allSummaries);
-        saveNewsData(newsData);
+    if (mode === "hackernews") {
+      // Hacker News専用モード
+      if (config) {
+        console.log("Running Hacker News pipeline with LLM summarization...\n");
+        const result = await runPipeline({ maxArticles });
+        if (result.summaries.length > 0) {
+          saveNewsData(convertSummariesToNewsData(result.summaries));
+        } else {
+          const news = await getAINews(maxArticles);
+          displayNews(news, "hackernews");
+          saveNewsData(convertToNewsDataSimple(news));
+        }
       } else {
-        console.log("\nNo summaries generated. Falling back to simple mode...");
-        const news = await fetchNewsBySource(source, limit);
-        const blogNews = await getBlogNews(5);
-        displayNews(news, source);
-        displayBlogNews(blogNews);
-        const newsData = mergeNewsData(
-          convertToNewsDataSimple(news),
-          convertBlogToNewsDataSimple(blogNews)
-        );
-        saveNewsData(newsData);
+        console.log("Running in simple mode...\n");
+        const news = await getAINews(maxArticles);
+        displayNews(news, "hackernews");
+        saveNewsData(convertToNewsDataSimple(news));
+      }
+    } else if (mode === "reddit") {
+      // Reddit専用モード
+      const news = await getRedditAINews({ limit: maxArticles });
+      displayNews(news, "reddit");
+      saveNewsData(convertToNewsDataSimple(news));
+    } else if (mode === "blogs") {
+      // ブログ専用モード
+      if (config) {
+        const result = await runBlogPipeline({ maxArticles });
+        if (result.summaries.length > 0) {
+          saveNewsData(convertSummariesToNewsData(result.summaries));
+        } else {
+          const news = await getBlogNews(maxArticles);
+          displayBlogNews(news);
+          saveNewsData(convertBlogToNewsDataSimple(news));
+        }
+      } else {
+        const news = await getBlogNews(maxArticles);
+        displayBlogNews(news);
+        saveNewsData(convertBlogToNewsDataSimple(news));
+      }
+    } else if (mode === "japan") {
+      // 日本ニュースソース専用モード
+      if (config) {
+        console.log("Running Japanese sources pipeline with LLM summarization...\n");
+        const result = await runJapanesePipeline({ maxArticlesPerSource: maxArticles });
+        if (result.summaries.length > 0) {
+          saveNewsData(convertSummariesToNewsData(result.summaries));
+        } else {
+          const news = await sourceManager.fetchAllNews(maxArticles, { japaneseOnly: true });
+          displayMultiSourceNews(news);
+          saveNewsData(convertMultiSourceToNewsDataSimple(news));
+        }
+      } else {
+        console.log("Running in simple mode...\n");
+        const news = await sourceManager.fetchAllNews(maxArticles, { japaneseOnly: true });
+        displayMultiSourceNews(news);
+        saveNewsData(convertMultiSourceToNewsDataSimple(news));
       }
     } else {
-      // APIキーなし: シンプルモードで実行
-      console.log(`ANTHROPIC_API_KEY not set. Running in simple mode (source: ${source})...\n`);
+      // 全ソースモード (all)
+      if (config) {
+        console.log("Running all sources pipeline with LLM summarization...\n");
 
-      // HN + Reddit
-      console.log("=== Hacker News & Reddit ===");
-      const news = await fetchNewsBySource(source, limit);
-      displayNews(news, source);
+        // HN + Reddit
+        console.log("=== Hacker News & Reddit ===");
+        const hnRedditResult = await runPipeline({ maxArticles, sources: "all" });
 
-      // Tech Blogs
-      console.log("\n=== Tech Blogs ===");
-      const blogNews = await getBlogNews(5);
-      displayBlogNews(blogNews);
+        // Tech Blogs
+        console.log("\n=== Tech Blogs ===");
+        const blogResult = await runBlogPipeline({ maxArticles });
 
-      // マージして保存
-      const newsData = mergeNewsData(
-        convertToNewsDataSimple(news),
-        convertBlogToNewsDataSimple(blogNews)
-      );
-      saveNewsData(newsData);
+        // Japanese Sources
+        console.log("\n=== Japanese Sources ===");
+        const japanResult = await runJapanesePipeline({ maxArticlesPerSource: maxArticles });
+
+        const allSummaries = [
+          ...hnRedditResult.summaries,
+          ...blogResult.summaries,
+          ...japanResult.summaries,
+        ];
+
+        if (allSummaries.length > 0) {
+          saveNewsData(convertSummariesToNewsData(allSummaries));
+        } else {
+          console.log("\nNo summaries generated. Falling back to simple mode...");
+          const hnReddit = await fetchNewsBySource("all", maxArticles);
+          const blogs = await getBlogNews(maxArticles);
+          const japan = await sourceManager.fetchAllNews(maxArticles, { japaneseOnly: true });
+
+          displayNews(hnReddit, "all");
+          displayBlogNews(blogs);
+          displayMultiSourceNews(japan);
+
+          saveNewsData(mergeNewsData(
+            convertToNewsDataSimple(hnReddit),
+            convertBlogToNewsDataSimple(blogs),
+            convertMultiSourceToNewsDataSimple(japan)
+          ));
+        }
+      } else {
+        console.log("Running in simple mode (all sources)...\n");
+
+        console.log("=== Hacker News & Reddit ===");
+        const hnReddit = await fetchNewsBySource("all", maxArticles);
+        displayNews(hnReddit, "all");
+
+        console.log("\n=== Tech Blogs ===");
+        const blogs = await getBlogNews(maxArticles);
+        displayBlogNews(blogs);
+
+        console.log("\n=== Japanese Sources ===");
+        const japan = await sourceManager.fetchAllNews(maxArticles, { japaneseOnly: true });
+        displayMultiSourceNews(japan);
+
+        saveNewsData(mergeNewsData(
+          convertToNewsDataSimple(hnReddit),
+          convertBlogToNewsDataSimple(blogs),
+          convertMultiSourceToNewsDataSimple(japan)
+        ));
+      }
     }
   } catch (error) {
     console.error("Error running pipeline:", error);
