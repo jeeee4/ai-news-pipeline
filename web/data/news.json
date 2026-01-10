@@ -1,467 +1,453 @@
 {
-  "generatedAt": "2026-01-09T01:54:21.397Z",
+  "generatedAt": "2026-01-10T01:50:07.006Z",
   "articles": [
     {
-      "id": 46545077,
-      "title": "Google AI Studio is now sponsoring Tailwind CSS",
-      "url": "https://twitter.com/OfficialLoganK/status/2009339263251566902",
-      "summary": "記事の本文が正常に読み込まれていないため、詳細な内容を把握できませんが、タイトルからGoogle AI StudioがTailwind CSSのスポンサーになったことが示されています。",
+      "id": 46557057,
+      "title": "My article on why AI is great (or terrible) or how to use it",
+      "url": "https://matthewrocklin.com/ai-zealotry/",
+      "summary": "シニアエンジニアがAI開発ツール（Claude Code）を使った経験を基に、AIがプログラミングを楽しく効率的にする一方で、適切な使い方が重要であることを論じた記事。抽象化レベルを上げて単純作業を避け、Hooksなどの構造化手法でAIを効果的に活用する方法を提案している。",
       "keyPoints": [
-        "Google AI StudioがTailwind CSSをスポンサーシップ",
-        "記事の詳細内容が取得できない状態",
-        "プライバシー関連の拡張機能が原因の可能性"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-01-09T01:50:20.220Z"
-    },
-    {
-      "id": 46545620,
-      "title": "How to Code Claude Code in 200 Lines of Code",
-      "url": "https://www.mihaileric.com/The-Emperor-Has-No-Clothes/",
-      "summary": "記事では、AI コーディングアシスタントの仕組みを解説し、わずか200行のPythonコードでClaude風のコーディングエージェントを自作する方法を紹介している。ファイル読み込み、一覧表示、編集の3つの基本ツールでLLMとの対話型システムを構築できることを実証している。",
-      "keyPoints": [
-        "AIコーディングアシスタントの核心は、LLMとツールボックスを使った単純な対話ループである",
-        "ファイル読み込み、一覧表示、編集の3つの基本ツールで十分に機能するコーディングエージェントが作れる",
-        "200行程度の簡潔なPythonコードで、Claude Codeのような高度なツールと同様の機能を実現可能"
+        "経験豊富な開発者こそAIを活用すべきで、思考・実験・執筆により集中でき、フロントエンドなど新領域にも挑戦できる",
+        "AIの課題（低品質コード生成、理解不足、非人間的なワークフロー）は認識しつつも、適切な使い方で利益を最大化できる",
+        "単純作業を避けて抽象化レベルを上げ、HooksなどでAIエージェントに構造を与えることが効果的な活用の鍵"
       ],
       "category": "AI/ML",
       "sentiment": "positive",
-      "createdAt": "2026-01-09T01:50:26.878Z"
+      "createdAt": "2026-01-10T01:46:39.200Z"
     },
     {
-      "id": 46542036,
-      "title": "AI coding assistants are getting worse?",
-      "url": "https://spectrum.ieee.org/ai-coding-degrades",
-      "summary": "AIコーディングアシスタントの新しいモデルが、静かで致命的な失敗モードを起こしやすくなっているという問題が指摘されています。これは開発者にとって重要な懸念事項となっています。",
+      "id": 46525410,
+      "title": "Ragdoll Mayhem Maker – a physics-based level editor for my indie game",
+      "url": "https://ragdollmayhemmaker.com/",
+      "summary": "「Ragdoll Mayhem Maker」は物理エンジンベースのレベルエディター機能を持つインディーゲームです。プレイヤーは直感的なエディターで独自のレベルを作成し、ラグドール物理を使った破壊的なゲームプレイを楽しめます。",
       "keyPoints": [
-        "新しいAIコーディングアシスタントモデルがより多くの問題を抱えている",
-        "「静かで致命的な失敗モード」が増加傾向にある",
-        "従来モデルよりも信頼性が低下している可能性"
+        "強力で直感的なレベルエディターでカスタムレベルを作成可能",
+        "物理ベースの破壊とラグドール動作による独特なゲームプレイ",
+        "グローバルコミュニティとのレベル共有・評価システム"
+      ],
+      "category": "Other",
+      "sentiment": "positive",
+      "createdAt": "2026-01-10T01:46:44.964Z"
+    },
+    {
+      "id": 1385142122,
+      "title": "OpenAI and SoftBank Group partner with SB Energy",
+      "url": "https://openai.com/index/stargate-sb-energy-partnership",
+      "summary": "OpenAIとソフトバンクグループがSB Energyに各5億ドル（計10億ドル）を投資し、米国でのAIデータセンター開発を推進する戦略的パートナーシップを発表。OpenAIは1.2GWのデータセンターリース契約を締結し、2026年に最初の施設が稼働予定。",
+      "keyPoints": [
+        "OpenAIとソフトバンクが5,000億ドルのStargateプロジェクトの一環としてSB Energyに計10億ドル投資",
+        "OpenAIがミラム郡に1.2GW規模のデータセンター建設・運営でSB Energyを選定",
+        "2026年に最初のデータセンター施設が稼働開始予定で、数千の雇用創出を見込む"
+      ],
+      "category": "AI",
+      "sentiment": "positive",
+      "createdAt": "2026-01-10T01:46:53.203Z"
+    },
+    {
+      "id": 2071868843,
+      "title": "Datadog uses Codex for system-level code review",
+      "url": "https://openai.com/index/datadog",
+      "summary": "Datadogが監視プラットフォームの信頼性向上のため、OpenAIのCodexをコードレビューに導入。システム全体の文脈を理解し、従来のツールでは見逃していた22%のインシデントを事前検出できることを実証。",
+      "keyPoints": [
+        "Codexは過去のインシデント分析で22%のケースで有効なフィードバックを提供し、人間のレビュアーが見逃したリスクを発見",
+        "従来の静的解析ツールと異なり、システム全体の文脈を理解してモジュール間の相互作用や下流への影響を指摘",
+        "エンジニアから「最も優秀なエンジニアが無限の時間をかけてバグを見つけてくれる」と評価される高品質なフィードバックを実現"
       ],
       "category": "AI/ML",
-      "sentiment": "negative",
-      "createdAt": "2026-01-09T01:50:32.240Z"
+      "sentiment": "positive",
+      "createdAt": "2026-01-10T01:47:00.411Z"
     },
     {
       "id": 361712171,
       "title": "Netomi’s lessons for scaling agentic systems into the enterprise",
       "url": "https://openai.com/index/netomi",
-      "summary": "NetomiはOpenAI GPT-4.1とGPT-5.2を組み合わせて、企業向けのAIエージェントシステムを構築し、Fortune 500企業に安全で予測可能なエージェント型システムを大規模展開するための設計指針を提供している。",
+      "summary": "Netomiは、OpenAI GPT-4.1とGPT-5.2を活用して、企業向けのAIエージェントシステムを大規模に展開する方法論を確立した。Fortune 500企業に対して、複雑なワークフローを処理し、リアルタイムで信頼性の高いサービスを提供している。",
       "keyPoints": [
-        "GPT-4.1を低遅延・高信頼性のツール使用に、GPT-5.2を深い推論・多段階計画に使い分ける統合アーキテクチャ",
-        "理想化されたワークフローではなく、複数システム間の複雑で曖昧な実世界の業務フローに対応する設計",
-        "企業レベルの遅延要件を満たすため、逐次処理ではなく並列処理によるシステム設計"
+        "実際の企業環境の複雑性に対応するため、GPT-4.1による高速ツール呼び出しとGPT-5.2による多段階推論を組み合わせたアーキテクチャを採用",
+        "航空業界などの複雑な業務では、単一のリクエストが複数のシステム（予約エンジン、CRM、決済など）にまたがるため、状況認識が重要",
+        "企業レベルの低遅延要求に対応するため、逐次処理ではなく並列処理アーキテクチャを設計し、ユーザーの離脱を防ぐ"
       ],
       "category": "AI/ML",
       "sentiment": "positive",
-      "createdAt": "2026-01-09T01:50:42.142Z"
+      "createdAt": "2026-01-10T01:47:07.917Z"
     },
     {
       "id": 1284590097,
       "title": "OpenAI for Healthcare",
       "url": "https://openai.com/index/openai-for-healthcare",
-      "summary": "OpenAIがHIPAA準拠のヘルスケア専用AI製品群「OpenAI for Healthcare」を発表。ChatGPT for Healthcareを中心に、医療機関の診療品質向上と管理業務削減を支援し、既に複数の大手医療機関で導入が開始されている。",
+      "summary": "OpenAIが医療機関向けに特化したAI製品群「OpenAI for Healthcare」を発表。HIPAA準拠のChatGPT for Healthcareと、開発者向けのAPI製品を提供し、医療現場での管理業務軽減と患者ケア向上を支援する。",
       "keyPoints": [
-        "HIPAA準拠のセキュアなAI環境で、医療機関がスケーラブルにAIを活用可能",
-        "GPT-5ベースの医療特化モデルと、数百万の査読済み研究論文からの根拠に基づく回答機能",
-        "AdventHealthやBoston Children's Hospitalなど主要医療機関での導入が既に開始"
+        "HIPAA準拠でセキュアな医療専用ChatGPTを提供、主要病院で既に導入開始",
+        "医療エビデンスに基づく回答と明確な引用機能により、臨床判断を支援",
+        "GPT-5.2ベースの医療最適化モデルで、260人以上の医師による評価を実施"
       ],
       "category": "AI/ML",
       "sentiment": "positive",
-      "createdAt": "2026-01-09T01:50:50.232Z"
+      "createdAt": "2026-01-10T01:47:14.623Z"
     },
     {
       "id": 1229426943,
       "title": "How Tolan builds voice-first AI with GPT-5.1",
       "url": "https://openai.com/index/tolan",
-      "summary": "Tolanは音声ファーストのAIコンパニオンアプリで、GPT-5.1を活用して低遅延で一貫した個性を持つ自然な会話を実現。リアルタイムのコンテキスト管理システムと高速メモリ検索により、長期間にわたる非線形な対話をサポートしている。",
+      "summary": "Tolanは音声ファーストのAIコンパニオンアプリで、GPT-5.1を活用して低遅延・正確なコンテキスト管理・安定したキャラクター性を実現している。リアルタイムでコンテキストを再構築し、高速ベクトルデータベースを使った記憶システムで自然な音声対話を可能にしている。",
       "keyPoints": [
-        "GPT-5.1の導入により音声開始時間を0.7秒短縮し、会話の流れを大幅に改善",
-        "キャッシュではなく毎回コンテキストを再構築することで、話題の急な変化に対応",
-        "50ms以下の高速ベクターデータベースを使用して感情的な「雰囲気」も含むメモリシステムを構築"
-      ],
-      "category": "AI/ML/LLM",
-      "sentiment": "positive",
-      "createdAt": "2026-01-09T01:50:57.160Z"
-    },
-    {
-      "id": 1860307204,
-      "title": "Introducing ChatGPT Health ",
-      "url": "https://openai.com/index/introducing-chatgpt-health",
-      "summary": "OpenAIが健康とウェルネスに特化したChatGPT Healthを発表。電子健康記録やApple HealthCareなどのウェルネスアプリと安全に接続し、個人の健康情報に基づいたパーソナライズされた健康相談を提供する。医療従事者によるケアを補完するものとして位置づけられている。",
-      "keyPoints": [
-        "専用の暗号化と分離により健康情報をプライベートに保護し、基盤モデルの学習には使用しない",
-        "電子健康記録やApple HealthCare、MyFitnessPalなどのウェルネスアプリと安全に連携可能",
-        "260人以上の医師と2年以上協働して開発され、医療従事者への受診を適切に促すよう設計"
+        "GPT-5.1により音声応答の開始時間を0.7秒以上短縮し、会話の流れを大幅に改善",
+        "キャッシュではなく毎回コンテキストを再構築することで、話題の急な変化にリアルタイムで対応",
+        "高速ベクトルデータベース（Turbopuffer）を使用し50ms以下での記憶検索を実現"
       ],
       "category": "AI/ML",
       "sentiment": "positive",
-      "createdAt": "2026-01-09T01:51:04.593Z"
+      "createdAt": "2026-01-10T01:47:20.593Z"
     },
     {
-      "id": 618428176,
-      "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
-      "url": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
-      "summary": "NVIDIAがCosmos Reason 2を発表。これは物理AIのための高度な推論機能を持つオープンなビジョン言語モデルで、ロボットやAIエージェントが人間のように物理世界を理解し行動できるよう設計されている。",
+      "id": "ledge-6-1768009644225",
+      "title": "NVIDIA、次世代AI基盤「Rubin」をCESで正式発表──GPU「Rubin」と新CPU「Vera」を含む6チップ構成、推論コストは最大10分の1に",
+      "url": "https://ledge.ai/articles/grok_image_editing_nonconsensual_sexualized_images",
+      "summary": "イーロン・マスクのAI「Grok」の画像編集機能が、写真を勝手にビキニ姿に変換する機能で炎上している。未成年者を含む不適切な画像生成が問題となり、各国で規制圧力が高まっている。",
       "keyPoints": [
-        "Physical AI BenchとPhysical Reasoningリーダーボードで#1のオープンモデルとして評価",
-        "時空間理解の向上、25.6万トークンの長文対応、OCRサポートなど多様な機能を搭載",
-        "動画解析、データアノテーション、ロボット計画など幅広い用途でSalesforceやUberが活用"
+        "Grokの画像編集機能が写真を勝手にビキニ姿に変換",
+        "未成年者を含む不適切な画像生成が問題視",
+        "各国で規制圧力が高まっている状況"
+      ],
+      "category": "AI/ML",
+      "sentiment": "negative",
+      "createdAt": "2026-01-10T01:47:30.412Z"
+    },
+    {
+      "id": "ledge-1-1768009644224",
+      "title": "NVIDIA、次世代AI基盤「Rubin」をCESで正式発表──GPU「Rubin」と新CPU「Vera」を含む6チップ構成、推論コストは最大10分の1に",
+      "url": "https://ledge.ai/articles/nvidia_rubin_vera_ces_2026",
+      "summary": "NVIDIAがCES 2026で次世代AI基盤「Rubin」を正式発表。GPU「Rubin」と新CPU「Vera」を含む6チップ構成で、推論コストを最大10分の1に削減する革新的なAIプラットフォーム。",
+      "keyPoints": [
+        "GPU「Rubin」と新CPU「Vera」を含む6チップ構成の次世代AI基盤",
+        "推論コストを最大10分の1に大幅削減",
+        "CES 2026での正式発表により、AI計算効率の大幅向上を実現"
       ],
       "category": "AI/ML",
       "sentiment": "positive",
-      "createdAt": "2026-01-09T01:51:10.695Z"
+      "createdAt": "2026-01-10T01:47:36.555Z"
     },
     {
-      "id": "ledge-6-1767923471033",
-      "title": "【AIの歴史年表】AIはダートマス会議から数えて2026年で70周年！起源から生成AI革命までのAI全史を振り返る",
-      "url": "https://ledge.ai/articles/neurips_2025_best_paper_gated_attention",
-      "summary": "AI研究の最高峰会議「NeurIPS 2025」で、アリババQwenチームが最優秀論文賞を受賞。Transformerの根幹技術「Attention」を改良した「Gated Attention」を提案した。",
+      "id": "ledge-3-1768009644224",
+      "title": "NVIDIA、次世代AI基盤「Rubin」をCESで正式発表──GPU「Rubin」と新CPU「Vera」を含む6チップ構成、推論コストは最大10分の1に",
+      "url": "https://ledge.ai/articles/amd_ces2026_yotta_ai_helios_mi455x_ryzen_ai_400",
+      "summary": "NVIDIAがCESで次世代AI基盤「Rubin」を正式発表し、GPU「Rubin」と新CPU「Vera」を含む6チップ構成で推論コストを最大10分の1に削減すると発表。一方、記事内容はAMDの「Helios」基盤についても言及している。",
       "keyPoints": [
-        "NeurIPS 2025でアリババQwenチームが最優秀論文賞を受賞",
-        "Transformerの核となる「Attention」メカニズムを見直し",
-        "新しい「Gated Attention」手法を提案"
-      ],
-      "category": "AI/ML",
-      "sentiment": "positive",
-      "createdAt": "2026-01-09T01:51:17.227Z"
-    },
-    {
-      "id": "ledge-1-1767923471032",
-      "title": "【AIの歴史年表】AIはダートマス会議から数えて2026年で70周年！起源から生成AI革命までのAI全史を振り返る",
-      "url": "https://ledge.ai/articles/70year_history_of_ai_from_the_dartmouth_conference",
-      "summary": "AI技術の歴史を1956年のダートマス会議から現在の生成AI革命まで振り返る記事。2026年でAIは70周年を迎えることを記念して、AIの起源から現在までの発展の軌跡を年表形式で整理している。",
-      "keyPoints": [
-        "1956年のダートマス会議がAIの起点とされ、2026年で70周年を迎える",
-        "AI技術の発展を起源から生成AI革命まで時系列で整理",
-        "現在の生成AIブームに至るまでの技術進歩の歴史を振り返る内容"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-01-09T01:51:23.536Z"
-    },
-    {
-      "id": "ledge-3-1767923471032",
-      "title": "【AIの歴史年表】AIはダートマス会議から数えて2026年で70周年！起源から生成AI革命までのAI全史を振り返る",
-      "url": "https://ledge.ai/articles/jdla_new_year_message_2026",
-      "summary": "ディープラーニング協会の松尾豊理事長が2026年の年頭所感で、生成AIが研究開発段階から実用化・実装フェーズへ移行することを示した。AIは1956年のダートマス会議から数えて2026年で70周年を迎える。",
-      "keyPoints": [
-        "生成AIが実装フェーズへ移行し、実用化が本格化する段階に入った",
-        "AIは1956年のダートマス会議から2026年で70周年の節目を迎える",
-        "松尾豊理事長が2026年のAI論点として実装段階の重要性を強調"
-      ],
-      "category": "AI/ML",
-      "sentiment": "positive",
-      "createdAt": "2026-01-09T01:51:32.455Z"
-    },
-    {
-      "id": "ledge-4-1767923471032",
-      "title": "【AIの歴史年表】AIはダートマス会議から数えて2026年で70周年！起源から生成AI革命までのAI全史を振り返る",
-      "url": "https://ledge.ai/articles/stanford_hai_ai_2026_evaluation_phase",
-      "summary": "スタンフォード大学HAI研究所が2026年のAI展望を発表し、AGI（汎用人工知能）の実現は当面来ず、AI投資バブルも終息すると予測。過剰期待の時代から実用性を重視する評価フェーズへの移行を示唆している。",
-      "keyPoints": [
-        "AGI（汎用人工知能）は2026年時点では実現しないとの見解",
-        "AI投資バブルの終息と過剰期待時代の終了を予測",
-        "AIは評価・実用性重視のフェーズへ移行する"
-      ],
-      "category": "AI/ML",
-      "sentiment": "neutral",
-      "createdAt": "2026-01-09T01:51:41.137Z"
-    },
-    {
-      "id": "ledge-5-1767923471032",
-      "title": "【AIの歴史年表】AIはダートマス会議から数えて2026年で70周年！起源から生成AI革命までのAI全史を振り返る",
-      "url": "https://ledge.ai/articles/google_research_2025_ai_research_breakthroughs_review",
-      "summary": "Googleが2025年の研究開発総括を公開し、AIが「ツールからユーティリティへ」と進化していることを報告。8つの分野でのブレークスルーを整理し、AIの実用化段階への移行を示している。",
-      "keyPoints": [
-        "GoogleがAI研究開発の2025年総括レポートを発表",
-        "AIが単なるツールから日常的なユーティリティへと進化",
-        "8つの主要分野でのブレークスルーが達成された"
-      ],
-      "category": "AI/ML",
-      "sentiment": "positive",
-      "createdAt": "2026-01-09T01:51:47.224Z"
-    },
-    {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2141624",
-      "title": "【個人開発】「寂しいから」という理由で、18歳の高専生が自作LLMで最強の相棒（J.A.R.V.I.S.）を錬成し始めた記録#3",
-      "url": "https://qiita.com/afmi21/items/69f7b0008fbd00989817",
-      "summary": "18歳の高専生が映画『アイアンマン』のJ.A.R.V.I.S.のような相棒AIを完全ローカル環境で開発しようとしたが、PCのスペック不足により応答速度が遅く、最終的にGroqクラウドサービスを使用する決断をした開発記録。",
-      "keyPoints": [
-        "完全ローカルでのAI開発を目指したが、GPU不足により応答速度が数秒かかる問題が発生",
-        "プライバシー重視の信念を一時的に捨て、Groqクラウドサービスに移行することで爆速の会話体験を実現",
-        "ハードウェア制約による戦略的撤退として位置づけ、まずソフトウェア面を完成させる方針に転換"
-      ],
-      "category": "LLM",
-      "sentiment": "neutral",
-      "createdAt": "2026-01-09T01:51:54.528Z"
-    },
-    {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2141621",
-      "title": "AIコードレビューツール「CodeRabbit」で開発効率を劇的に向上させる",
-      "url": "https://qiita.com/AppTime-wada/items/caf48167b6a751304562",
-      "summary": "CodeRabbitは、AIを活用したコードレビュー支援ツールで、プルリクエストに対して自動的にレビューを実行し、初回レビュー時間を平均17時間から8秒に短縮する劇的な効果を実現します。行単位の詳細レビュー、自動要約、シーケンス図生成、チャット機能など豊富な機能により、開発効率と品質の両方を向上させます。",
-      "keyPoints": [
-        "初回レビューまでの時間を17時間から8秒に短縮し、PR作成からマージまでの時間を約24%短縮",
-        "行単位の詳細コードレビュー、PR概要の自動生成、シーケンス図の自動生成、チャット機能などを提供",
-        "YAMLファイルによるカスタマイズが可能で、多様なプログラミング言語とGitHub/GitLabに対応"
+        "NVIDIAが次世代AI基盤「Rubin」をCESで発表",
+        "GPU「Rubin」とCPU「Vera」を含む6チップ構成",
+        "推論コストを最大10分の1に削減"
       ],
       "category": "AI",
       "sentiment": "positive",
-      "createdAt": "2026-01-09T01:52:01.492Z"
+      "createdAt": "2026-01-10T01:47:41.678Z"
     },
     {
-      "id": "itmedia-0",
-      "title": "Microsoft、Copilot内で決済まで行える「Copilot Checkout」発表",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2601/09/news067.html",
-      "summary": "Microsoftが、AIアシスタントCopilot内で商品購入から決済まで完結できる新機能「Copilot Checkout」を発表。PayPal、Shopify、Stripeと提携し、ユーザーはCopilot上で商品を検索・購入できるようになる。",
+      "id": "ledge-4-1768009644224",
+      "title": "NVIDIA、次世代AI基盤「Rubin」をCESで正式発表──GPU「Rubin」と新CPU「Vera」を含む6チップ構成、推論コストは最大10分の1に",
+      "url": "https://ledge.ai/articles/rakuten_ichiba_ai_concierge_rakuten_ai_launch",
+      "summary": "楽天市場が5億点の商品群に対応するエージェント型AI「Rakuten AI」を導入し、AIコンシェルジュサービスの提供を開始。顧客の商品検索や購入体験の向上を図る。",
       "keyPoints": [
-        "Copilot内で商品検索から決済まで一貫して行える「Copilot Checkout」機能を提供",
-        "PayPal、Shopify、Stripeなどの決済パートナーと提携し、複数の販売店舗で利用可能",
-        "OpenAIのChatGPTも同様の「Instant Checkout」機能を発表し、AI購買体験の競争が激化"
+        "楽天市場に5億点の商品に対応するAIコンシェルジュを導入",
+        "エージェント型AI「Rakuten AI」によるパーソナライズされた商品提案",
+        "ECプラットフォームでのAI活用による顧客体験向上の事例"
       ],
       "category": "AI",
       "sentiment": "positive",
-      "createdAt": "2026-01-09T01:52:09.032Z"
+      "createdAt": "2026-01-10T01:47:46.618Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2141600",
-      "title": "大規模言語モデルのファインチューニング",
-      "url": "https://qiita.com/mihosato/items/d559286cdc7c51ced123",
-      "summary": "大規模言語モデル（LLM）のファインチューニングについて、従来の特定タスク特化型から汎用的な指示従い能力の獲得へと目的が変化していることを解説。Parameter Efficient Fine-Tuning（PEFT）やLoRAなどの効率的な学習手法も紹介している。",
+      "id": "ledge-5-1768009644224",
+      "title": "NVIDIA、次世代AI基盤「Rubin」をCESで正式発表──GPU「Rubin」と新CPU「Vera」を含む6チップ構成、推論コストは最大10分の1に",
+      "url": "https://ledge.ai/articles/nvidia_physical_ai_autonomous_driving_integrated_models",
+      "summary": "NVIDIAがCESで次世代AI基盤「Rubin」を正式発表。GPU「Rubin」と新CPU「Vera」を含む6チップ構成で、推論コストを最大10分の1に削減する技術を発表した。",
       "keyPoints": [
-        "LLMのファインチューニングは特定タスクの精度向上ではなく、指示に従う汎用的な能力獲得が目的",
-        "Instruction Tuningにより自然言語の指示文を用いてZero/Few-shot性能を向上",
-        "PEFTやLoRAなど計算効率的な手法により大規模モデルの実用的な調整が可能"
-      ],
-      "category": "LLM",
-      "sentiment": "neutral",
-      "createdAt": "2026-01-09T01:52:15.976Z"
-    },
-    {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2141598",
-      "title": "プログラミング雑記 2026年1月9日",
-      "url": "https://qiita.com/ishisaka/items/411e7deac91742939ba3",
-      "summary": "プログラミング関連の最新トピックをまとめた記事で、C#が2025年のプログラミング言語オブザイヤーに選ばれたこと、LLMを活用したコード品質改善やインフラ運用の新手法、VS Codeの最新機能などが紹介されています。",
-      "keyPoints": [
-        "C#がTiobe Indexで2025年のプログラミング言語オブザイヤーに選ばれ、人気が大きく伸長",
-        "LLMによるコード品質とリファクタリング性能の関係が定量的に検証され、コード品質が高いほどAIツールの破綻率が低下することが判明",
-        "VS Code 1.108でCopilotエージェント機能が強化され、Agent Skillsやターミナル改善などの新機能が追加"
-      ],
-      "category": "AI/ML",
-      "sentiment": "positive",
-      "createdAt": "2026-01-09T01:52:22.559Z"
-    },
-    {
-      "id": "itmedia-1",
-      "title": "Gmailに「Gemini 3」搭載の大型アップデート、情報の要約や「AI Inbox」が登場",
-      "url": "https://www.itmedia.co.jp/news/articles/2601/09/news066.html",
-      "summary": "GoogleがGmailにGemini 3を搭載した大型アップデートを発表。メール内容のAI要約機能「AI Overview」、パーソナライズされた返信作成支援「Help Me Write」の進化版、重要メールを自動抽出する「AI Inbox」の3つの新機能が追加される。",
-      "keyPoints": [
-        "AI Overviewにより複雑なメール内容を自然言語で質問・要約できる機能を提供",
-        "Help Me Writeが過去のやり取りを学習してパーソナライズされた返信を自動作成",
-        "AI Inboxが重要度の高いメールを自動判別してハイライト表示する機能を搭載"
-      ],
-      "category": "AI/ML",
-      "sentiment": "positive",
-      "createdAt": "2026-01-09T01:52:29.418Z"
-    },
-    {
-      "id": "itmedia-2",
-      "title": "現実世界で動き始めたAI――自動運転にロボット、「フィジカルAI」に突き進むNVIDIAのビジョン",
-      "url": "https://www.itmedia.co.jp/news/articles/2601/09/news065.html",
-      "summary": "NVIDIAがCES 2026で新AI技術を発表。現実世界で動作するAIエージェントやロボット技術「フィジカルAI」への取り組みを強化し、ローカルとクラウドを組み合わせた「ハイブリッドAI」システムを推進している。",
-      "keyPoints": [
-        "NVIDIAが新AIスパコン「Vera Rubin」と自律運転AI「Alpamayo」を発表",
-        "ローカルモデルとクラウドモデルを組み合わせた「ハイブリッドクラウド」システムを展開",
-        "オープンソースロボット「Reachy mini」を使った実世界でのAIエージェント実演を披露"
-      ],
-      "category": "AI/ML",
-      "sentiment": "positive",
-      "createdAt": "2026-01-09T01:52:36.900Z"
-    },
-    {
-      "id": "itmedia-3",
-      "title": "NEC社長に聞く「フィジカルAI」の勝算　「AI・DX事業で1兆円」への手応えと課題は？",
-      "url": "https://www.itmedia.co.jp/business/articles/2601/09/news026.html",
-      "summary": "NEC社長の森田隆之氏が、同社の「フィジカルAI」戦略について語った。2025年にAI・DX事業で売上高1兆円を目指す目標に対し、自社開発のDXプラットフォーム「BluStellar」を核として、顔認証技術などの強みを活かした展開を進めている。",
-      "keyPoints": [
-        "NECは2025年にAI・DX事業で売上高1兆円の目標を掲げており、前年比15%増の6420億円から大幅な成長を目指している",
-        "自社開発のDXプラットフォーム「BluStellar」を活用し、まず社内でクライアントとして実証を行い、その知見を顧客に展開する戦略",
-        "顔認証技術などの「本人確認」分野での強みを活かし、フィジカル（物理）とデジタル技術を組み合わせた「フィジカルAI」で差別化を図る"
-      ],
-      "category": "AI/ML",
-      "sentiment": "positive",
-      "createdAt": "2026-01-09T01:52:45.219Z"
-    },
-    {
-      "id": "itmedia-4",
-      "title": "NTNがハブベアリング設計用システムにAI導入　解析時間が10分の1以下に",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2601/09/news046.html",
-      "summary": "NTNが第3世代ハブベアリング設計システム「ABICS」にAI技術を導入し、従来比で解析時間を10分の1以下に短縮することに成功。機械学習技術により設計プロセスの効率化と顧客の開発期間短縮を実現。",
-      "keyPoints": [
-        "FEM解析の一部を従来の10分の1以下の時間で予測可能になり、設計効率が大幅向上",
-        "Lasso回帰とベイズ最適化を組み合わせた機械学習技術により高精度な解析結果を実現",
-        "2029年度までにABICSで全てのFEM解析を自動化し、設計工数を90%削減する目標を設定"
-      ],
-      "category": "AI/ML",
-      "sentiment": "positive",
-      "createdAt": "2026-01-09T01:52:52.498Z"
-    },
-    {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2140660",
-      "title": "オンプレ×Windowsアプリ開発でもCopilotは効く：ローカル編集の安心感と手順",
-      "url": "https://qiita.com/spc_ksudoh/items/e796a6872a5ca85ad092",
-      "summary": "オンプレミスのWindowsアプリ開発環境でもGitHub Copilotが効果的に活用できることを解説。Visual StudioとVS Codeそれぞれの特徴と、AIコーディングを成功させるための重要なポイントを紹介している。",
-      "keyPoints": [
-        "VS CodeはDIY型で軽量だがビルドツール等の初期設定が必要、Visual Studioはデバッガ統合が強みで全部入り",
-        "テストやコンパイラなどコードを検証できる仕組みとセットで使うことが重要",
-        "実装前に設計メモ・ドキュメントを書かせることで品質が向上"
+        "次世代AI基盤「Rubin」をCESで正式発表",
+        "GPU「Rubin」と新CPU「Vera」を含む6チップ構成",
+        "推論コストを最大10分の1に削減可能"
       ],
       "category": "AI",
       "sentiment": "positive",
-      "createdAt": "2026-01-09T01:52:59.828Z"
+      "createdAt": "2026-01-10T01:47:51.099Z"
     },
     {
-      "id": "aishinbun-0-1767923472427",
-      "title": "2026年、AIは本当に「賢くなった」のか",
-      "url": "https://community.exawizards.com/aishinbun/news-2026-1-7/",
-      "summary": "2026年時点でAIのIQは142（天才レベル）に達し、74%の知識労働タスクで専門家レベルの性能を示しているが、AGI到達については知能の定義や企業契約の問題で議論が続いている。現在の課題はAI能力の向上よりも、企業側の活用方法の改善と継続学習能力の実装にある。",
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2141988",
+      "title": "2026/01/10 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+      "url": "https://qiita.com/ennagara128/items/a4ae568f2e136524ae7c",
+      "summary": "Qiitaのトレンド記事を毎朝7時にAIポッドキャストで配信するサービスの紹介。Web認証、ネットワーク技術、プログラミング言語、AI開発ツールなど幅広い技術記事が取り上げられている。",
       "keyPoints": [
-        "GPT-5.2 ProがIQ142を記録し、74%の知識労働タスクで専門家と同等以上の評価を獲得",
-        "AGI論争の背景には知能の定義の違いとOpenAI-Microsoft間の契約問題が存在",
-        "AI活用の二極化が進み、コンテキストエンジニアリングができる企業との格差が拡大、継続学習能力が次の重要な技術として注目されている"
-      ],
-      "category": "AI/ML/LLM",
-      "sentiment": "neutral",
-      "createdAt": "2026-01-09T01:53:10.562Z"
-    },
-    {
-      "id": "aishinbun-1-1767923472427",
-      "title": "「AGIは実現したということで、次に行こう」",
-      "url": "https://community.exawizards.com/aishinbun/news-12-27-2025/",
-      "summary": "OpenAIのSam Altman CEOが、AGI（汎用人工知能）は既に達成されたとして議論を終了し、次はASI（超知能）の定義に移行することを提案。最新モデルGPT-5.2 ProがIQ142を達成し、専門的タスクの74%で人間と同等以上の成果を示したことを根拠としている。",
-      "keyPoints": [
-        "GPT-5.2 ProがIQテストで142点（天才レベル）を達成し、44職種の専門タスクで74%において人間と同等以上の結果を記録",
-        "AltmanはASIを「大統領や大企業CEO、大規模研究所の運営を人間より上手くこなせるAI」と定義し、AIが組織を運営する未来を描く",
-        "OpenAIとMicrosoftの契約期限が「AGI実現まで」となっており、AGI達成宣言により契約交渉を有利に進めたい思惑が背景にある可能性"
-      ],
-      "category": "AI/ML/LLM",
-      "sentiment": "positive",
-      "createdAt": "2026-01-09T01:53:20.254Z"
-    },
-    {
-      "id": "aishinbun-2-1767923472427",
-      "title": "AIインフラは宇宙へ",
-      "url": "https://community.exawizards.com/aishinbun/news-12-22-2025/",
-      "summary": "AIモデルの巨大化により電力不足が深刻化する中、豊富な太陽光エネルギーと冷却環境を求めて宇宙にAIデータセンターを建設する計画が各社で進行中。イーロン・マスク氏とNvidiaが先行し、GoogleやAmazonも追随している。",
-      "keyPoints": [
-        "AIの電力需要増加により地上データセンターが限界に達し、宇宙の無限の太陽光と冷却環境が注目されている",
-        "マスク氏のSpaceXとNvidiaが連携し、年間100GWの発電能力追加を計画、5年で米国の地上発電量を超える規模",
-        "米中間の競争が激化しており、中国が先行して12機のAI衛星を打ち上げたが、技術面では米国が優勢"
-      ],
-      "category": "AI",
-      "sentiment": "positive",
-      "createdAt": "2026-01-09T01:53:28.818Z"
-    },
-    {
-      "id": "aishinbun-3-1767923472427",
-      "title": "Google優位論は本当か？──Gavin Baker氏の主張",
-      "url": "https://community.exawizards.com/aishinbun/news-12-16-2025/",
-      "summary": "投資家Gavin Baker氏は、GoogleのGemini3によるAI業界での優位性は一時的であり、NVIDIAの次世代半導体Blackwellの出荷遅れによる隙を突いたものに過ぎないと主張している。Blackwell世代の半導体が普及すれば、GoogleのTPUの優位性は失われ、特にx.AIが最初にその恩恵を受ける可能性があるとしている。",
-      "keyPoints": [
-        "GoogleのTPUによる優位性はNVIDIAのBlackwell半導体出荷遅れによる一時的なものとBaker氏が分析",
-        "Blackwell半導体は前世代Hopperの20万基接続から大幅に拡張可能で、コスパでもTPUを上回る見込み",
-        "x.AIがデータセンター構築の迅速性により、Blackwell時代のAIモデル性能向上を最初に実現する可能性"
-      ],
-      "category": "AI/ML",
-      "sentiment": "neutral",
-      "createdAt": "2026-01-09T01:53:37.289Z"
-    },
-    {
-      "id": "aishinbun-4-1767923472428",
-      "title": "想定外だった2025年のAI進化。万能モデル神話からエージェント元年まで",
-      "url": "https://community.exawizards.com/aishinbun/news-12-1-2025/",
-      "summary": "2025年のAI業界では、万能モデル神話の崩壊、プロンプトエンジニアリングの複雑化、オープンソースとAPIの共存など、専門家の予想が次々と裏切られた。エージェント元年と呼ばれたものの、完全自律AIはまだ実現せず、用途特化型モデルとコンテキスト設計が重要になった。",
-      "keyPoints": [
-        "万能モデル神話が崩壊し、用途ごとに最適化された専門モデルのポートフォリオが主流となった",
-        "プロンプトエンジニアリングは消滅せず、むしろツールやデータ取得を含むコンテキストエンジニアリングへと進化した",
-        "完全自律型エージェントの実現には至らず、現実的な業務自動化に焦点が移った"
-      ],
-      "category": "AI/ML",
-      "sentiment": "neutral",
-      "createdAt": "2026-01-09T01:53:45.398Z"
-    },
-    {
-      "id": "ainow-144-1767923471587",
-      "title": "新着記事",
-      "url": "https://ainow.ai/2025/08/28/277802/",
-      "summary": "ZoomでAIを活用した議事録自動化の方法を解説した記事。Zoom純正機能とChatGPTやNottaなどの外部AIツールとの連携により、会議録作成の効率化と精度向上を実現する手法を紹介している。",
-      "keyPoints": [
-        "ZoomのAI Companionやフルトランスクリプト機能で自動議事録作成が可能",
-        "ChatGPTやNottaなど外部AIツールとの連携でより高度な要約・整形が実現",
-        "効率化のメリットがある一方、プライバシーやセキュリティ面での注意が必要"
-      ],
-      "category": "AI/ML",
-      "sentiment": "positive",
-      "createdAt": "2026-01-09T01:53:51.307Z"
-    },
-    {
-      "id": "ainow-72-1767923471579",
-      "title": "#DX",
-      "url": "https://ainow.ai/tag/dx",
-      "summary": "DX（デジタルトランスフォーメーション）に関する記事一覧で、建設業特化LLMの開発、DXの基本概念、AI活用事例、企業の取り組み事例などを幅広く紹介している。人手不足や業務効率化の課題をAI・デジタル技術で解決する取り組みが多数掲載されている。",
-      "keyPoints": [
-        "建設業界の人手不足と残業規制を大規模言語モデルで解決する取り組み",
-        "DXの基本概念からAI活用、IoT、テレワークまで幅広いデジタル化トピックをカバー",
-        "産業別のDX成功事例や支援サービス、補助金制度などの実践的な情報を提供"
+        "Qiitaトレンド記事のAIポッドキャスト配信サービス",
+        "Web開発・ネットワーク・プログラミングの基礎知識記事",
+        "GitHub Copilot、AWS、Python開発などの実践的な技術記事"
       ],
       "category": "Other",
       "sentiment": "positive",
-      "createdAt": "2026-01-09T01:53:58.289Z"
+      "createdAt": "2026-01-10T01:47:56.562Z"
     },
     {
-      "id": "ainow-109-1767923471584",
-      "title": "AINOW編集部",
-      "url": "https://ainow.ai/category/ainoweditor",
-      "summary": "AINOW編集部が運営するAI・テクノロジー情報サイトの記事一覧ページ。議事録AI、AIエージェント、AIイラスト生成など幅広いAI活用術に関する最新記事を多数掲載している。",
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2141985",
+      "title": "プログラミング雑記 2026年1月10日",
+      "url": "https://qiita.com/ishisaka/items/9632bb624e6983af9cc3",
+      "summary": "Go言語のメモリ管理技術、AI時代のアジャイル開発手法、エージェンティックコーディング、そしてGoogleの2025年AI製品発表など、プログラミングとAI技術の最新動向を包括的にまとめた技術雑記。特にAIを活用した開発プロセスの変革と実装手法に焦点を当てている。",
       "keyPoints": [
-        "議事録AI自動化ツールの活用法や選び方に関する記事が多数",
-        "AIエージェントやAIイラスト生成など実用的なAI活用法を解説",
-        "Google Meet、Zoom、Teamsなど各種プラットフォーム対応のAIツール情報を提供"
+        "Go言語のエスケープ解析とゼロアロケーション技術により、CPU使用率57%削減・メモリ使用量99%削減を実現した事例を紹介",
+        "生成AIの普及により開発スループットが向上する中、従来のスクラムに代わる2-3人+AIのスモールチーム構成による新しいアジャイル開発手法を提案",
+        "GoogleがGemini 3を活用したGmail AI機能やGoogle TV向けAI強化など、2025年の主要AI製品発表を総括"
       ],
-      "category": "AI",
+      "category": "AI/ML",
       "sentiment": "positive",
-      "createdAt": "2026-01-09T01:54:05.787Z"
+      "createdAt": "2026-01-10T01:48:04.464Z"
     },
     {
-      "id": "ainow-82-1767923471580",
-      "title": "#AI（人工知能）",
-      "url": "https://ainow.ai/tag/ai%ef%bc%88%e4%ba%ba%e5%b7%a5%e7%9f%a5%e8%83%bd%ef%bc%89",
-      "summary": "AI・人工知能に関する記事一覧ページで、AIアライメント、生成AIリテラシー、プロンプトエンジニアリング、大規模言語モデルなど最新のAI技術トピックを扱った記事が時系列で紹介されています。ChatGPT、OpenAI、RAG、ファインチューニングなど実用的なAI技術の解説記事が中心となっています。",
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2141983",
+      "title": "DGX SparkでOpen WebUI（Ollama統合版）を公式手順どおり動かしてハマった（IPv6問題）",
+      "url": "https://qiita.com/y_hoshiba/items/ee9ae09a5412052cb7bd",
+      "summary": "DGX Spark上でOpen WebUI（Ollama統合版）を公式手順通りに動かす際に、IPv6環境でのネットワーク問題によりモデルダウンロードが失敗する問題が発生し、--network hostオプションを使用することで解決した技術記事。",
       "keyPoints": [
-        "AIアライメントや生成AIリテラシーなど、AI導入における重要な概念を解説",
-        "ChatGPT、Llama2、RAGなど具体的なAI技術・ツールの活用方法を紹介",
-        "建設業や教育分野など、特定業界向けのAI活用事例を多数掲載"
+        "DGX SparkでOpen WebUIコンテナ起動時にIPv6環境でのネットワーク問題が発生",
+        "Ollamaのモデルダウンロード時にregistry.ollama.aiへの接続がタイムアウト",
+        "Docker bridgeネットワークの代わりに--network hostオプションを使用して問題を解決"
       ],
-      "category": "AI/ML/LLM",
+      "category": "AI/ML",
       "sentiment": "positive",
-      "createdAt": "2026-01-09T01:54:13.852Z"
+      "createdAt": "2026-01-10T01:48:09.906Z"
     },
     {
-      "id": "ainow-91-1767923471581",
-      "title": "#pickup2",
-      "url": "https://ainow.ai/tag/pickup2",
-      "summary": "AI・機械学習関連の記事一覧を紹介するWebサイトのピックアップコンテンツ。DX、機械学習、ディープラーニング、人工知能の基礎解説記事から、Google Meet議事録自動化ツールやオープンデータセットなどの実用的なコンテンツまで幅広く掲載している。",
+      "id": "itmedia-0",
+      "title": "データ活用「全社で成果」はわずか2.4％　Gartnerが明かす日本企業の現実",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2601/10/news010.html",
+      "summary": "Gartnerの調査によると、日本企業でデータ活用により「全社で成果」を得ている企業はわずか2.4％にとどまることが判明。DX推進が進む中、技術投資は行われているものの、全社的なビジネス成果に結びついていない現状が浮き彫りになった。",
       "keyPoints": [
-        "DX・AI・機械学習・ディープラーニングの基礎解説記事を提供",
-        "Google Meet議事録自動化ツールやデータセット100選などの実用的なコンテンツを紹介",
-        "AI映画紹介や人間とAIの能力比較など多角的なAI関連情報を発信"
+        "日本企業の97.6％がデータ活用で全社的な成果を得られていない深刻な状況",
+        "技術やツールへの投資は進んでいるが、人材への投資が不十分で成果に結びついていない",
+        "データ活用の成功には組織全体の戦略的人材育成とデータアナリティクスの統合が必要"
+      ],
+      "category": "Other",
+      "sentiment": "negative",
+      "createdAt": "2026-01-10T01:48:16.897Z"
+    },
+    {
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2141923",
+      "title": "AIでデータ分析-データ前処理(47)-特徴量抽出：時間帯区分の作成",
+      "url": "https://qiita.com/masato_y/items/8da814ca20d4c85db095",
+      "summary": "データ分析の前処理における時間帯区分の特徴量抽出作業を、従来のPython実装（10分）とGemini AI活用（1分）で比較検証した記事。AIを活用することで同等の結果を大幅に短時間で実現できることを実証している。",
+      "keyPoints": [
+        "Python実装では10分かかる時間帯区分作成がAI活用で1分に短縮",
+        "Gemini AIでビニング処理を含む特徴量抽出が可能",
+        "AIの適切な活用によりデータ分析の前処理が大幅に効率化"
+      ],
+      "category": "AI/ML",
+      "sentiment": "positive",
+      "createdAt": "2026-01-10T01:48:23.071Z"
+    },
+    {
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2141870",
+      "title": "0から始めるローカルLLM（導入～モデル検索、Pythonでの利用まで）",
+      "url": "https://qiita.com/pocokhc/items/2a7903ff7f0489a5b092",
+      "summary": "ローカルLLMの導入方法を解説した記事で、LM Studioのインストールから設定、モデル選択、Pythonでの利用まで網羅的に説明している。クラウドLLMの料金や制限を避けたい開発者向けの実用的なガイド。",
+      "keyPoints": [
+        "LM StudioというGUIツールを使ってローカルLLMを管理し、APIサーバとして利用可能",
+        "モデル選択時はGGUF形式を選び、パラメータ数（1B、7B、13B等）と量子化レベルを考慮してバランスを取る",
+        "PythonからはlitellmライブラリでLM StudioのAPIにアクセスして利用する"
+      ],
+      "category": "LLM",
+      "sentiment": "positive",
+      "createdAt": "2026-01-10T01:48:30.233Z"
+    },
+    {
+      "id": "itmedia-1",
+      "title": "「Grok、この女性をビキニにして」無料ユーザーは不可能に　X、AI画像編集を一部有料化",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2601/09/news105.html",
+      "summary": "XのAI「Grok」の画像生成・編集機能が一部有料化され、無料ユーザーは利用不可になりました。この変更は、日本で無断使用によるアイドルの写真加工などの問題が発生したことを受けた措置です。",
+      "keyPoints": [
+        "Grokの画像編集機能が有料プラン限定となり、無料ユーザーは利用不可",
+        "日本でアイドルの写真を無断で性的に加工する問題が発生したことが背景",
+        "X社は違法コンテンツ作成を防ぐための対策を強化"
       ],
       "category": "AI/ML",
       "sentiment": "neutral",
-      "createdAt": "2026-01-09T01:54:21.397Z"
+      "createdAt": "2026-01-10T01:48:36.903Z"
+    },
+    {
+      "id": "itmedia-2",
+      "title": "Cygames、画像生成AIのスペシャリストを募集　「サイゲのゲームをやりこんだ人物」など歓迎",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2601/09/news101.html",
+      "summary": "Cygamesが画像生成AIのスペシャリストを募集開始。同社のゲーム開発経験者やAI技術者を対象に、画像生成サービスの実装やモデル開発などを担当する人材を求めている。",
+      "keyPoints": [
+        "画像生成AIサービスの実装・評価・研究開発業務",
+        "Cygamesのゲームをやりこんだ経験者を歓迎条件に含む",
+        "ゲーム業界でのAI活用が本格化している流れの一環"
+      ],
+      "category": "AI/ML",
+      "sentiment": "positive",
+      "createdAt": "2026-01-10T01:48:42.521Z"
+    },
+    {
+      "id": "itmedia-3",
+      "title": "Cygames、“AI特化”の子会社設立　「クリエイターが安心・安全に利用できるAI技術」の開発目指す",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2601/09/news080.html",
+      "summary": "Cygamesが1月9日にAI特化の子会社「Cygames AI Studio」を設立すると発表。クリエイターが安心・安全に利用できるAI技術の開発を目指し、ゲーム制作における生成AI活用の研究を推進する。",
+      "keyPoints": [
+        "AI専門の子会社「Cygames AI Studio」を新設し、ゲーム制作向けAI技術開発に特化",
+        "クリエイターが安心・安全に使えるAI技術の実現を重視",
+        "既にバグ報告やSNS解析などでAI導入を開始し、LLM活用も拡大中"
+      ],
+      "category": "AI/ML",
+      "sentiment": "positive",
+      "createdAt": "2026-01-10T01:48:49.021Z"
+    },
+    {
+      "id": "itmedia-4",
+      "title": "生成AIと社内データをつなぐ「RAG」、関心はあれど普及していない現実",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2601/09/news062.html",
+      "summary": "Digeonが実施した調査によると、生成AIと社内データを連携するRAG（Retrieval-Augmented Generation）技術について、企業の82.2%が「知らない」と回答し、導入済みは17.8%にとどまった。関心はあるものの技術的難易度や人材不足が普及の障壁となっている。",
+      "keyPoints": [
+        "RAGを知らない企業が82.2%、導入済みは17.8%と普及が進んでいない",
+        "導入しない理由は「どの業務に使うか不明」（29.1%）、「技術的知識・人材不足」（27.5%）が上位",
+        "生成AI導入で重視する点は「セキュリティ・ガバナンス」（23.6%）が最多で安全性を優先"
+      ],
+      "category": "AI/ML",
+      "sentiment": "neutral",
+      "createdAt": "2026-01-10T01:48:56.872Z"
+    },
+    {
+      "id": "aishinbun-0-1768009641882",
+      "title": "2026年、AIは本当に「賢くなった」のか",
+      "url": "https://community.exawizards.com/aishinbun/news-2026-1-7/",
+      "summary": "2026年初頭、AIのIQテストで天才レベル（IQ142）を記録し、74%の知識労働タスクで専門家同等の評価を得たが、AGI到達については知能の定義や契約上の利害関係により議論が続いている。現在の課題はAI能力向上よりも企業側の活用方法にあり、継続学習能力の実装が次の重要なステップとされている。",
+      "keyPoints": [
+        "GPT-5.2 ProがIQ142の天才レベルを記録し、74%の知識労働タスクで専門家同等の評価を獲得",
+        "AGI到達の議論は知能の定義の違いとOpenAI-Microsoft間の契約上の利害関係が影響",
+        "AI能力向上にもかかわらず企業の活用レベルが追いついておらず、コンテキストエンジニアリングが重要"
+      ],
+      "category": "AI/ML/LLM",
+      "sentiment": "neutral",
+      "createdAt": "2026-01-10T01:49:05.148Z"
+    },
+    {
+      "id": "aishinbun-1-1768009641882",
+      "title": "「AGIは実現したということで、次に行こう」",
+      "url": "https://community.exawizards.com/aishinbun/news-12-27-2025/",
+      "summary": "OpenAIのSam Altman CEOが、AGI（汎用人工知能）は既に実現されたとして、次のASI（超知能）の定義に議論を移すべきだと提案した。GPT-5.2 ProがIQ142を達成し、74%の専門的タスクで人間と同等以上の成果を出している現状を根拠としている。",
+      "keyPoints": [
+        "GPT-5.2 ProがIQ142（天才レベル）を達成し、専門的タスクの74%で人間と同等以上の成果",
+        "AltmanはASIを「大統領やCEO級の組織運営を人間より上手くこなせるAI」と定義",
+        "OpenAI-Microsoft間のAGI到達時期をめぐる契約交渉が背景にある可能性"
+      ],
+      "category": "AI/ML/LLM",
+      "sentiment": "positive",
+      "createdAt": "2026-01-10T01:49:12.968Z"
+    },
+    {
+      "id": "aishinbun-2-1768009641882",
+      "title": "AIインフラは宇宙へ",
+      "url": "https://community.exawizards.com/aishinbun/news-12-22-2025/",
+      "summary": "電力不足に直面するAIデータセンターの解決策として、宇宙での太陽光発電を活用した宇宙データセンター計画が進行中。イーロン・マスクとNvidiaが先行し、Google、Amazonも追随する一方、中国も独自の計画を展開している。",
+      "keyPoints": [
+        "AIの巨大化により電力需要が急増し、地上のデータセンター建設が限界に直面",
+        "マスク氏のSpaceX・StarlinkとNvidiaが連携し、毎年100GWの発電能力追加を計画",
+        "Google、Amazon、中国も宇宙データセンター計画を発表し、国際競争が激化"
+      ],
+      "category": "AI",
+      "sentiment": "positive",
+      "createdAt": "2026-01-10T01:49:19.172Z"
+    },
+    {
+      "id": "aishinbun-3-1768009641882",
+      "title": "Google優位論は本当か？──Gavin Baker氏の主張",
+      "url": "https://community.exawizards.com/aishinbun/news-12-16-2025/",
+      "summary": "著名投資家Gavin Baker氏は、GoogleのGemini3によるAI覇権論に異論を唱え、NVIDIAの新世代半導体Blackwellの出荷遅れによる一時的優位に過ぎないと主張。Blackwell世代の本格導入により、GoogleのTPUは再びNVIDIAに劣勢になると予測している。",
+      "keyPoints": [
+        "GoogleのTPU優位は、NVIDIAのBlackwell半導体出荷遅れによる一時的現象",
+        "Blackwell世代では接続可能な半導体数が大幅増加し、AIモデル性能向上が期待される",
+        "xAIがBlackwell導入で最も有利な立場にあり、Grok5でAGI級の性能実現を目指す"
+      ],
+      "category": "AI/ML",
+      "sentiment": "neutral",
+      "createdAt": "2026-01-10T01:49:26.979Z"
+    },
+    {
+      "id": "aishinbun-4-1768009641882",
+      "title": "想定外だった2025年のAI進化。万能モデル神話からエージェント元年まで",
+      "url": "https://community.exawizards.com/aishinbun/news-12-1-2025/",
+      "summary": "2025年のAI業界は専門家の予想を裏切る進化を見せた。万能モデル神話は崩れ、用途別最適化モデルが主流となり、プロンプトエンジニアリングは消滅するどころか高度化し、完全自律エージェントの実現はまだ先という現実が明らかになった。",
+      "keyPoints": [
+        "万能モデル神話の崩壊：コスト・速度・品質のトレードオフにより、用途ごとに最適化された「モデルのポートフォリオ」が主流に",
+        "プロンプトエンジニアリングの進化：モデル高度化によりプロンプトが不要になるという予想に反し、ツールやデータ取得を含む「コンテキストエンジニアリング」として複雑化",
+        "エージェント元年の現実：完全自律型エージェントは未だ実現せず、人間の監督下での部分的自動化にとどまる"
+      ],
+      "category": "AI/ML",
+      "sentiment": "neutral",
+      "createdAt": "2026-01-10T01:49:34.374Z"
+    },
+    {
+      "id": "ainow-144-1768009641376",
+      "title": "新着記事",
+      "url": "https://ainow.ai/2025/08/28/277802/",
+      "summary": "ZoomでAIを活用した議事録の自動化術を紹介する記事。Zoom純正機能とChatGPTやNottaなどの外部AIツールとの連携方法を解説し、業務効率化のメリットと注意点について説明している。",
+      "keyPoints": [
+        "Zoom純正のAI Companionやフルトランスクリプト機能により自動議事録作成が可能",
+        "ChatGPTやNottaなど外部AIツールとの連携でより高度な要約・分析が実現",
+        "プライバシーやセキュリティの観点から適切なツール選択とデータ管理が重要"
+      ],
+      "category": "AI/ML",
+      "sentiment": "positive",
+      "createdAt": "2026-01-10T01:49:40.065Z"
+    },
+    {
+      "id": "ainow-72-1768009641366",
+      "title": "#DX",
+      "url": "https://ainow.ai/tag/dx",
+      "summary": "DX（デジタルトランスフォーメーション）に関する記事一覧で、建設業向けLLMの開発、DXの基礎知識、AI活用事例など幅広いDX関連トピックを扱っています。人手不足や業務効率化といった現代企業の課題をテクノロジーで解決する取り組みが紹介されています。",
+      "keyPoints": [
+        "建設業特化の大規模言語モデル（LLM）による人手不足・残業規制への対応",
+        "DXの基礎概念からIT化との違い、推進ステップまでの包括的な解説",
+        "AI・IoT・テレワークなど様々な技術とDXの関係性と活用事例"
+      ],
+      "category": "Other",
+      "sentiment": "positive",
+      "createdAt": "2026-01-10T01:49:46.573Z"
+    },
+    {
+      "id": "ainow-109-1768009641372",
+      "title": "AINOW編集部",
+      "url": "https://ainow.ai/category/ainoweditor",
+      "summary": "AINOW編集部のWebサイトで、AI議事録ツールや業務効率化に関する記事が多数掲載されており、ZoomやTeams、Google Meetなどの会議プラットフォーム向けのAI活用法が紹介されている。AIエージェントツールやイラスト生成AIなど幅広いAI技術の実用的な活用方法を解説している。",
+      "keyPoints": [
+        "AI議事録ツールによる会議効率化の具体的手法を複数記事で解説",
+        "ZoomやTeams、Google Meetなど主要会議ツールでのAI活用法を提供",
+        "AIエージェントやイラスト生成AIなど多様なAI技術の実用的な使い方を紹介"
+      ],
+      "category": "AI",
+      "sentiment": "positive",
+      "createdAt": "2026-01-10T01:49:53.295Z"
+    },
+    {
+      "id": "ainow-82-1768009641368",
+      "title": "#AI（人工知能）",
+      "url": "https://ainow.ai/tag/ai%ef%bc%88%e4%ba%ba%e5%b7%a5%e7%9f%a5%e8%83%bd%ef%bc%89",
+      "summary": "AI関連の記事一覧ページで、AIアライメント、生成AIリテラシー、プロンプトエンジニアリング、RAG・ファインチューニングなどの最新AI技術トピックを扱っている。ChatGPTやOpenAIに関する記事が多く、企業の生成AI導入事例や教育分野での活用についても取り上げている。",
+      "keyPoints": [
+        "生成AIの業務利用促進には「生成AIリテラシー」が重要な鍵となる",
+        "RAGやファインチューニングなどドメイン特化技術が生成AI進化の要素",
+        "企業での福利厚生としてChatGPT PlusやGitHub Copilotを導入する事例が登場"
+      ],
+      "category": "AI/ML/LLM",
+      "sentiment": "positive",
+      "createdAt": "2026-01-10T01:50:00.030Z"
+    },
+    {
+      "id": "ainow-91-1768009641370",
+      "title": "#pickup2",
+      "url": "https://ainow.ai/tag/pickup2",
+      "summary": "AI・機械学習に関する技術記事を集めたサイトのピックアップコンテンツ一覧。DX、機械学習、ディープラーニング、人工知能の基礎解説記事や、議事録AI、データサイエンスコンペなど実践的な内容が人気記事として紹介されている。",
+      "keyPoints": [
+        "DX・AI・機械学習・ディープラーニングの基礎解説記事が充実",
+        "議事録自動化AIツールやデータセット活用など実用的なコンテンツが人気",
+        "学術的な内容から実践的なツール紹介まで幅広くカバー"
+      ],
+      "category": "AI/ML",
+      "sentiment": "neutral",
+      "createdAt": "2026-01-10T01:50:07.005Z"
     }
   ]
 }
