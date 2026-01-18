@@ -1,467 +1,425 @@
 {
-  "generatedAt": "2026-01-17T01:49:04.465Z",
+  "generatedAt": "2026-01-18T02:00:47.004Z",
   "articles": [
     {
-      "id": 46647491,
-      "title": "6-Day and IP Address Certificates Are Generally Available",
-      "url": "https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability",
-      "summary": "Let's Encryptが6日間有効の短期証明書とIPアドレス証明書の一般提供を開始。短期証明書は従来の90日証明書と比べてセキュリティリスクを大幅に削減し、IPアドレス証明書はドメイン名ではなくIPアドレスでのTLS認証を可能にする。",
+      "id": 46660543,
+      "title": "Raising money fucked me up",
+      "url": "https://blog.yakkomajuri.com/blog/raising-money-fucked-me-up",
+      "summary": "起業家が共同創業者の資金不足により理想とは異なる早期の資金調達を行い、その後のピボットや収益化の困難により精神的な負担を感じている体験談。資金調達が起業家に与える心理的影響について率直に語っている。",
       "keyPoints": [
-        "6日間（160時間）有効の短期証明書により、秘密鍵漏洩時の脆弱性期間を90日から6日に大幅短縮",
-        "IPアドレス証明書でIPv4/IPv6アドレスに対するTLS認証が可能、必ず短期証明書として発行",
-        "短期証明書はオプトイン方式で、自動更新プロセスを構築済みの利用者が簡単に切り替え可能"
-      ],
-      "category": "Other",
-      "sentiment": "positive",
-      "createdAt": "2026-01-17T01:45:16.895Z"
-    },
-    {
-      "id": 46635309,
-      "title": "LLM Structured Outputs Handbook",
-      "url": "https://nanonets.com/cookbooks/structured-llm-outputs",
-      "summary": "LLMの構造化出力を確実に生成するための開発者向けハンドブックが公開されました。LLMは確率的な性質により時々出力が失敗するため、データ抽出やコード生成などのプログラム的な用途で問題となっていますが、この資料では構造化出力を保証する手法やツールについて包括的に解説しています。",
-      "keyPoints": [
-        "LLMの確率的性質による出力失敗を解決する構造化出力手法を網羅的に解説",
-        "データ抽出、コード生成、ツール呼び出しなどの開発用途に特化した実践的な内容",
-        "最新技術動向を反映した定期更新される生きた文書として提供"
-      ],
-      "category": "LLM",
-      "sentiment": "positive",
-      "createdAt": "2026-01-17T01:45:23.917Z"
-    },
-    {
-      "id": 46652617,
-      "title": "Releasing rainbow tables to accelerate Net-NTLMv1 protocol deprecation",
-      "url": "https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables",
-      "summary": "Mandiantは、Net-NTLMv1プロトコルの廃止を促進するため、レインボーテーブルの包括的なデータセットを公開した。20年以上前から脆弱性が知られているこのプロトコルを使用する組織は依然として多く、攻撃者が600ドル以下のハードウェアで12時間以内に認証情報を盗み取ることが可能である。",
-      "keyPoints": [
-        "Net-NTLMv1は1999年から脆弱性が知られているが、多くの組織で未だに使用されている",
-        "公開されたレインボーテーブルにより、600ドル以下のハードウェアで12時間以内に攻撃が可能",
-        "Google Cloudを通じてデータセットが公開され、セキュリティ専門家がプロトコルの危険性を実証できる"
+        "共同創業者の資金不足により理想的でないタイミングでの資金調達を決断",
+        "優秀な投資家陣を獲得したものの、ピボット後の収益化に苦戦",
+        "資金調達が起業家の精神状態に与える負の影響を赤裸々に告白"
       ],
       "category": "Other",
       "sentiment": "negative",
-      "createdAt": "2026-01-17T01:45:31.178Z"
+      "createdAt": "2026-01-18T01:57:24.470Z"
+    },
+    {
+      "id": 46663341,
+      "title": "OpenAI could reportedly run out of cash by mid-2027",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/openai-could-reportedly-run-out-of-cash-by-mid-2027-nyt-analyst-paints-grim-picture-after-examining-companys-finances",
+      "summary": "OpenAIは2025年に80億ドル、2028年に400億ドルを消費すると予測されており、現在の収益構造では2027年半ばまでに資金不足に陥る可能性がある。同社は2030年までの収益化を目指しているが、無料サービス依存のビジネスモデルと競合他社への乗り換えの容易さが課題となっている。",
+      "keyPoints": [
+        "OpenAIは2025年に80億ドル、2028年に400億ドルの支出が予測され、2027年半ばに資金枯渇の可能性",
+        "400億ドルの史上最大級の資金調達を行ったが、明確な収益モデルと収益性を欠いている",
+        "AI業界全体で最低8000億ドルの資金不足があり、多くの企業が収入を上回る速度で資金を消費"
+      ],
+      "category": "AI",
+      "sentiment": "negative",
+      "createdAt": "2026-01-18T01:57:31.439Z"
     },
     {
       "id": 228370804,
       "title": "The truth left out from Elon Musk’s recent court filing",
       "url": "https://openai.com/index/the-truth-elon-left-out",
-      "summary": "OpenAIがElon Muskの法廷文書に反論し、2017年に両者が営利構造への移行に合意していたが、MuskがOpenAIの完全な支配権を要求したため交渉が決裂したと主張。OpenAIは現在、約1300億ドルの価値を持つ公益法人と非営利団体の二重構造で運営されている。",
+      "summary": "OpenAIがイーロン・マスクの最新の法廷文書に反論し、2017年にマスク自身が営利構造への移行に同意していたが、OpenAIの完全な支配権を要求したため交渉が決裂したと主張。マスクの訴訟はxAIを有利にするための嫌がらせ戦略の一環だとしている。",
       "keyPoints": [
-        "Elon Muskが法廷文書で文脈を無視した部分的な引用を使用してOpenAIを誤解させようとしている",
-        "2017年にMusk自身がOpenAIの営利化に合意していたが、完全な支配権を求めて交渉が決裂",
-        "OpenAIは現在1300億ドル価値の公益法人構造で成功しており、Muskの訴訟は4回目の試み"
+        "マスクは2017年にOpenAIの営利構造移行に同意していたが、完全な支配権を要求して交渉が決裂",
+        "OpenAIはマスクのTeslaとの合併提案を拒否し、マスクはその後OpenAIを退社",
+        "マスクの訴訟は4回目の試みで、自社のxAIを有利にするための嫌がらせ戦略とOpenAIは主張"
       ],
-      "category": "AI",
+      "category": "AI/ML",
       "sentiment": "negative",
-      "createdAt": "2026-01-17T01:45:40.766Z"
+      "createdAt": "2026-01-18T01:57:42.231Z"
     },
     {
       "id": 380983408,
       "title": "Introducing ChatGPT Go, now available worldwide",
       "url": "https://openai.com/index/introducing-chatgpt-go",
-      "summary": "OpenAIがChatGPT Goを世界展開し、月額8ドルで最新モデルGPT-5.2 Instantへのアクセスを提供開始。無料プランの10倍のメッセージ数や画像生成が可能で、米国では広告表示のテストも予定。",
+      "summary": "OpenAIが低価格サブスクリプション「ChatGPT Go」を世界展開し、米国では月額8ドルで提供開始。GPT-5.2 Instantへのアクセスと無料版の10倍の使用制限を提供し、米国では広告テストも実施予定。",
       "keyPoints": [
-        "ChatGPT Goが月額8ドルで世界中で利用可能になり、GPT-5.2 Instantにアクセス可能",
-        "無料プランの10倍のメッセージ送信、ファイルアップロード、画像生成機能を提供",
-        "米国でChatGPT Goに広告表示のテストを開始予定、他のプランには広告なし"
+        "ChatGPT Goが月額8ドル（米国）で世界170か国以上に展開",
+        "GPT-5.2 Instantアクセスと無料版の10倍のメッセージ・ファイルアップロード・画像生成が可能",
+        "米国でChatGPT Goに広告導入テストを開始予定"
       ],
-      "category": "AI/ML/LLM",
+      "category": "AI/LLM",
       "sentiment": "positive",
-      "createdAt": "2026-01-17T01:45:47.180Z"
+      "createdAt": "2026-01-18T01:57:48.030Z"
     },
     {
       "id": 1864946867,
       "title": "Our approach to advertising and expanding access to ChatGPT",
       "url": "https://openai.com/index/our-approach-to-advertising-and-expanding-access",
-      "summary": "OpenAIが月額8ドルのChatGPT Goプランを全世界で提供開始し、米国で無料版とChatGPT Goに広告表示のテストを開始すると発表。広告は回答に影響せず、プライバシーを保護し、有料プランには表示されない。",
+      "summary": "OpenAIがChatGPTの無料版とChatGPT Go（月額8ドル）に広告を導入することを発表。広告はChatGPTの回答に影響を与えず、ユーザーのプライバシーを保護しながら、AIへのアクセスを拡大することを目的としている。",
       "keyPoints": [
-        "月額8ドルのChatGPT Goプランが全世界で利用可能になった",
-        "米国で無料版とChatGPT Goに広告テストを数週間以内に開始",
-        "広告はChatGPTの回答に影響せず、ユーザーデータは広告主に販売されない"
+        "ChatGPT Go（月額8ドル）を全世界で提供開始し、無料版とともに広告テストを数週間以内に米国で開始",
+        "広告はChatGPTの回答に影響せず、ユーザーデータは広告主に販売されない",
+        "18歳未満や健康・政治などの機微なトピックでは広告を表示しない安全対策を実施"
       ],
-      "category": "AI/ML/LLM",
+      "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-01-17T01:45:53.253Z"
+      "createdAt": "2026-01-18T01:57:54.294Z"
     },
     {
       "id": 538752002,
       "title": "Unlocking health insights: Estimating advanced walking metrics with smartwatches",
       "url": "https://research.google/blog/unlocking-health-insights-estimating-advanced-walking-metrics-with-smartwatches/",
-      "summary": "Googleの研究チームが、スマートウォッチを使用して歩行速度、歩幅、両足接地時間などの高度な歩行指標を正確に推定する深層学習モデルを開発しました。従来の高価な実験室機器やスマートフォンと比較して、スマートウォッチは手首に固定装着されるため、より実用的で継続的な健康モニタリングが可能になります。",
+      "summary": "Googleの研究者らが、スマートウォッチを使用して歩行速度や歩幅などの高度な歩行指標を正確に推定する深層学習モデルを開発。従来は高価な実験室設備が必要だった歩行分析を、日常的に着用するスマートウォッチで実現可能にした。",
       "keyPoints": [
-        "スマートウォッチのIMUセンサーデータから歩行速度、歩幅、接地時間などの包括的な歩行指標を直接推定するマルチヘッド深層学習モデルを開発",
-        "従来の高価な実験室機器やスマートフォンと比較して、手首装着のスマートウォッチはより実用的で継続的な健康追跡を実現",
-        "大規模検証研究により、スマートウォッチが歩行分析における信頼性の高いプラットフォームであることを実証"
+        "スマートウォッチのIMUセンサーデータから歩行速度、歩幅、両足支持時間などの包括的な歩行指標を直接推定",
+        "マルチヘッド時間畳み込みネットワーク（TCN）アーキテクチャを採用し、スマートフォンベースの手法と同等の性能を実現",
+        "手首に固定装着されるため、スマートフォンより一貫性があり実用的な連続トラッキングが可能"
       ],
       "category": "AI/ML",
       "sentiment": "positive",
-      "createdAt": "2026-01-17T01:45:59.426Z"
+      "createdAt": "2026-01-18T01:58:00.224Z"
     },
     {
       "id": 1108812441,
       "title": "Introducing OptiMind, a research model designed for optimization",
       "url": "https://huggingface.co/blog/microsoft/optimind",
-      "summary": "MicrosoftがOptiMindという新しい研究モデルを発表。自然言語で記述された最適化問題を数学的な解決可能な形式に自動変換する専門言語モデルで、Hugging Faceでオープンソースとして利用可能。",
+      "summary": "MicrosoftがOptiMindという研究モデルを発表。自然言語で記述された最適化問題を数学的モデルに自動変換し、Hugging Faceで実験的に公開されている。",
       "keyPoints": [
-        "自然言語の最適化問題記述を数学的モデルに自動変換",
+        "自然言語の問題記述を数学的な最適化モデルに直接変換する専門LM",
         "サプライチェーン設計、製造スケジューリング、物流ルーティングなどに適用可能",
-        "Hugging Faceでオープンソースとして実験的に公開"
+        "Hugging Faceでオープンソースコミュニティに公開され、実験・統合が可能"
       ],
       "category": "AI/ML",
       "sentiment": "positive",
-      "createdAt": "2026-01-17T01:46:04.751Z"
+      "createdAt": "2026-01-18T01:58:05.501Z"
     },
     {
-      "id": "ledge-6-1768614365380",
+      "id": "ledge-3-1768701486008",
       "title": "Google、AIエージェント時代の購買基盤「Universal Commerce Protocol（UCP）」を発表──NRF 2026でエージェンティックコマース構想を提示",
-      "url": "https://ledge.ai/articles/google_antigravity_agent_skills_open_standard",
-      "summary": "GoogleがAIエージェント時代の購買基盤「Universal Commerce Protocol（UCP）」を発表し、NRF 2026でエージェンティックコマース構想を提示。開発用プラットフォーム「Antigravity」に「Agent Skills」機能が追加され、エージェントに作業手順を配布できるオープン標準が導入された。",
-      "keyPoints": [
-        "GoogleがUniversal Commerce Protocol（UCP）という新しい購買基盤を発表",
-        "開発プラットフォーム「Antigravity」に「Agent Skills」機能を追加",
-        "AIエージェントに作業手順を配布できるオープン標準を提供"
-      ],
-      "category": "AI",
-      "sentiment": "positive",
-      "createdAt": "2026-01-17T01:46:12.516Z"
-    },
-    {
-      "id": "ledge-1-1768614365379",
-      "title": "Google、AIエージェント時代の購買基盤「Universal Commerce Protocol（UCP）」を発表──NRF 2026でエージェンティックコマース構想を提示",
-      "url": "https://ledge.ai/articles/google_nrf2026_universal_commerce_protocol_ucp_agentic_commerce",
-      "summary": "GoogleがAIエージェント時代の購買基盤として「Universal Commerce Protocol（UCP）」を発表し、NRF 2026でエージェンティックコマース構想を提示した。これはAIエージェントが商取引を自動化する新しいプラットフォームの構想である。",
+      "url": "https://ledge.ai/articles/interview_nvidia",
+      "summary": "GoogleがNRF 2026でAIエージェント時代に向けた新しい購買基盤「Universal Commerce Protocol（UCP）」を発表し、エージェンティックコマース構想を提示した。これは、AIエージェントが消費者に代わって商品購入を行う未来のコマース環境を支える技術基盤となる。",
       "keyPoints": [
         "GoogleがUniversal Commerce Protocol（UCP）という新しい購買基盤を発表",
         "NRF 2026でエージェンティックコマース構想を提示",
-        "AIエージェント時代の商取引自動化を目指すプラットフォーム"
+        "AIエージェントが消費者に代わって商品購入を行う時代への準備"
       ],
       "category": "AI",
       "sentiment": "positive",
-      "createdAt": "2026-01-17T01:46:18.571Z"
+      "createdAt": "2026-01-18T01:58:13.695Z"
     },
     {
-      "id": "ledge-3-1768614365379",
-      "title": "Google、AIエージェント時代の購買基盤「Universal Commerce Protocol（UCP）」を発表──NRF 2026でエージェンティックコマース構想を提示",
-      "url": "https://ledge.ai/articles/interview_nvidia",
-      "summary": "提供された記事は、タイトルではGoogleのUniversal Commerce Protocol（UCP）について言及していますが、本文はNVIDIAの企業変遷に関する内容で、タイトルと本文が一致していません。記事の実際の内容はNVIDIAがグラフィックス企業からAIインフラの巨人へと変化した軌跡について述べています。",
-      "keyPoints": [
-        "タイトルと本文の内容が不一致",
-        "NVIDIAのグラフィックス企業からAIインフラ企業への変遷",
-        "記事構成に問題があり正確な情報抽出が困難"
-      ],
-      "category": "Other",
-      "sentiment": "neutral",
-      "createdAt": "2026-01-17T01:46:25.982Z"
-    },
-    {
-      "id": "ledge-4-1768614365379",
+      "id": "ledge-4-1768701486008",
       "title": "Google、AIエージェント時代の購買基盤「Universal Commerce Protocol（UCP）」を発表──NRF 2026でエージェンティックコマース構想を提示",
       "url": "https://ledge.ai/articles/apple_nextgen_ai_platform_gemini_adoption",
-      "summary": "提供された記事はタイトルと本文が一致しておらず、GoogleのUCPに関する内容ではなく、AppleがSiriなどのApple IntelligenceでGemini AIを採用するという内容が断片的に含まれている状況です。記事の構造が不完全で、具体的な技術詳細や発表内容が明確に記載されていません。",
+      "summary": "Appleが次世代AI基盤としてGoogleのGeminiを採用し、SiriなどのApple Intelligenceサービスで活用することを発表。これまでのApple独自のAI戦略から、Googleとの連携へと方向転換する重要な決定。",
       "keyPoints": [
-        "記事タイトルはGoogleのUniversal Commerce Protocol（UCP）について言及",
-        "実際の本文内容はAppleのGemini AI採用に関する断片的な情報",
-        "記事構造が不完全で詳細な技術情報が不足"
+        "AppleがGoogleのGeminiをAI基盤として採用",
+        "SiriやApple IntelligenceでGeminiを活用予定",
+        "Apple独自路線からGoogle連携への戦略転換"
       ],
       "category": "AI/ML",
-      "sentiment": "neutral",
-      "createdAt": "2026-01-17T01:46:32.468Z"
+      "sentiment": "positive",
+      "createdAt": "2026-01-18T01:58:18.817Z"
     },
     {
-      "id": "ledge-5-1768614365379",
+      "id": "ledge-5-1768701486008",
       "title": "Google、AIエージェント時代の購買基盤「Universal Commerce Protocol（UCP）」を発表──NRF 2026でエージェンティックコマース構想を提示",
       "url": "https://ledge.ai/articles/anthropic_cowork_launch_claude_code_agent_general_work",
-      "summary": "記事のタイトルと本文の内容が一致していません。タイトルはGoogleのUCPについてですが、本文はAnthropicの業務AIエージェント「Cowork」について述べています。本文はWebページのナビゲーション要素が主な内容となっています。",
+      "summary": "記事のタイトルはGoogleのUCPについてですが、実際の本文はAnthropic社の非エンジニア向け業務AIエージェント「Cowork」の開始に関する内容で、Claude Codeの自律実行機能を一般業務に拡張したサービスについて報告されています。",
       "keyPoints": [
-        "タイトルと本文の内容に不整合がある",
-        "AnthropicのCoworkという業務AIエージェントに関する記載",
-        "実際の記事内容が不明確"
-      ],
-      "category": "Other",
-      "sentiment": "neutral",
-      "createdAt": "2026-01-17T01:46:40.718Z"
-    },
-    {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2145088",
-      "title": "自動運転AIの性能ってどう測るの？主要指標を例に解説",
-      "url": "https://qiita.com/shinya-kg0/items/24cd96b16636265a7818",
-      "summary": "自動運転AIの性能を測る主要指標について解説した記事。物体検出、トラッキング、プランニングの3つの分野で、mAP、NDS、AMOTA、L2誤差などの評価指標を具体例とともに説明している。",
-      "keyPoints": [
-        "物体検出ではmAPとNDSで認識精度と位置・速度・向きの正確性を評価",
-        "トラッキングではAMOTA/AMOTPで動く物体の追跡能力を測定",
-        "プランニングではL2誤差で人間の運転との類似度を判定"
-      ],
-      "category": "AI/ML",
-      "sentiment": "neutral",
-      "createdAt": "2026-01-17T01:46:46.800Z"
-    },
-    {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2145087",
-      "title": "自動運転AIの性能ってどう測るの？主要指標を例に解説",
-      "url": "https://qiita.com/shinya-kg0/items/c1899ebbd863781cb59f",
-      "summary": "自動運転AIの性能評価について、nuScenesデータセットを基準とした主要指標を解説。物体検出（mAP、NDS）、トラッキング（AMOTA、AMOTP）、プランニング（L2誤差）の3つの観点から、AIが「見る」「追跡する」「判断する」能力を数値化する方法を説明している。",
-      "keyPoints": [
-        "物体検出ではmAPとNDSで「何があるかを正確に当てる」能力を測定",
-        "トラッキングではAMOTA/AMOTPで動く物体を継続的に追跡する精度を評価",
-        "プランニングではL2誤差で人間の運転に近い自然な走行計画を立てられるかを判定"
-      ],
-      "category": "AI/ML",
-      "sentiment": "positive",
-      "createdAt": "2026-01-17T01:46:52.993Z"
-    },
-    {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2145066",
-      "title": "バイブコーディングはじめました8ーUDD/UUDで閉ループ研究を整理する：統一観測層で“未知”を扱う入門ー",
-      "url": "https://qiita.com/nanashi8/items/ce6aa155d063a32b50c0",
-      "summary": "UDD（未知駆動開発）とUUD（統一観測層）を用いて、様々な分野の閉ループ研究プロセスを統一的に整理する手法を紹介。ベイズ最適化、デジタルツイン、データ同化、臨床試験設計など8つの分野を、「未知・観測・更新・次の行動・品質ゲート」の5つの要素で分析している。",
-      "keyPoints": [
-        "UUDは共通の観測写像を固定して比較・運用を簡便化する枠組みで、精度より一貫性を重視",
-        "各分野の閉ループを「Unknown/Observe/Update/Next Action/Quality Gates」の5要素で統一的に整理",
-        "情報リーク遮断、事前ルール固定、監査可能性を重視した品質システムとしてUDDを位置づけ"
-      ],
-      "category": "AI/ML",
-      "sentiment": "neutral",
-      "createdAt": "2026-01-17T01:47:00.198Z"
-    },
-    {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2145056",
-      "title": "微分方程式解法×微分可能特徴グリッド導入×高速かつ高精度な物理場モデリングの実現",
-      "url": "https://qiita.com/GYact/items/302ab044a82ce5f200b6",
-      "summary": "DInf-Gridは微分可能な特徴グリッドとRBF補間を組み合わせた新しいニューラル微分方程式ソルバーで、従来手法に比べ5〜20倍高速化を実現しつつ高次微分計算も可能にした。多解像度グリッド構造により高周波成分の表現力と学習安定性も向上させている。",
-      "keyPoints": [
-        "微分可能なラジアル基底関数（RBF）補間により無限階微分が可能で、従来の座標ベースMLPより5〜20倍高速",
-        "多解像度共置グリッドにより低周波から高周波まで幅広い成分をカバーし、学習の安定性を向上",
-        "Poisson方程式やHelmholtz方程式など様々な微分方程式で従来手法と同等以上の精度を維持"
-      ],
-      "category": "AI/ML",
-      "sentiment": "positive",
-      "createdAt": "2026-01-17T01:47:07.165Z"
-    },
-    {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2145054",
-      "title": "派遣エンジニアはAI時代にどう価値を出すか",
-      "url": "https://qiita.com/r35/items/fcb36a41c102da9a661a",
-      "summary": "派遣エンジニアがAI時代でも価値を提供できる理由を実体験から分析。AIの普及により案件は増加し、「作る」から「進める」役割へのシフトが重要であることを論じている。",
-      "keyPoints": [
-        "AIの期待値上昇により案件数が増加し、派遣エンジニアの需要は減っていない",
-        "AIはコーディングを支援するが、プロジェクト推進や優先度判断は人間の役割",
-        "派遣エンジニアは立場の柔軟性を活かし、横断的なタスク推進で価値を発揮できる"
+        "Anthropic社が非エンジニア向けの業務AIエージェント「Cowork」を開始",
+        "Claude Codeの自律実行機能を一般業務へ拡張",
+        "AIエージェント技術の業務活用が進展"
       ],
       "category": "AI",
       "sentiment": "positive",
-      "createdAt": "2026-01-17T01:47:13.519Z"
+      "createdAt": "2026-01-18T01:58:25.189Z"
+    },
+    {
+      "id": "ledge-6-1768701486008",
+      "title": "Google、AIエージェント時代の購買基盤「Universal Commerce Protocol（UCP）」を発表──NRF 2026でエージェンティックコマース構想を提示",
+      "url": "https://ledge.ai/articles/google_antigravity_agent_skills_open_standard",
+      "summary": "GoogleがAIエージェント時代の商取引基盤「Universal Commerce Protocol（UCP）」を発表し、開発プラットフォーム「Antigravity」に新機能「Agent Skills」を追加。エージェントに作業手順を配布できるオープン標準を提供し、エージェンティックコマース構想を展開。",
+      "keyPoints": [
+        "Universal Commerce Protocol（UCP）によるAIエージェント時代の購買基盤構築",
+        "開発プラットフォーム「Antigravity」に「Agent Skills」機能を追加",
+        "エージェントに作業手順を配布できるオープン標準の提供"
+      ],
+      "category": "AI",
+      "sentiment": "positive",
+      "createdAt": "2026-01-18T01:58:30.247Z"
+    },
+    {
+      "id": "ledge-1-1768701486007",
+      "title": "Google、AIエージェント時代の購買基盤「Universal Commerce Protocol（UCP）」を発表──NRF 2026でエージェンティックコマース構想を提示",
+      "url": "https://ledge.ai/articles/google_nrf2026_universal_commerce_protocol_ucp_agentic_commerce",
+      "summary": "GoogleがNRF 2026でAIエージェント時代に対応した購買基盤「Universal Commerce Protocol（UCP）」を発表し、エージェンティックコマース構想を提示した。この新しいプロトコルはAIエージェントが商取引を行う際の標準的な基盤となることを目指している。",
+      "keyPoints": [
+        "GoogleがUniversal Commerce Protocol（UCP）という新しい購買基盤を発表",
+        "NRF 2026でエージェンティックコマース構想を提示",
+        "AIエージェント時代の商取引に対応した標準プロトコルの構築を目指す"
+      ],
+      "category": "AI",
+      "sentiment": "positive",
+      "createdAt": "2026-01-18T01:58:35.637Z"
+    },
+    {
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2145521",
+      "title": "AIAgentの本質を理解する：Skillsが切り開く新時代",
+      "url": "https://qiita.com/koras7788/items/535db404122cbd5ed17b",
+      "summary": "AnthropicのSkillsの登場により、AIエージェントは「毎回手作業で調整する」ものから「直接インストールして使用できるアプリケーション」に進化し、効率性と使いやすさが飛躍的に向上した。MCPが解決できなかった「ツールの使い方」の問題をSkillsが解決し、AIエージェントの新たなエコシステムを構築している。",
+      "keyPoints": [
+        "Agent = LLM + Agentフレームワーク + Skillsという新しい公式が完成し、Skillsがタスク完了のための全体的なフローをパッケージ化",
+        "MCPは「ツールの接続」は解決したが「ツールの使い方」は解決せず、手動でのPrompt作成が必要だった",
+        "SkillsはWorkflowと異なり、Progressive Disclosure原則により柔軟性があり、複数Skillの組み合わせが可能"
+      ],
+      "category": "AI/ML",
+      "sentiment": "positive",
+      "createdAt": "2026-01-18T01:58:42.297Z"
+    },
+    {
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2145507",
+      "title": "AIが生成する「最適なデータ」に、作り手の意思を乗せるということ",
+      "url": "https://qiita.com/GIFCat/items/ac02aa8b9b5712125fde",
+      "summary": "伝統工芸とAIエージェントを組み合わせたプロジェクトを通じて、AIが生成する最適なデータを人間の感覚で工芸品として整える重要性を探った事例。ジグソーパズルの検品作業を例に、機械では代替できない人間の微調整の価値を論じている。",
+      "keyPoints": [
+        "AIエージェントが市場ニーズを可視化し創作の土台を提供する",
+        "AIが生成する完璧なデータを人間が工芸品として最適化する微調整が重要",
+        "最終的な判断と責任は製作者が持ち、AIは選択肢を広げる役割に留まる"
+      ],
+      "category": "AI",
+      "sentiment": "positive",
+      "createdAt": "2026-01-18T01:58:48.357Z"
+    },
+    {
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2145503",
+      "title": "EmbeddingGemma版チャンキング戦略検証用UI",
+      "url": "https://qiita.com/kanata564/items/54ebd02f2c868c12c066",
+      "summary": "EmbeddingGemmaモデルを使用して文章のチャンキング戦略を検証するUIシステムが開発された。実験により、文脈が分断された文章を含む場合でも、モデルが適切にベクトル化を行い、分断された部分を無視する性質があることが確認された。",
+      "keyPoints": [
+        "EmbeddingGemmaで2つの文章のコサイン類似度を計算できるUIを構築",
+        "文脈が分断された文章を前後に含む場合の影響を実験で検証",
+        "モデルが分断された文を無視してベクトル化する性質を確認、RAGシステムに有益"
+      ],
+      "category": "AI/ML",
+      "sentiment": "positive",
+      "createdAt": "2026-01-18T01:58:54.046Z"
+    },
+    {
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2145500",
+      "title": "就活を「苦しい作業」から「自分を知る冒険」に変えたかった",
+      "url": "https://qiita.com/asoventure/items/4c0335d41e86eef8d2d3",
+      "summary": "就活の自己分析を「苦しい作業」から「自分を知る冒険」に変えることを目指し、日々の記録とAIを活用した就活支援サービス「アソベンチャーチーズ」を開発。従来の振り返り型自己分析ではなく、継続的な記録とゲーミフィケーションで自己PR作成を支援する。",
+      "keyPoints": [
+        "従来の「過去を思い出す」自己分析から「日々を記録する」方式への転換",
+        "AIメンターとの対話、ログ記録、自動PR生成など4つの機能を統合したプラットフォーム",
+        "ゲーミフィケーション要素（ランクアップ、バッジ等）で継続利用を促進"
+      ],
+      "category": "AI/ML",
+      "sentiment": "positive",
+      "createdAt": "2026-01-18T01:59:01.016Z"
+    },
+    {
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2145396",
+      "title": "Claude Code v2.1.10 - v2.1.11 リリースノート",
+      "url": "https://qiita.com/NaokiIshimura/items/008e19ab0d78e57c7ece",
+      "summary": "Anthropic社のClaude Codeがv2.1.10-v2.1.11にアップデートされ、Setup Hookイベントの追加、OAuth URLコピー機能、MCP接続最適化などの新機能と安定性向上が実装されました。",
+      "keyPoints": [
+        "リポジトリ初期化用のSetup Hookイベント（--init, --maintenance等）を新規追加",
+        "ログイン時のOAuth URLコピー機能とキー入力取りこぼし防止機能を実装",
+        "MCP接続の過剰リクエスト問題とBash heredocクラッシュ問題を修正"
+      ],
+      "category": "AI",
+      "sentiment": "positive",
+      "createdAt": "2026-01-18T01:59:06.710Z"
     },
     {
       "id": "itmedia-0",
       "title": "ChatGPTに月額1500円の「Go」プラン登場　広告表示テストも開始",
       "url": "https://www.itmedia.co.jp/aiplus/articles/2601/17/news031.html",
-      "summary": "OpenAIが月額1500円のChatGPT「Go」プランを日本で開始し、無料・Goプランユーザー向けに広告表示テストを段階的に実施。広告は会話内容に関連したものが表示され、ユーザーは設定で制限可能。",
+      "summary": "OpenAIがChatGPTの新プラン「Go」を月額1500円で提供開始。無料・Plusプランの中間に位置し、広告表示テストも段階的に実施。",
       "keyPoints": [
-        "ChatGPT「Go」プランが月額1500円で日本提供開始、無料版とPlusプランの中間に位置",
-        "無料・Goプランで広告表示テストを段階的に実施、Plus以上では広告なし",
-        "広告は会話内容に関連し、将来的には広告主との直接チャット機能も検討中"
+        "月額1500円の「Go」プランが日本を含むグローバルで展開開始",
+        "無料プランとPlusプランの中間に位置する新たな料金体系を導入",
+        "広告表示テストを段階的に実施し、将来的には広告主との直接チャット機能も検討"
       ],
-      "category": "AI/ML",
+      "category": "AI/ML/LLM",
       "sentiment": "neutral",
-      "createdAt": "2026-01-17T01:47:20.591Z"
+      "createdAt": "2026-01-18T01:59:13.050Z"
     },
     {
       "id": "itmedia-1",
       "title": "生成AI利用でデータ漏えいリスクは2倍に　企業に求められる進退",
       "url": "https://www.itmedia.co.jp/enterprise/articles/2601/17/news014.html",
-      "summary": "Netskopeの報告によると、2025年の生成AI利用は前年比3倍に増加し、データ漏洩リスクは2倍以上に上昇。企業の47%がシャドーAIを利用し、適切なセキュリティ対策が追いついていない状況が明らかになった。",
+      "summary": "Netskopeの報告書によると、2025年の生成AI利用により企業のデータ漏えいリスクが前年比2倍以上に増加。従業員による生成AIツールの利用が3倍に拡大し、機密データの不適切な入力や個人用クラウドアプリへのアップロードが急増している。",
       "keyPoints": [
         "生成AI利用に関連するデータポリシー違反が前年比2倍以上に増加",
-        "従業員による生成AIツールの個人利用が15%に達し、前年の3倍となった",
-        "フィッシング攻撃も増加し、従業員1万人当たり87人がクリックする被害が発生"
+        "従業員による生成AIツール利用が3倍に拡大、プロンプト送信数も大幅増",
+        "フィッシング攻撃が27%増加し、Microsoft、Hotmail、DocuSignなどを装った攻撃が多発"
       ],
       "category": "AI",
       "sentiment": "negative",
-      "createdAt": "2026-01-17T01:47:27.469Z"
+      "createdAt": "2026-01-18T01:59:20.219Z"
     },
     {
       "id": "itmedia-2",
       "title": "Googleの画像生成AI「Nano Banana」、名前の由来は？　公式が明かす",
       "url": "https://www.itmedia.co.jp/aiplus/articles/2601/17/news026.html",
-      "summary": "Googleの画像生成AI「Nano Banana」の名前の由来が公式ブログで明かされました。この名前は開発者のニックネーム「ナイナ・バナナ」と「ナノ」を組み合わせたもので、LMArenaでのテスト用コードネームから正式名称となりました。",
+      "summary": "GoogleがLMArenaで使用していたコードネーム「Nano Banana」の由来を公式ブログで明かした。この名前は、プロダクトマネージャーのナイナ・ライシュナニ氏のニックネーム「ナイナ・バナナ」と「ナノ」を組み合わせたもので、現在は正式に「Gemini 2.5 Flash Image」として提供されている。",
       "keyPoints": [
-        "「Nano Banana」は開発者のニックネーム「ナイナ・バナナ」と「ナノ」を組み合わせて命名された",
-        "元々はLMArenaでのテスト用コードネームだったが、話題性から正式名称として採用",
-        "現在は「Gemini 2.5 Flash Image」として正式リリースされ、「Nano Banana Pro」への更新も予定"
+        "「Nano Banana」は開発者のニックネーム「ナイナ・バナナ」と「ナノ」を組み合わせた内部コードネーム",
+        "正式名称は「Gemini 2.5 Flash Image」で、高速な画像生成AIモデルとして提供開始",
+        "後継モデル「Nano Banana Pro」（Gemini 3 Pro Image）も発表され、より高品質な画像生成が可能"
       ],
       "category": "AI/ML",
       "sentiment": "positive",
-      "createdAt": "2026-01-17T01:47:34.097Z"
+      "createdAt": "2026-01-18T01:59:28.215Z"
     },
     {
       "id": "itmedia-3",
       "title": "Fantia、生成AI規制を一部緩和へ　部分的な利用認める",
       "url": "https://www.itmedia.co.jp/aiplus/articles/2601/16/news117.html",
-      "summary": "ファンコミュニティサイト「Fantia」が生成AI規制を一部緩和し、2026年1月22日以降、タイトルやサムネイル画像などの限定的な用途での生成AI利用を認めると発表。ただし、コンテンツ本体への生成AI使用は引き続き禁止する。",
+      "summary": "ファンコミュニティサイト「Fantia」が生成AI規制を一部緩和し、1月22日からタイトルやアイキャッチ、サムネイル画像の作成に限り生成AIの利用を認めると発表。ただし、本人の許可なく特定人物を模倣したコンテンツや著作権侵害の恐れがあるものは引き続き禁止。",
       "keyPoints": [
-        "タイトル、サムネイル、アイキャッチ画像の作成に限定して生成AI利用を許可",
-        "コンテンツ本体への生成AI使用は継続して禁止",
-        "技術の発展と地域性の変化を背景とした規制緩和"
+        "Fantiaが2023年5月から続けていた生成AI全面禁止を一部緩和",
+        "タイトル、アイキャッチ、サムネイル画像作成のみAI利用を許可",
+        "著作権侵害や特定人物の無断模倣は引き続き禁止"
       ],
-      "category": "AI/ML",
+      "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-01-17T01:47:40.221Z"
+      "createdAt": "2026-01-18T01:59:36.045Z"
     },
     {
       "id": "itmedia-4",
       "title": "ITエンジニアが選ぶ「ITエンジニア本大賞2026」ベスト10発表　“AI関連本”が上位に",
       "url": "https://www.itmedia.co.jp/aiplus/articles/2601/16/news101.html",
-      "summary": "ITエンジニアが選ぶ「ITエンジニア本大賞2026」のベスト10が発表され、技術書部門では「AI関連本」が上位を占める結果となった。投票期間は2025年11月6日から12月7日で、技術書・ビジネス書それぞれ10冊ずつが選出された。",
+      "summary": "翔泳社が「ITエンジニア本大賞2026」のベスト10を発表し、技術書部門では生成AI関連の書籍が上位を占めた。技術書・ビジネス書それぞれの部門で、AI技術やエンジニアのキャリア形成に関する書籍が多数選出された。",
       "keyPoints": [
-        "技術書部門の上位3位にAI関連書籍が並び、「AIエージェント開発/活用術」「実業務で活用するためのAIエージェント構築術」「言葉の意味を計算する仕組み」が選ばれた",
-        "ビジネス書部門では「エンジニアの生産性を高める37のヒント」「ハーバード、スタンフォード、オックスフォード 科学的に証明された 最高の学習法」などが上位にランクイン",
-        "2月19日開催の「Developers Summit 2026」で各部門の大賞が発表され、著者や編集者によるプレゼンテーションも予定されている"
+        "技術書部門でAI・生成AI関連の書籍が上位3位を独占",
+        "「AIエージェント開発/活用ガイド」や「実用的なAIエージェント構築」などAI実装に関する書籍が人気",
+        "2月19日のDevelopers Summit 2026で各部門の大賞が発表予定"
       ],
       "category": "AI/ML",
       "sentiment": "positive",
-      "createdAt": "2026-01-17T01:47:49.514Z"
+      "createdAt": "2026-01-18T01:59:42.763Z"
     },
     {
-      "id": "aishinbun-0-1768614366394",
+      "id": "aishinbun-0-1768701487108",
       "title": "寿命160歳時代の衝撃",
       "url": "https://community.exawizards.com/aishinbun/news-1-15-2026/",
-      "summary": "AI業界のトップが「今後10年で寿命が倍になる」と予測。AIによる生物学の急速な進化により、創薬プロセスが大幅短縮され、細胞の若返り技術も現実味を帯びている。しかし寿命160歳時代は年金制度や社会構造の根本的変革を迫り、個人レベルでの備えが急務となっている。",
+      "summary": "AI業界のトップランナーが今後10年で人間の寿命が大幅に延び、160歳時代が到来すると予測している。AIによる生物学の革命で創薬プロセスが劇的に短縮され、細胞の若返り技術も現実味を帯びているが、年金制度や社会構造の根本的な見直しが必要になる。",
       "keyPoints": [
-        "AIの進歩により創薬プロセスが4-5年から18ヶ月以下に短縮され、細胞リプログラミング技術で若返りが現実的に",
-        "寿命160歳時代では年金制度や相続の仕組みが機能しなくなり、社会制度の根本的見直しが必要",
-        "教育→仕事→引退の一直線モデルが終わり、マルチステージ型人生への適応力が重要な資産となる"
+        "AIによる創薬革命で臨床試験前プロセスが4-5年から18ヶ月以下に短縮",
+        "山中因子による細胞リプログラミングなど若返り技術が現実化",
+        "年金制度崩壊や格差拡大など社会制度の根本的な再設計が必要"
       ],
-      "category": "AI/ML",
+      "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-01-17T01:47:57.259Z"
+      "createdAt": "2026-01-18T01:59:49.441Z"
     },
     {
-      "id": "aishinbun-1-1768614366394",
+      "id": "aishinbun-1-1768701487108",
       "title": "AIが進化すると、なぜGDPは崩壊するのか？",
       "url": "https://community.exawizards.com/aishinbun/news-1-14-2026/",
-      "summary": "AI技術の進化により、ウェブ制作などのデジタル分野で価格が急落し始めており、今後ロボット技術の普及により製造・物流・建設などの物理世界でもコスト構造的下落が予想される。これにより社会は改善されるが、GDP（取引量）は減少するという逆説が生じ、従来の政策判断指標が機能しなくなる可能性がある。",
+      "summary": "AIの進化により、ウェブ制作費の相場が半分に下がるなど価格の急落が始まっており、今後ロボットと自律システムの普及により社会全体がハイパーデフレに向かう可能性がある。社会が良くなるにもかかわらずGDPが下がるという逆説が生じ、政策判断の指標が機能しなくなることで社会契約の崩壊が懸念される。",
       "keyPoints": [
-        "AIとロボットの普及により、デジタル分野から物理世界まで幅広くコストが構造的に下落し、ハイパーデフレが発生する可能性",
-        "社会が良くなるにもかかわらずGDPが下がるという逆説により、政策判断の基準が失われ社会契約が揺らぐリスク",
-        "GDPに代わる新指標として「将来の行動の自由度」など物理学・情報理論ベースの評価方法が必要との提案"
+        "AIの普及により各分野でコスト構造的下落が始まり、ハイパーデフレの可能性",
+        "社会改善とGDP下落の逆説により、政策判断指標が機能不全に陥る危険性",
+        "GDP代替指標として「将来の行動の自由度」など新たな価値測定概念の必要性"
       ],
-      "category": "AI/ML",
-      "sentiment": "neutral",
-      "createdAt": "2026-01-17T01:48:06.218Z"
+      "category": "AI",
+      "sentiment": "negative",
+      "createdAt": "2026-01-18T01:59:57.191Z"
     },
     {
-      "id": "aishinbun-2-1768614366394",
+      "id": "aishinbun-2-1768701487108",
       "title": "2026年、AIは本当に「賢くなった」のか",
       "url": "https://community.exawizards.com/aishinbun/news-2026-1-7/",
-      "summary": "2026年初頭、AIは天才レベルのIQ142を記録し、知識労働の74%で専門家レベルに達したが、AGI到達については定義の違いや企業利害により議論が続いている。現在の課題は技術進歩よりも企業側の活用能力にあり、継続学習機能の実装が次の飛躍のカギとなる。",
+      "summary": "2026年初頭、AIはIQテストで天才レベル（IQ142）に達し、74%の知識労働タスクで専門家レベルの評価を得ているが、AGI到達については定義の違いや契約上の利害により議論が続いている。現在の課題は技術の進歩よりも企業側の活用能力にあり、継続学習機能の実装が次の飛躍の鍵となる。",
       "keyPoints": [
-        "GPT-5.2 ProがIQ142の天才レベルを記録し、知識労働の74%で専門家と同等の評価を獲得",
-        "AGI到達の議論が続く理由は知能の定義の違いとOpenAI-Microsoft間の契約構造",
-        "AIの能力向上に企業の活用レベルが追いつかない「オーバーハング問題」が発生し、継続学習機能が次の重要な要素として注目"
+        "GPT-5.2 ProがIQ142を記録し、74%の知識労働タスクで専門家レベルの評価を獲得",
+        "AGI到達の判断は知能の定義（タスク達成 vs 汎化能力）とOpenAI-Microsoft間の契約事情により複雑化",
+        "AI活用の「オーバーハング問題」により企業間格差が拡大、継続学習機能が2026年の重要な技術課題"
       ],
       "category": "AI/ML/LLM",
       "sentiment": "neutral",
-      "createdAt": "2026-01-17T01:48:14.863Z"
+      "createdAt": "2026-01-18T02:00:05.462Z"
     },
     {
-      "id": "aishinbun-3-1768614366394",
+      "id": "aishinbun-3-1768701487108",
       "title": "「AGIは実現したということで、次に行こう」",
       "url": "https://community.exawizards.com/aishinbun/news-12-27-2025/",
-      "summary": "OpenAIのSam Altman CEOが、AGI（汎用人工知能）は既に達成されたとして、次はASI（超知能）の定義に議論を移すべきだと提案。GPT-5.2 Proが天才レベルのIQ142を記録し、74%の専門的タスクで人間と同等以上の性能を示したことを根拠としている。",
+      "summary": "OpenAIのSam Altman CEOが、AGI（汎用人工知能）は既に達成されたとして、次にASI（超知能）の定義を決めようと提案。GPT-5.2 ProがIQ142を達成し、74%の知識労働タスクで専門家同等の性能を示すなど、AGI達成の根拠を示している。",
       "keyPoints": [
-        "GPT-5.2 ProがIQテストで142点（天才レベル）を達成し、専門的知識労働の74%で人間と同等以上の結果を出した",
-        "AltmanはASIを「大統領やCEO、研究所運営を人間より上手くこなせるAI」と定義し、AIが組織を運営する未来を描いている",
-        "OpenAIとMicrosoftの契約期限が「AGI実現まで」となっており、AGI達成宣言により交渉を有利に進めたい思惑が背景にある可能性"
+        "GPT-5.2 ProがIQテストで142点（天才レベル）を達成し、知識労働の74%で専門家レベルの性能を実現",
+        "AltmanがASIを「大統領やCEO、研究所運営を人間より上手くこなせるAI」と定義し、AI企業の組織運営を構想",
+        "OpenAIとMicrosoftの契約期限が「AGI実現まで」となっており、AGI達成宣言により交渉を有利に進めたい思惑"
       ],
       "category": "AI/ML/LLM",
-      "sentiment": "neutral",
-      "createdAt": "2026-01-17T01:48:23.220Z"
+      "sentiment": "positive",
+      "createdAt": "2026-01-18T02:00:14.684Z"
     },
     {
-      "id": "aishinbun-4-1768614366394",
+      "id": "aishinbun-4-1768701487108",
       "title": "AIインフラは宇宙へ",
       "url": "https://community.exawizards.com/aishinbun/news-12-22-2025/",
-      "summary": "AIデータセンターの電力需要増大により、豊富な太陽光エネルギーと冷却環境を求めて宇宙データセンター建設が注目されている。イーロン・マスクとNvidiaが先行し、Google、Amazonも参入、米中間で宇宙AI覇権争いが激化している。",
+      "summary": "地上でのAIデータセンター建設が電力不足や環境問題で限界に達する中、豊富な太陽光エネルギーと冷却環境を活用できる宇宙データセンターの開発競争が激化している。イーロン・マスク氏とNvidiaが先行し、Google、Amazonも追随する一方、中国も積極的に参入している。",
       "keyPoints": [
-        "地上のAIデータセンターは電力不足と環境問題で限界に直面、宇宙では無限の太陽光と冷却環境が利用可能",
-        "マスク氏のSpaceX・StarshieldとNvidiaが連携し、毎年100GWの発電能力追加を計画、5年で米国の地上発電量を超える規模",
-        "中国が12機のAI衛星を先行打ち上げしたが、米国の技術力と打ち上げ頻度が上回り、宇宙データセンター競争で逆転の可能性"
+        "AIの巨大化により地上データセンターでは電力不足が深刻化し、宇宙の無限の太陽光エネルギーと冷却環境が注目されている",
+        "マスク氏のSpaceX・StarcloudとNvidiaが連携し、年間100GWの発電能力追加を計画、5年で米国全体の発電量を上回る規模を目指す",
+        "Google、Amazon、中国企業も宇宙データセンター計画を発表し、国際的な主導権争いが宇宙に拡大している"
       ],
       "category": "AI",
       "sentiment": "positive",
-      "createdAt": "2026-01-17T01:48:31.219Z"
+      "createdAt": "2026-01-18T02:00:23.467Z"
     },
     {
-      "id": "ainow-144-1768614365574",
+      "id": "ainow-144-1768701486383",
       "title": "新着記事",
       "url": "https://ainow.ai/2025/08/28/277802/",
-      "summary": "ZoomでAIを活用した議事録自動化について解説した記事。Zoom純正機能とChatGPTやNottaなどの外部AIツールを組み合わせることで、会議の文字起こしから要約まで自動化でき、業務効率を大幅に向上させることができる。",
+      "summary": "ZoomでAIを活用した議事録作成の自動化術を解説。純正機能（フルトランスクリプト、AI Companion）や外部AIツール（ChatGPT、Notta）を使用して、会議の効率化と議事録作成の手間を大幅に削減する方法を紹介している。",
       "keyPoints": [
-        "Zoomの純正AI機能（フルトランスクリプト、AI Companion）で基本的な議事録自動化が可能",
-        "ChatGPTやNottaなど外部AIツールとの連携でより高度な議事録作成と分析が実現",
-        "効率化とともにプライバシー・セキュリティ面での注意が必要"
+        "Zoom純正のAI Companionやフルトランスクリプト機能で自動文字起こしと要約が可能",
+        "ChatGPTやNottaなど外部AIツールとの連携でより高度な議事録作成が実現",
+        "議事録作成の効率化によりメンバーが会議に集中でき生産性が向上する一方、プライバシーとセキュリティへの配慮が必要"
       ],
       "category": "AI/ML",
       "sentiment": "positive",
-      "createdAt": "2026-01-17T01:48:37.530Z"
+      "createdAt": "2026-01-18T02:00:30.907Z"
     },
     {
-      "id": "ainow-72-1768614365565",
+      "id": "ainow-72-1768701486374",
       "title": "#DX",
       "url": "https://ainow.ai/tag/dx",
-      "summary": "DX（デジタルトランスフォーメーション）に関する記事一覧で、建設業特化LLMの開発背景、DXの基本概念、AI活用事例、企業の取り組みなどを扱っている。人手不足解決や業務効率化にAI・DX技術を活用する動向が紹介されている。",
+      "summary": "DX（デジタルトランスフォーメーション）に関する記事一覧で、建設業特化LLMの開発背景、DXの基本概念、AI活用事例、企業の取り組み事例などが紹介されている。人手不足や業務効率化の課題解決にAI・DX技術を活用する動向が示されている。",
       "keyPoints": [
-        "建設業界の人手不足と残業規制を大規模言語モデルで解決する取り組み",
-        "DXの基本概念とIT化との違い、推進ステップの解説",
-        "AI・IoT・テレワークなどとDXの関係性と活用事例"
+        "建設業界で人手不足と残業規制の課題を大規模言語モデルで解決する取り組み",
+        "DXの基本概念からスキル、推進方法まで幅広い解説記事を提供",
+        "AI、IoT、Web3など最新技術とDXの組み合わせによる企業変革事例"
       ],
       "category": "Other",
       "sentiment": "positive",
-      "createdAt": "2026-01-17T01:48:43.507Z"
+      "createdAt": "2026-01-18T02:00:37.993Z"
     },
     {
-      "id": "ainow-109-1768614365572",
+      "id": "ainow-109-1768701486380",
       "title": "AINOW編集部",
       "url": "https://ainow.ai/category/ainoweditor",
-      "summary": "AINOW編集部が運営するAI・テクノロジーメディアサイトの記事一覧ページ。議事録AI、AIエージェント、AIイラスト生成などの実用的なAIツール活用法を中心とした記事を多数掲載している。",
+      "summary": "AINOW編集部のWebサイトで、AI議事録ツールの活用法、AIエージェントツール、AIイラスト作成などのAI関連記事が多数掲載されている。特に議事録AIの効率化やZoom・Teams・Google Meetでの活用方法に関する記事が豊富に提供されている。",
       "keyPoints": [
-        "議事録AI自動化に関する記事が多数掲載されており、Zoom、Teams、Google Meetなど各プラットフォーム対応",
-        "AIエージェントツールの導入方法や比較記事で業務効率化を支援",
-        "AIイラスト生成の具体的な手法やツール紹介で創作活動をサポート"
+        "AI議事録ツールの活用法や効率化テクニックが多数紹介されている",
+        "Zoom、Teams、Google MeetなどのWeb会議プラットフォーム対応のAIツールが解説されている",
+        "AIエージェントツールやAIイラスト作成など幅広いAI活用分野をカバーしている"
       ],
-      "category": "Other",
+      "category": "AI",
       "sentiment": "positive",
-      "createdAt": "2026-01-17T01:48:50.184Z"
-    },
-    {
-      "id": "ainow-82-1768614365567",
-      "title": "#AI（人工知能）",
-      "url": "https://ainow.ai/tag/ai%ef%bc%88%e4%ba%ba%e5%b7%a5%e7%9f%a5%e8%83%bd%ef%bc%89",
-      "summary": "AI・人工知能に関する記事一覧ページで、AIアライメント、生成AIリテラシー、プロンプトエンジニアリング、大規模言語モデル（LLM）など最新のAI技術トピックを幅広くカバーしています。ChatGPTやOpenAI関連の記事が多く、ビジネス現場でのAI活用に焦点を当てた内容が中心となっています。",
-      "keyPoints": [
-        "生成AIの業務利用促進における「生成AIリテラシー」の重要性",
-        "RAGやファインチューニングによる「ドメイン特化」AI開発の進展",
-        "教育、建設業、ライティングなど様々な分野でのAI活用事例の紹介"
-      ],
-      "category": "AI/ML/LLM",
-      "sentiment": "positive",
-      "createdAt": "2026-01-17T01:48:57.326Z"
-    },
-    {
-      "id": "ainow-91-1768614365568",
-      "title": "#pickup2",
-      "url": "https://ainow.ai/tag/pickup2",
-      "summary": "AI・機械学習に関する基礎知識から応用事例まで幅広くカバーするメディアサイトのコンテンツ一覧。DX、機械学習、ディープラーニング、人工知能の定義解説記事や、AI企業分析、AI搭載製品レビュー、実用的なAIツール紹介などが含まれている。",
-      "keyPoints": [
-        "AI・機械学習の基礎概念（定義、アルゴリズム、学習手法）を初心者向けに解説",
-        "Preferred Networksなど注目AI企業の分析やAI搭載製品のレビューを提供",
-        "Google Meet議事録自動化ツールなど実用的なAIサービスを紹介"
-      ],
-      "category": "AI/ML",
-      "sentiment": "neutral",
-      "createdAt": "2026-01-17T01:49:04.465Z"
+      "createdAt": "2026-01-18T02:00:44.752Z"
     }
   ]
 }
