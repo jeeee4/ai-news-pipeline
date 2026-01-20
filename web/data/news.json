@@ -1,45 +1,21 @@
 {
-  "generatedAt": "2026-01-19T01:55:58.935Z",
+  "generatedAt": "2026-01-20T01:51:06.922Z",
   "articles": [
     {
-      "id": "ledge-4-1768787757494",
-      "title": "XでのGrok画像生成を巡り方針転換──イーロン・マスク氏が規制圧力下で技術的制限に踏み切る、一方米国防省は業務用途でGrok活用へ",
-      "url": "https://ledge.ai/articles/anthropic_cowork_launch_claude_code_agent_general_work",
+      "id": "ledge-3-1768873865727",
+      "title": "OpenAI、月8ドルの低価格プラン「ChatGPT Go」を世界展開──アクセス拡大を狙い、無料版・Go向け広告テスト方針も公表",
+      "url": "https://ledge.ai/articles/forrester_ai_job_impact_forecast_us_2025_2030",
       "summary": "ledgeから取得した記事です。",
       "keyPoints": [
         "ソース: ledge"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-01-19T01:55:57.494Z"
+      "createdAt": "2026-01-20T01:51:05.727Z"
     },
     {
-      "id": "ledge-5-1768787757494",
-      "title": "XでのGrok画像生成を巡り方針転換──イーロン・マスク氏が規制圧力下で技術的制限に踏み切る、一方米国防省は業務用途でGrok活用へ",
-      "url": "https://ledge.ai/articles/openai_softbank_sb_energy_stargate_data_center_investment",
-      "summary": "ledgeから取得した記事です。",
-      "keyPoints": [
-        "ソース: ledge"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-01-19T01:55:57.494Z"
-    },
-    {
-      "id": "ledge-6-1768787757494",
-      "title": "XでのGrok画像生成を巡り方針転換──イーロン・マスク氏が規制圧力下で技術的制限に踏み切る、一方米国防省は業務用途でGrok活用へ",
-      "url": "https://ledge.ai/articles/google_nrf2026_universal_commerce_protocol_ucp_agentic_commerce",
-      "summary": "ledgeから取得した記事です。",
-      "keyPoints": [
-        "ソース: ledge"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-01-19T01:55:57.494Z"
-    },
-    {
-      "id": "ledge-1-1768787757493",
-      "title": "XでのGrok画像生成を巡り方針転換──イーロン・マスク氏が規制圧力下で技術的制限に踏み切る、一方米国防省は業務用途でGrok活用へ",
+      "id": "ledge-4-1768873865727",
+      "title": "OpenAI、月8ドルの低価格プラン「ChatGPT Go」を世界展開──アクセス拡大を狙い、無料版・Go向け広告テスト方針も公表",
       "url": "https://ledge.ai/articles/us_war_department_ai_acceleration_strategy_grok_adoption_controversy",
       "summary": "ledgeから取得した記事です。",
       "keyPoints": [
@@ -47,11 +23,11 @@
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-01-19T01:55:57.493Z"
+      "createdAt": "2026-01-20T01:51:05.727Z"
     },
     {
-      "id": "ledge-3-1768787757493",
-      "title": "XでのGrok画像生成を巡り方針転換──イーロン・マスク氏が規制圧力下で技術的制限に踏み切る、一方米国防省は業務用途でGrok活用へ",
+      "id": "ledge-5-1768873865727",
+      "title": "OpenAI、月8ドルの低価格プラン「ChatGPT Go」を世界展開──アクセス拡大を狙い、無料版・Go向け広告テスト方針も公表",
       "url": "https://ledge.ai/articles/google_antigravity_agent_skills_open_standard",
       "summary": "ledgeから取得した記事です。",
       "keyPoints": [
@@ -59,127 +35,203 @@
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-01-19T01:55:57.493Z"
+      "createdAt": "2026-01-20T01:51:05.727Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2146061",
-      "title": "GEPAを理解する：LLMの言語能力を「学習」にも活用するプロンプト最適化",
-      "url": "https://qiita.com/taka_yayoi/items/ed8ec26fd07df3689970",
-      "summary": "qiitaから取得した記事です。",
+      "id": "ledge-6-1768873865727",
+      "title": "OpenAI、月8ドルの低価格プラン「ChatGPT Go」を世界展開──アクセス拡大を狙い、無料版・Go向け広告テスト方針も公表",
+      "url": "https://ledge.ai/articles/anthropic_cowork_launch_claude_code_agent_general_work",
+      "summary": "ledgeから取得した記事です。",
       "keyPoints": [
-        "ソース: qiita",
-        "投稿者: taka_yayoi"
+        "ソース: ledge"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-01-19T01:54:37.000Z"
+      "createdAt": "2026-01-20T01:51:05.727Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2146046",
-      "title": "【連載】ゼロから深く理解するDeep Learning 数学の旅",
-      "url": "https://qiita.com/iptracej/items/1228e3d31ab0fd647465",
-      "summary": "qiitaから取得した記事です。",
+      "id": "ledge-1-1768873865726",
+      "title": "OpenAI、月8ドルの低価格プラン「ChatGPT Go」を世界展開──アクセス拡大を狙い、無料版・Go向け広告テスト方針も公表",
+      "url": "https://ledge.ai/articles/openai_chatgpt_go_global_launch_ads_test_policy",
+      "summary": "ledgeから取得した記事です。",
       "keyPoints": [
-        "ソース: qiita",
-        "投稿者: iptracej"
+        "ソース: ledge"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-01-19T01:19:15.000Z"
+      "createdAt": "2026-01-20T01:51:05.726Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2146028",
-      "title": "さよなら、データ修正地獄。ExploratoryのAI関数による表記揺れ解決術",
-      "url": "https://qiita.com/takatoshiroto/items/ce27adb51e14fba4f3c9",
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2146532",
+      "title": "〖Transformers×埋め込み×Decoding〗Notebookを丸ごと読ませて、Qiita記事をLLMに全部書かせてみた",
+      "url": "https://qiita.com/kuririrn/items/120d2990f0b100570e60",
       "summary": "qiitaから取得した記事です。",
       "keyPoints": [
         "ソース: qiita",
-        "投稿者: takatoshiroto"
+        "投稿者: kuririrn"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-01-19T00:38:53.000Z"
+      "createdAt": "2026-01-20T01:23:45.000Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2146024",
-      "title": "大規模言語モデルにおける強化学習",
-      "url": "https://qiita.com/mihosato/items/83fc013e4081a64da97b",
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2146528",
+      "title": "【2026年最新】AI動画生成の最新動向とおすすめツールランキング",
+      "url": "https://qiita.com/jiahuih561/items/4ec8c557a4a7d0d28051",
       "summary": "qiitaから取得した記事です。",
       "keyPoints": [
         "ソース: qiita",
-        "投稿者: mihosato"
+        "投稿者: jiahuih561"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-01-19T00:33:20.000Z"
-    },
-    {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2146008",
-      "title": "IBM Bobを活用したシェルスクリプトの品質向上：HMC REST APIセッション削除ツールの改善例",
-      "url": "https://qiita.com/c_u/items/0701969b68ee1090da70",
-      "summary": "qiitaから取得した記事です。",
-      "keyPoints": [
-        "ソース: qiita",
-        "投稿者: c_u"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-01-18T23:26:39.000Z"
+      "createdAt": "2026-01-20T01:13:19.000Z"
     },
     {
       "id": "itmedia-0",
-      "title": "元OpenAI幹部、AI監査の非営利団体「AVERI」設立　「家電並みの安全確認」を目指す",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2601/19/news050.html",
+      "title": "生成AIで50万点以上作成か　女性芸能人模したわいせつ画像公開疑い、31歳男逮捕",
+      "url": "https://www.itmedia.co.jp/news/articles/2601/20/news066.html",
       "summary": "itmediaから取得した記事です。",
       "keyPoints": [
         "ソース: itmedia"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-01-18T22:25:00.000Z"
+      "createdAt": "2026-01-20T01:11:00.000Z"
+    },
+    {
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2146519",
+      "title": "Claude Codeを使いこなす完全ガイド - 生産性を劇的に向上させる17のテクニック",
+      "url": "https://qiita.com/koras7788/items/540e9c60095243a888d3",
+      "summary": "qiitaから取得した記事です。",
+      "keyPoints": [
+        "ソース: qiita",
+        "投稿者: koras7788"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-01-20T00:47:41.000Z"
+    },
+    {
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2146494",
+      "title": "「コードを書くのが好き」だと思ってた。でも違った。",
+      "url": "https://qiita.com/easegis/items/881026461f3c958d101e",
+      "summary": "qiitaから取得した記事です。",
+      "keyPoints": [
+        "ソース: qiita",
+        "投稿者: easegis"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-01-20T00:01:35.000Z"
+    },
+    {
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2146480",
+      "title": "個人開発のAIアプリをServerless化したら月額$7で運用できた件",
+      "url": "https://qiita.com/JaminL/items/3f76045c4b7696744fb3",
+      "summary": "qiitaから取得した記事です。",
+      "keyPoints": [
+        "ソース: qiita",
+        "投稿者: JaminL"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-01-19T23:34:58.000Z"
+    },
+    {
+      "id": 46684958,
+      "title": "Nanolang: A tiny experimental language designed to be targeted by coding LLMs",
+      "url": "https://github.com/jordanhubbard/nanolang",
+      "summary": "Hacker Newsで69ポイント、34件のコメントを獲得した記事です。",
+      "keyPoints": [
+        "スコア: 69",
+        "コメント数: 34",
+        "投稿者: Scramblejams"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-01-19T21:48:07.000Z"
     },
     {
       "id": "itmedia-1",
-      "title": "「管理職罰ゲーム」化は過去のものに　AI活用でマネジャーの働き方はどう変わる？",
-      "url": "https://www.itmedia.co.jp/business/articles/2601/19/news019.html",
+      "title": "業務用大型ロボと家庭用小型ロボがオフィスビルで協働、日建設計がRMFを適用",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2601/20/news039.html",
       "summary": "itmediaから取得した記事です。",
       "keyPoints": [
         "ソース: itmedia"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-01-18T22:00:00.000Z"
+      "createdAt": "2026-01-19T21:30:00.000Z"
+    },
+    {
+      "id": 46684708,
+      "title": "The assistant axis: situating and stabilizing the character of LLMs",
+      "url": "https://www.anthropic.com/research/assistant-axis",
+      "summary": "Hacker Newsで51ポイント、8件のコメントを獲得した記事です。",
+      "keyPoints": [
+        "スコア: 51",
+        "コメント数: 8",
+        "投稿者: mfiguiere"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-01-19T21:25:16.000Z"
     },
     {
       "id": "itmedia-2",
-      "title": "Repromptとは何か：1クリックで情報が盗まれる生成AI攻撃の仕組み",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2601/19/news017.html",
+      "title": "Python 3.15.0a5がリリースされたので今後のスケジュールや新機能についてまとめてみた",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2601/20/news017.html",
       "summary": "itmediaから取得した記事です。",
       "keyPoints": [
         "ソース: itmedia"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-01-18T20:00:00.000Z"
+      "createdAt": "2026-01-19T20:00:00.000Z"
     },
     {
-      "id": 46668021,
-      "title": "Predicting OpenAI's ad strategy",
-      "url": "https://ossa-ma.github.io/blog/openads",
-      "summary": "Hacker Newsで480ポイント、411件のコメントを獲得した記事です。",
+      "id": "itmedia-3",
+      "title": "GPT-5.2-Codexが主要ツールで解禁　「Windows最適化」×「長時間エージェント」で実用性が向上",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2601/20/news014.html",
+      "summary": "itmediaから取得した記事です。",
       "keyPoints": [
-        "スコア: 480",
-        "コメント数: 411",
-        "投稿者: calcifer"
+        "ソース: itmedia"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-01-18T14:25:49.000Z"
+      "createdAt": "2026-01-19T20:00:00.000Z"
+    },
+    {
+      "id": "itmedia-4",
+      "title": "「作品のAI学習や加工は禁止」、一迅社のBLレーベルが呼び掛け",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2601/19/news107.html",
+      "summary": "itmediaから取得した記事です。",
+      "keyPoints": [
+        "ソース: itmedia"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-01-19T09:30:00.000Z"
+    },
+    {
+      "id": 46676081,
+      "title": "The coming industrialisation of exploit generation with LLMs",
+      "url": "https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/",
+      "summary": "Hacker Newsで68ポイント、53件のコメントを獲得した記事です。",
+      "keyPoints": [
+        "スコア: 68",
+        "コメント数: 53",
+        "投稿者: long"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-01-19T07:57:04.000Z"
     },
     {
       "id": 10000,
       "title": "AI for self empowerment",
-      "url": "https://openai.com/index/ai-for-human-agency",
+      "url": "https://openai.com/index/ai-for-self-empowerment",
       "summary": "How AI can expand human agency by closing the capability overhang—helping people, businesses, and countries unlock real productivity, growth, and opportunity.",
       "keyPoints": [
         "ソース: OpenAI"
@@ -201,30 +253,6 @@
       "createdAt": "2026-01-18T10:00:00.000Z"
     },
     {
-      "id": "itmedia-3",
-      "title": "ChatGPTに月額1500円の「Go」プラン登場　広告表示テストも開始",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2601/17/news031.html",
-      "summary": "itmediaから取得した記事です。",
-      "keyPoints": [
-        "ソース: itmedia"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-01-16T22:23:00.000Z"
-    },
-    {
-      "id": "itmedia-4",
-      "title": "生成AI利用でデータ漏えいリスクは2倍に　企業に求められる進退",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2601/17/news014.html",
-      "summary": "itmediaから取得した記事です。",
-      "keyPoints": [
-        "ソース: itmedia"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-01-16T22:00:00.000Z"
-    },
-    {
       "id": 10002,
       "title": "The truth left out from Elon Musk’s recent court filing",
       "url": "https://openai.com/index/the-truth-elon-left-out",
@@ -238,9 +266,9 @@
     },
     {
       "id": 10003,
-      "title": "Our approach to advertising and expanding access to ChatGPT",
-      "url": "https://openai.com/index/our-approach-to-advertising-and-expanding-access",
-      "summary": "OpenAI plans to test advertising in the U.S. for ChatGPT’s free and Go tiers to expand affordable access to AI worldwide, while protecting privacy, trust, and answer quality.",
+      "title": "Introducing ChatGPT Go, now available worldwide",
+      "url": "https://openai.com/index/introducing-chatgpt-go",
+      "summary": "ChatGPT Go is now available worldwide, offering expanded access to GPT-5.2 Instant, higher usage limits, and longer memory—making advanced AI more affordable globally.",
       "keyPoints": [
         "ソース: OpenAI"
       ],
@@ -250,9 +278,9 @@
     },
     {
       "id": 10004,
-      "title": "Introducing ChatGPT Go, now available worldwide",
-      "url": "https://openai.com/index/introducing-chatgpt-go",
-      "summary": "ChatGPT Go is now available worldwide, offering expanded access to GPT-5.2 Instant, higher usage limits, and longer memory—making advanced AI more affordable globally.",
+      "title": "Our approach to advertising and expanding access to ChatGPT",
+      "url": "https://openai.com/index/our-approach-to-advertising-and-expanding-access",
+      "summary": "OpenAI plans to test advertising in the U.S. for ChatGPT’s free and Go tiers to expand affordable access to AI worldwide, while protecting privacy, trust, and answer quality.",
       "keyPoints": [
         "ソース: OpenAI"
       ],
@@ -309,7 +337,7 @@
       "createdAt": "2026-01-15T00:00:00.000Z"
     },
     {
-      "id": "aishinbun-0-1768787758912",
+      "id": "aishinbun-0-1768873866899",
       "title": "寿命160歳時代の衝撃",
       "url": "https://community.exawizards.com/aishinbun/news-1-15-2026/",
       "summary": "aishinbunから取得した記事です。",
@@ -321,21 +349,7 @@
       "createdAt": "2026-01-15T00:00:00.000Z"
     },
     {
-      "id": 46614487,
-      "title": "More sustainable epoxy thanks to phosphorus",
-      "url": "https://www.empa.ch/web/s604/flamm-hemmendes-epoxidharz-nachhaltiger-machen",
-      "summary": "Hacker Newsで76ポイント、35件のコメントを獲得した記事です。",
-      "keyPoints": [
-        "スコア: 76",
-        "コメント数: 35",
-        "投稿者: JeanKage"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-01-14T10:43:31.000Z"
-    },
-    {
-      "id": "aishinbun-1-1768787758912",
+      "id": "aishinbun-1-1768873866899",
       "title": "AIが進化すると、なぜGDPは崩壊するのか？",
       "url": "https://community.exawizards.com/aishinbun/news-1-14-2026/",
       "summary": "aishinbunから取得した記事です。",
@@ -371,20 +385,6 @@
       "createdAt": "2026-01-13T20:57:16.000Z"
     },
     {
-      "id": 46605155,
-      "title": "Using proxies to hide secrets from Claude Code",
-      "url": "https://www.joinformal.com/blog/using-proxies-to-hide-secrets-from-claude-code/",
-      "summary": "Hacker Newsで16ポイント、2件のコメントを獲得した記事です。",
-      "keyPoints": [
-        "スコア: 16",
-        "コメント数: 2",
-        "投稿者: drewgregory"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-01-13T18:12:09.000Z"
-    },
-    {
       "id": 10011,
       "title": "Dynamic surface codes open new avenues for quantum error correction",
       "url": "https://research.google/blog/dynamic-surface-codes-open-new-avenues-for-quantum-error-correction/",
@@ -409,7 +409,7 @@
       "createdAt": "2026-01-12T17:52:00.000Z"
     },
     {
-      "id": "aishinbun-2-1768787758912",
+      "id": "aishinbun-2-1768873866899",
       "title": "2026年、AIは本当に「賢くなった」のか",
       "url": "https://community.exawizards.com/aishinbun/news-2026-1-7/",
       "summary": "aishinbunから取得した記事です。",
@@ -457,7 +457,7 @@
       "createdAt": "2026-01-05T00:00:00.000Z"
     },
     {
-      "id": "aishinbun-3-1768787758912",
+      "id": "aishinbun-3-1768873866899",
       "title": "「AGIは実現したということで、次に行こう」",
       "url": "https://community.exawizards.com/aishinbun/news-12-27-2025/",
       "summary": "aishinbunから取得した記事です。",
@@ -469,7 +469,7 @@
       "createdAt": "2025-12-27T00:00:00.000Z"
     },
     {
-      "id": "aishinbun-4-1768787758912",
+      "id": "aishinbun-4-1768873866899",
       "title": "AIインフラは宇宙へ",
       "url": "https://community.exawizards.com/aishinbun/news-12-22-2025/",
       "summary": "aishinbunから取得した記事です。",
@@ -529,7 +529,7 @@
       "createdAt": "2025-11-25T17:00:00.000Z"
     },
     {
-      "id": "ainow-144-1768787758090",
+      "id": "ainow-144-1768873866247",
       "title": "新着記事",
       "url": "https://ainow.ai/2025/08/28/277802/",
       "summary": "ainowから取得した記事です。",
@@ -541,7 +541,7 @@
       "createdAt": "2025-08-28T00:00:00.000Z"
     },
     {
-      "id": "ainow-72-1768787758084",
+      "id": "ainow-72-1768873866240",
       "title": "#DX",
       "url": "https://ainow.ai/tag/dx",
       "summary": "ainowから取得した記事です。",
@@ -553,7 +553,7 @@
       "createdAt": "2021-06-17T00:00:00.000Z"
     },
     {
-      "id": "ainow-109-1768787758087",
+      "id": "ainow-109-1768873866244",
       "title": "AINOW編集部",
       "url": "https://ainow.ai/category/ainoweditor",
       "summary": "ainowから取得した記事です。",
@@ -565,7 +565,7 @@
       "createdAt": "2021-06-17T00:00:00.000Z"
     },
     {
-      "id": "ainow-82-1768787758085",
+      "id": "ainow-82-1768873866241",
       "title": "#AI（人工知能）",
       "url": "https://ainow.ai/tag/ai%ef%bc%88%e4%ba%ba%e5%b7%a5%e7%9f%a5%e8%83%bd%ef%bc%89",
       "summary": "ainowから取得した記事です。",
@@ -577,7 +577,7 @@
       "createdAt": "2019-11-26T00:00:00.000Z"
     },
     {
-      "id": "ainow-91-1768787758085",
+      "id": "ainow-91-1768873866241",
       "title": "#pickup2",
       "url": "https://ainow.ai/tag/pickup2",
       "summary": "ainowから取得した記事です。",
