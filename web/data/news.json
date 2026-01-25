@@ -1,20 +1,8 @@
 {
-  "generatedAt": "2026-01-24T01:47:54.845Z",
+  "generatedAt": "2026-01-25T02:01:28.886Z",
   "articles": [
     {
-      "id": "ledge-5-1769219273100",
-      "title": "OpenAI、年換算売上高200億ドル（約3.1兆円）超を公表──計算資源を拡大し「知能の価値」に連動する事業へ",
-      "url": "https://ledge.ai/articles/zai_glm_image_autoregressive_diffusion_image_generation",
-      "summary": "ledgeから取得した記事です。",
-      "keyPoints": [
-        "ソース: ledge"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-01-24T01:47:53.100Z"
-    },
-    {
-      "id": "ledge-6-1769219273100",
+      "id": "ledge-6-1769306487464",
       "title": "OpenAI、年換算売上高200億ドル（約3.1兆円）超を公表──計算資源を拡大し「知能の価値」に連動する事業へ",
       "url": "https://ledge.ai/articles/quantum_chatgpt_moment_superq_chatqlm_ces2026",
       "summary": "ledgeから取得した記事です。",
@@ -23,10 +11,10 @@
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-01-24T01:47:53.100Z"
+      "createdAt": "2026-01-25T02:01:27.464Z"
     },
     {
-      "id": "ledge-1-1769219273099",
+      "id": "ledge-1-1769306487463",
       "title": "OpenAI、年換算売上高200億ドル（約3.1兆円）超を公表──計算資源を拡大し「知能の価値」に連動する事業へ",
       "url": "https://ledge.ai/articles/openai_annualized_revenue_20b_compute_scales_with_intelligence_value",
       "summary": "ledgeから取得した記事です。",
@@ -35,10 +23,10 @@
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-01-24T01:47:53.099Z"
+      "createdAt": "2026-01-25T02:01:27.463Z"
     },
     {
-      "id": "ledge-3-1769219273099",
+      "id": "ledge-3-1769306487463",
       "title": "OpenAI、年換算売上高200億ドル（約3.1兆円）超を公表──計算資源を拡大し「知能の価値」に連動する事業へ",
       "url": "https://ledge.ai/articles/common_test_2026_chatgpt_full_marks_9_subjects_lifeprompt_analysis",
       "summary": "ledgeから取得した記事です。",
@@ -47,10 +35,10 @@
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-01-24T01:47:53.099Z"
+      "createdAt": "2026-01-25T02:01:27.463Z"
     },
     {
-      "id": "ledge-4-1769219273099",
+      "id": "ledge-4-1769306487463",
       "title": "OpenAI、年換算売上高200億ドル（約3.1兆円）超を公表──計算資源を拡大し「知能の価値」に連動する事業へ",
       "url": "https://ledge.ai/articles/elyza_llm_diffusion_japanese_dllm_release",
       "summary": "ledgeから取得した記事です。",
@@ -59,72 +47,126 @@
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-01-24T01:47:53.099Z"
+      "createdAt": "2026-01-25T02:01:27.463Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2148395",
-      "title": "RAGの精度が73%から100%に向上した話 ─ チャンキング戦略の比較検証",
-      "url": "https://qiita.com/oharu121/items/1d06fb2fd01aca05a1a4",
-      "summary": "qiitaから取得した記事です。",
+      "id": "ledge-5-1769306487463",
+      "title": "OpenAI、年換算売上高200億ドル（約3.1兆円）超を公表──計算資源を拡大し「知能の価値」に連動する事業へ",
+      "url": "https://ledge.ai/articles/zai_glm_image_autoregressive_diffusion_image_generation",
+      "summary": "ledgeから取得した記事です。",
       "keyPoints": [
-        "ソース: qiita",
-        "投稿者: oharu121"
+        "ソース: ledge"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-01-24T01:30:34.000Z"
+      "createdAt": "2026-01-25T02:01:27.463Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2148383",
-      "title": "2026/01/24 今日のQiitaトレンド記事をポッドキャストで聴こう！",
-      "url": "https://qiita.com/ennagara128/items/8bf6e3c0b4bbe3e84fe7",
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2148836",
+      "title": "生成AIを取り入れた結婚式の写真採点サービスを作ってみた話",
+      "url": "https://qiita.com/uminchu987/items/602f118a00caf4e3b421",
       "summary": "qiitaから取得した記事です。",
       "keyPoints": [
         "ソース: qiita",
-        "投稿者: ennagara128"
+        "投稿者: uminchu987"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-01-24T00:52:31.000Z"
+      "createdAt": "2026-01-25T01:03:50.000Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2148372",
-      "title": "CosyVoiceってなんだ？〜Alibaba発の音声クローンAIをWindowsで完全攻略〜",
-      "url": "https://qiita.com/GeneLab_999/items/f08c41121e3156ed22d2",
+      "id": 46749198,
+      "title": "Adoption of EVs tied to real-world reductions in air pollution: study",
+      "url": "https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/",
+      "summary": "Hacker Newsで27ポイント、1件のコメントを獲得した記事です。",
+      "keyPoints": [
+        "スコア: 27",
+        "コメント数: 1",
+        "投稿者: hhs"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-01-25T00:14:40.000Z"
+    },
+    {
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2148824",
+      "title": "「AIが1時間で月1000ドル稼ぐスタートアップを作る時代」に、IT開発者が心がけるべきこと（2026）",
+      "url": "https://qiita.com/mhamadajp/items/e5b59a2d47cead85b9f0",
       "summary": "qiitaから取得した記事です。",
       "keyPoints": [
         "ソース: qiita",
-        "投稿者: GeneLab_999"
+        "投稿者: mhamadajp"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-01-23T23:53:52.000Z"
+      "createdAt": "2026-01-25T00:11:04.000Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2148369",
-      "title": "なぜ AI は検知エンジニアを置き換えられないのか：Build vs Buy と SOC の未来 ― AI SOC は現実か、それともベンダーの誇大広告か？",
-      "url": "https://qiita.com/Genjinomonogatari/items/7ea71c7099bc08aa5309",
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2148797",
+      "title": "SSH接続先のプロジェクトをVScodeで編集しよう",
+      "url": "https://qiita.com/takulabo/items/58ae57b590f135a13cf9",
       "summary": "qiitaから取得した記事です。",
       "keyPoints": [
         "ソース: qiita",
-        "投稿者: Genjinomonogatari"
+        "投稿者: takulabo"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-01-23T23:50:29.000Z"
+      "createdAt": "2026-01-24T21:10:37.000Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2148357",
-      "title": "「TimeRain」開発日誌　２日目",
-      "url": "https://qiita.com/galeanthropy2/items/7309b956f48dea04eb60",
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2148786",
+      "title": "【保存版】RalphとClaude Codeで「完全自律開発環境」を構築する完全ガイド",
+      "url": "https://qiita.com/emi_ndk/items/881a29ae3f314884c5d4",
       "summary": "qiitaから取得した記事です。",
       "keyPoints": [
         "ソース: qiita",
-        "投稿者: galeanthropy2"
+        "投稿者: emi_ndk"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-01-23T22:58:45.000Z"
+      "createdAt": "2026-01-24T19:14:17.000Z"
+    },
+    {
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2148784",
+      "title": "2025年はAI投資のみ。2026年はAI収益化元年。",
+      "url": "https://qiita.com/nekko_it/items/ceb90c7009cbee0282a3",
+      "summary": "qiitaから取得した記事です。",
+      "keyPoints": [
+        "ソース: qiita",
+        "投稿者: nekko_it"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-01-24T19:12:21.000Z"
+    },
+    {
+      "id": 46745922,
+      "title": "Raspberry Pi Drag Race: Pi 1 to Pi 5 – Performance Comparison",
+      "url": "https://the-diy-life.com/raspberry-pi-drag-race-pi-1-to-pi-5-performance-comparison/",
+      "summary": "Hacker Newsで123ポイント、68件のコメントを獲得した記事です。",
+      "keyPoints": [
+        "スコア: 123",
+        "コメント数: 68",
+        "投稿者: verginer"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-01-24T18:06:00.000Z"
+    },
+    {
+      "id": 46743908,
+      "title": "Claude Code's new hidden feature: Swarms",
+      "url": "https://twitter.com/NicerInPerson/status/2014989679796347375",
+      "summary": "Hacker Newsで299ポイント、220件のコメントを獲得した記事です。",
+      "keyPoints": [
+        "スコア: 299",
+        "コメント数: 220",
+        "投稿者: AffableSpatula"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-01-24T14:35:47.000Z"
     },
     {
       "id": 10000,
@@ -139,20 +181,6 @@
       "createdAt": "2026-01-23T17:46:00.000Z"
     },
     {
-      "id": 46733301,
-      "title": "Waypoint-1: Real-Time Interactive Video Diffusion from Overworld",
-      "url": "https://huggingface.co/blog/waypoint-1",
-      "summary": "Hacker Newsで60ポイント、15件のコメントを獲得した記事です。",
-      "keyPoints": [
-        "スコア: 60",
-        "コメント数: 15",
-        "投稿者: avaer"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-01-23T15:03:01.000Z"
-    },
-    {
       "id": 10001,
       "title": "Unrolling the Codex agent loop",
       "url": "https://openai.com/index/unrolling-the-codex-agent-loop",
@@ -163,20 +191,6 @@
       "category": "AI",
       "sentiment": "neutral",
       "createdAt": "2026-01-23T12:00:00.000Z"
-    },
-    {
-      "id": 46729368,
-      "title": "Proton Spam and the AI Consent Problem",
-      "url": "https://dbushell.com/2026/01/22/proton-spam/",
-      "summary": "Hacker Newsで469ポイント、327件のコメントを獲得した記事です。",
-      "keyPoints": [
-        "スコア: 469",
-        "コメント数: 327",
-        "投稿者: dbushell"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-01-23T07:01:29.000Z"
     },
     {
       "id": "itmedia-0",
@@ -215,7 +229,7 @@
       "createdAt": "2026-01-23T00:31:00.000Z"
     },
     {
-      "id": "aishinbun-0-1769219274343",
+      "id": "aishinbun-0-1769306488673",
       "title": "1500億円契約をGoogleに奪われたOpenAIが、それでも「余裕」を見せる理由",
       "url": "https://community.exawizards.com/aishinbun/news-01-23-2026/",
       "summary": "aishinbunから取得した記事です。",
@@ -249,20 +263,6 @@
       "category": "AI",
       "sentiment": "neutral",
       "createdAt": "2026-01-22T23:00:00.000Z"
-    },
-    {
-      "id": 46725632,
-      "title": "Anthropic Economic Index report: economic primitives",
-      "url": "https://www.anthropic.com/research/anthropic-economic-index-january-2026-report",
-      "summary": "Hacker Newsで109ポイント、66件のコメントを獲得した記事です。",
-      "keyPoints": [
-        "スコア: 109",
-        "コメント数: 66",
-        "投稿者: malshe"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-01-22T21:54:02.000Z"
     },
     {
       "id": 10002,
@@ -409,7 +409,7 @@
       "createdAt": "2026-01-15T00:00:00.000Z"
     },
     {
-      "id": "aishinbun-1-1769219274344",
+      "id": "aishinbun-1-1769306488673",
       "title": "寿命160歳時代の衝撃",
       "url": "https://community.exawizards.com/aishinbun/news-1-15-2026/",
       "summary": "aishinbunから取得した記事です。",
@@ -421,7 +421,7 @@
       "createdAt": "2026-01-15T00:00:00.000Z"
     },
     {
-      "id": "aishinbun-2-1769219274344",
+      "id": "aishinbun-2-1769306488674",
       "title": "AIが進化すると、なぜGDPは崩壊するのか？",
       "url": "https://community.exawizards.com/aishinbun/news-1-14-2026/",
       "summary": "aishinbunから取得した記事です。",
@@ -457,7 +457,7 @@
       "createdAt": "2026-01-13T20:57:16.000Z"
     },
     {
-      "id": "aishinbun-3-1769219274344",
+      "id": "aishinbun-3-1769306488674",
       "title": "2026年、AIは本当に「賢くなった」のか",
       "url": "https://community.exawizards.com/aishinbun/news-2026-1-7/",
       "summary": "aishinbunから取得した記事です。",
@@ -481,7 +481,7 @@
       "createdAt": "2026-01-05T22:56:51.000Z"
     },
     {
-      "id": "aishinbun-4-1769219274344",
+      "id": "aishinbun-4-1769306488674",
       "title": "「AGIは実現したということで、次に行こう」",
       "url": "https://community.exawizards.com/aishinbun/news-12-27-2025/",
       "summary": "aishinbunから取得した記事です。",
@@ -529,7 +529,7 @@
       "createdAt": "2025-12-09T16:00:00.000Z"
     },
     {
-      "id": "ainow-144-1769219273584",
+      "id": "ainow-144-1769306487896",
       "title": "新着記事",
       "url": "https://ainow.ai/2025/08/28/277802/",
       "summary": "ainowから取得した記事です。",
@@ -541,7 +541,7 @@
       "createdAt": "2025-08-28T00:00:00.000Z"
     },
     {
-      "id": "ainow-72-1769219273579",
+      "id": "ainow-72-1769306487887",
       "title": "#DX",
       "url": "https://ainow.ai/tag/dx",
       "summary": "ainowから取得した記事です。",
@@ -553,7 +553,7 @@
       "createdAt": "2021-06-17T00:00:00.000Z"
     },
     {
-      "id": "ainow-109-1769219273582",
+      "id": "ainow-109-1769306487892",
       "title": "AINOW編集部",
       "url": "https://ainow.ai/category/ainoweditor",
       "summary": "ainowから取得した記事です。",
@@ -565,7 +565,7 @@
       "createdAt": "2021-06-17T00:00:00.000Z"
     },
     {
-      "id": "ainow-82-1769219273580",
+      "id": "ainow-82-1769306487888",
       "title": "#AI（人工知能）",
       "url": "https://ainow.ai/tag/ai%ef%bc%88%e4%ba%ba%e5%b7%a5%e7%9f%a5%e8%83%bd%ef%bc%89",
       "summary": "ainowから取得した記事です。",
@@ -577,7 +577,7 @@
       "createdAt": "2019-11-26T00:00:00.000Z"
     },
     {
-      "id": "ainow-91-1769219273580",
+      "id": "ainow-91-1769306487889",
       "title": "#pickup2",
       "url": "https://ainow.ai/tag/pickup2",
       "summary": "ainowから取得した記事です。",
