@@ -1,44 +1,8 @@
 {
-  "generatedAt": "2026-01-30T02:07:47.761Z",
+  "generatedAt": "2026-01-31T02:03:55.010Z",
   "articles": [
     {
-      "id": "ledge-3-1769738866412",
-      "title": "Google、月額1,200円のAI有料プラン「Google AI Plus」日本展開　Geminiなどの利用枠を拡張",
-      "url": "https://ledge.ai/articles/china_ai_open_source_reasoning_models_qwen3_max_thinking_kimi_k2_5",
-      "summary": "ledgeから取得した記事です。",
-      "keyPoints": [
-        "ソース: ledge"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-01-30T02:07:46.412Z"
-    },
-    {
-      "id": "ledge-4-1769738866412",
-      "title": "Google、月額1,200円のAI有料プラン「Google AI Plus」日本展開　Geminiなどの利用枠を拡張",
-      "url": "https://ledge.ai/articles/ai_five_layer_cake_jensen_huang_davos_wef",
-      "summary": "ledgeから取得した記事です。",
-      "keyPoints": [
-        "ソース: ledge"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-01-30T02:07:46.412Z"
-    },
-    {
-      "id": "ledge-5-1769738866412",
-      "title": "Google、月額1,200円のAI有料プラン「Google AI Plus」日本展開　Geminiなどの利用枠を拡張",
-      "url": "https://ledge.ai/articles/musk_davos2026_optimus_humanoid_robot_sales_2027",
-      "summary": "ledgeから取得した記事です。",
-      "keyPoints": [
-        "ソース: ledge"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-01-30T02:07:46.412Z"
-    },
-    {
-      "id": "ledge-6-1769738866412",
+      "id": "ledge-6-1769825033843",
       "title": "Google、月額1,200円のAI有料プラン「Google AI Plus」日本展開　Geminiなどの利用枠を拡張",
       "url": "https://ledge.ai/articles/deepmind_d4rt_4d_video_3d_reconstruction",
       "summary": "ledgeから取得した記事です。",
@@ -47,10 +11,10 @@
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-01-30T02:07:46.412Z"
+      "createdAt": "2026-01-31T02:03:53.843Z"
     },
     {
-      "id": "ledge-1-1769738866411",
+      "id": "ledge-1-1769825033842",
       "title": "Google、月額1,200円のAI有料プラン「Google AI Plus」日本展開　Geminiなどの利用枠を拡張",
       "url": "https://ledge.ai/articles/google_ai_plus_launch_japan_1200yen",
       "summary": "ledgeから取得した記事です。",
@@ -59,134 +23,210 @@
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-01-30T02:07:46.411Z"
+      "createdAt": "2026-01-31T02:03:53.842Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2151270",
-      "title": "zoldofは何者なのか？ORへの接続と「業務」という言葉の限界",
-      "url": "https://qiita.com/zoldof/items/e33808cc7b1280f133f7",
-      "summary": "qiitaから取得した記事です。",
+      "id": "ledge-3-1769825033842",
+      "title": "Google、月額1,200円のAI有料プラン「Google AI Plus」日本展開　Geminiなどの利用枠を拡張",
+      "url": "https://ledge.ai/articles/china_ai_open_source_reasoning_models_qwen3_max_thinking_kimi_k2_5",
+      "summary": "ledgeから取得した記事です。",
       "keyPoints": [
-        "ソース: qiita",
-        "投稿者: zoldof"
+        "ソース: ledge"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-01-30T01:16:09.000Z"
+      "createdAt": "2026-01-31T02:03:53.842Z"
+    },
+    {
+      "id": "ledge-4-1769825033842",
+      "title": "Google、月額1,200円のAI有料プラン「Google AI Plus」日本展開　Geminiなどの利用枠を拡張",
+      "url": "https://ledge.ai/articles/ai_five_layer_cake_jensen_huang_davos_wef",
+      "summary": "ledgeから取得した記事です。",
+      "keyPoints": [
+        "ソース: ledge"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-01-31T02:03:53.842Z"
+    },
+    {
+      "id": "ledge-5-1769825033842",
+      "title": "Google、月額1,200円のAI有料プラン「Google AI Plus」日本展開　Geminiなどの利用枠を拡張",
+      "url": "https://ledge.ai/articles/musk_davos2026_optimus_humanoid_robot_sales_2027",
+      "summary": "ledgeから取得した記事です。",
+      "keyPoints": [
+        "ソース: ledge"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-01-31T02:03:53.842Z"
+    },
+    {
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2151792",
+      "title": "AIを触っていて気がついたこと",
+      "url": "https://qiita.com/almajiro121212/items/8a23bbe7557dabb685a2",
+      "summary": "qiitaから取得した記事です。",
+      "keyPoints": [
+        "ソース: qiita",
+        "投稿者: almajiro121212"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-01-31T01:39:56.000Z"
+    },
+    {
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2151787",
+      "title": "【AWS】Kiroのステアリングの適用タイミングとスコープの検証【Kiro】",
+      "url": "https://qiita.com/Nana_777/items/9130b466b5cb82e3a82e",
+      "summary": "qiitaから取得した記事です。",
+      "keyPoints": [
+        "ソース: qiita",
+        "投稿者: Nana_777"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-01-31T01:27:33.000Z"
+    },
+    {
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2151776",
+      "title": "【爆速】膨大なニュース・地殻変動データをAIでスコア化したら、為替も地震も「未来」が視えすぎて震えた件",
+      "url": "https://qiita.com/d94231/items/d7ecefc7d8772d5045d1",
+      "summary": "qiitaから取得した記事です。",
+      "keyPoints": [
+        "ソース: qiita",
+        "投稿者: d94231"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-01-31T00:56:56.000Z"
+    },
+    {
+      "id": 46832074,
+      "title": "Show HN: I trained a 9M speech model to fix my Mandarin tones",
+      "url": "https://simedw.com/2026/01/31/ear-pronunication-via-ctc/",
+      "summary": "Hacker Newsで46ポイント、9件のコメントを獲得した記事です。",
+      "keyPoints": [
+        "スコア: 46",
+        "コメント数: 9",
+        "投稿者: simedw"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-01-31T00:51:27.000Z"
+    },
+    {
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2151769",
+      "title": "【RAG】一問一答で終わらせない！RAGに『文脈』を理解させてチャット形式で対話するためには",
+      "url": "https://qiita.com/nAotO01_03/items/19b4d6fba171239c5e16",
+      "summary": "qiitaから取得した記事です。",
+      "keyPoints": [
+        "ソース: qiita",
+        "投稿者: nAotO01_03"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-01-31T00:49:49.000Z"
+    },
+    {
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2151768",
+      "title": "DPOによる選好学習でLLMをファインチューニングする方法",
+      "url": "https://qiita.com/atsushi11o7/items/b6d6bb48a2888acb961c",
+      "summary": "qiitaから取得した記事です。",
+      "keyPoints": [
+        "ソース: qiita",
+        "投稿者: atsushi11o7"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-01-31T00:49:38.000Z"
+    },
+    {
+      "id": 46831702,
+      "title": "The $100B Megadeal Between OpenAI and Nvidia Is on Ice",
+      "url": "https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3",
+      "summary": "Hacker Newsで130ポイント、36件のコメントを獲得した記事です。",
+      "keyPoints": [
+        "スコア: 130",
+        "コメント数: 36",
+        "投稿者: pixelesque"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-01-31T00:02:30.000Z"
     },
     {
       "id": "itmedia-0",
-      "title": "Google、“歩ける”世界を生成する「Project Genie」を米国で試験公開　「Genie 3」と「Nano Banana Pro」を統合",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2601/30/news075.html",
+      "title": "AI同士で相談させて“最強の布陣”を組む新技術　日立製作所が開発",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2601/31/news014.html",
       "summary": "itmediaから取得した記事です。",
       "keyPoints": [
         "ソース: itmedia"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-01-30T01:15:00.000Z"
+      "createdAt": "2026-01-30T23:00:00.000Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2151254",
-      "title": "2026/01/30 今日のQiitaトレンド記事をポッドキャストで聴こう！",
-      "url": "https://qiita.com/ennagara128/items/82ec833386bb3f638628",
-      "summary": "qiitaから取得した記事です。",
+      "id": 46830698,
+      "title": "Show HN: I built an AI conversation partner to practice speaking languages",
+      "url": "https://apps.apple.com/us/app/talkbits-speak-naturally/id6756824177",
+      "summary": "Hacker Newsで46ポイント、33件のコメントを獲得した記事です。",
       "keyPoints": [
-        "ソース: qiita",
-        "投稿者: ennagara128"
+        "スコア: 46",
+        "コメント数: 33",
+        "投稿者: omarisbuilding"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-01-29T23:58:45.000Z"
-    },
-    {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2151240",
-      "title": "第5回: 現状分析（As-Is）: カオスな業務フローを、AIに「描かせ」る",
-      "url": "https://qiita.com/Hiroki_Azuma/items/8230e428eaede68a68b9",
-      "summary": "qiitaから取得した記事です。",
-      "keyPoints": [
-        "ソース: qiita",
-        "投稿者: Hiroki_Azuma"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-01-29T23:07:21.000Z"
-    },
-    {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2151239",
-      "title": "大規模言語モデル×進化戦略の適用×連続学習における致命的忘却の解明",
-      "url": "https://qiita.com/GYact/items/5e5224aa3cc0ebb93154",
-      "summary": "qiitaから取得した記事です。",
-      "keyPoints": [
-        "ソース: qiita",
-        "投稿者: GYact"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-01-29T23:06:03.000Z"
+      "createdAt": "2026-01-30T22:16:19.000Z"
     },
     {
       "id": "itmedia-1",
-      "title": "2026年の景気は少し改善？　AIエージェント、人型ロボット、フィジカルAIに注目",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2601/30/news066.html",
+      "title": "生成AI利用者、過半数が利用規約を確認せず　リスク意識は高いが「認識と行動にギャップ」　LINEヤフー調査",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2601/30/news117.html",
       "summary": "itmediaから取得した記事です。",
       "keyPoints": [
         "ソース: itmedia"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-01-29T23:00:00.000Z"
+      "createdAt": "2026-01-30T08:58:00.000Z"
     },
     {
       "id": "itmedia-2",
-      "title": "Apple、ささやき声解釈や顔の動き検知向けAIを手掛ける新興企業Q.ai買収",
-      "url": "https://www.itmedia.co.jp/news/articles/2601/30/news071.html",
+      "title": "LOVOTそっくり？　SWITCHBOTのペットロボ「KATAフレンズ」予約開始　12万9800円",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2601/30/news112.html",
       "summary": "itmediaから取得した記事です。",
       "keyPoints": [
         "ソース: itmedia"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-01-29T22:37:00.000Z"
-    },
-    {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2151226",
-      "title": "数学難問未解決問題：癌転移のメカニズム解明と物理的封じ込め",
-      "url": "https://qiita.com/m_tookuni/items/508227cdfe3ee939ada9",
-      "summary": "qiitaから取得した記事です。",
-      "keyPoints": [
-        "ソース: qiita",
-        "投稿者: m_tookuni"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-01-29T22:08:12.000Z"
-    },
-    {
-      "id": 46816357,
-      "title": "The WiFi only works when it's raining (2024)",
-      "url": "https://predr.ag/blog/wifi-only-works-when-its-raining/",
-      "summary": "Hacker Newsで79ポイント、27件のコメントを獲得した記事です。",
-      "keyPoints": [
-        "スコア: 79",
-        "コメント数: 27",
-        "投稿者: epicalex"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-01-29T20:47:36.000Z"
+      "createdAt": "2026-01-30T07:41:00.000Z"
     },
     {
       "id": "itmedia-3",
-      "title": "「新NISA3年目、“ヒートマップ＋AI要約”で投資判断が楽になった」と「M4 Mac miniに引っ越しました」",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2601/30/news022.html",
+      "title": "ChatGPT、新規ユーザーの利用料金が“円建て”に　実質値下げ　既存ドル建てユーザーは現状そのまま",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2601/30/news107.html",
       "summary": "itmediaから取得した記事です。",
       "keyPoints": [
         "ソース: itmedia"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-01-29T20:00:00.000Z"
+      "createdAt": "2026-01-30T07:05:00.000Z"
+    },
+    {
+      "id": "itmedia-4",
+      "title": "全編AI制作のMV、日本コロムビアが公開　「飾りじゃないのよ涙は」徳永英明カバー",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2601/30/news106.html",
+      "summary": "itmediaから取得した記事です。",
+      "keyPoints": [
+        "ソース: itmedia"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-01-30T06:36:00.000Z"
     },
     {
       "id": 10000,
@@ -201,34 +241,6 @@
       "createdAt": "2026-01-29T17:03:25.000Z"
     },
     {
-      "id": 46812608,
-      "title": "Launch HN: AgentMail (YC S25) – An API that gives agents their own email inboxes",
-      "url": null,
-      "summary": "Hacker Newsで116ポイント、133件のコメントを獲得した記事です。",
-      "keyPoints": [
-        "スコア: 116",
-        "コメント数: 133",
-        "投稿者: Haakam21"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-01-29T16:42:33.000Z"
-    },
-    {
-      "id": 46810282,
-      "title": "Claude Code daily benchmarks for degradation tracking",
-      "url": "https://marginlab.ai/trackers/claude-code/",
-      "summary": "Hacker Newsで553ポイント、271件のコメントを獲得した記事です。",
-      "keyPoints": [
-        "スコア: 553",
-        "コメント数: 271",
-        "投稿者: qwesr123"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-01-29T13:59:07.000Z"
-    },
-    {
       "id": 10001,
       "title": "Inside OpenAI’s in-house data agent",
       "url": "https://openai.com/index/inside-our-in-house-data-agent",
@@ -239,18 +251,6 @@
       "category": "AI",
       "sentiment": "neutral",
       "createdAt": "2026-01-29T10:00:00.000Z"
-    },
-    {
-      "id": "itmedia-4",
-      "title": "GMO、月1回の「全従業員がAI前提で仕事する日」制定　業務の効率化図る",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2601/29/news122.html",
-      "summary": "itmediaから取得した記事です。",
-      "keyPoints": [
-        "ソース: itmedia"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-01-29T07:59:00.000Z"
     },
     {
       "id": 10002,
@@ -397,7 +397,7 @@
       "createdAt": "2026-01-23T17:46:00.000Z"
     },
     {
-      "id": "aishinbun-0-1769738867530",
+      "id": "aishinbun-0-1769825034972",
       "title": "1500億円契約をGoogleに奪われたOpenAIが、それでも「余裕」を見せる理由",
       "url": "https://community.exawizards.com/aishinbun/news-01-23-2026/",
       "summary": "aishinbunから取得した記事です。",
@@ -457,7 +457,7 @@
       "createdAt": "2026-01-15T14:00:00.000Z"
     },
     {
-      "id": "aishinbun-1-1769738867530",
+      "id": "aishinbun-1-1769825034972",
       "title": "寿命160歳時代の衝撃",
       "url": "https://community.exawizards.com/aishinbun/news-1-15-2026/",
       "summary": "aishinbunから取得した記事です。",
@@ -469,7 +469,7 @@
       "createdAt": "2026-01-15T00:00:00.000Z"
     },
     {
-      "id": "aishinbun-2-1769738867531",
+      "id": "aishinbun-2-1769825034972",
       "title": "AIが進化すると、なぜGDPは崩壊するのか？",
       "url": "https://community.exawizards.com/aishinbun/news-1-14-2026/",
       "summary": "aishinbunから取得した記事です。",
@@ -481,7 +481,7 @@
       "createdAt": "2026-01-14T00:00:00.000Z"
     },
     {
-      "id": "aishinbun-3-1769738867531",
+      "id": "aishinbun-3-1769825034972",
       "title": "2026年、AIは本当に「賢くなった」のか",
       "url": "https://community.exawizards.com/aishinbun/news-2026-1-7/",
       "summary": "aishinbunから取得した記事です。",
@@ -493,7 +493,7 @@
       "createdAt": "2026-01-06T00:00:00.000Z"
     },
     {
-      "id": "aishinbun-4-1769738867531",
+      "id": "aishinbun-4-1769825034972",
       "title": "「AGIは実現したということで、次に行こう」",
       "url": "https://community.exawizards.com/aishinbun/news-12-27-2025/",
       "summary": "aishinbunから取得した記事です。",
@@ -529,7 +529,7 @@
       "createdAt": "2025-12-10T17:00:00.000Z"
     },
     {
-      "id": "ainow-144-1769738866798",
+      "id": "ainow-144-1769825034401",
       "title": "新着記事",
       "url": "https://ainow.ai/2025/08/28/277802/",
       "summary": "ainowから取得した記事です。",
@@ -541,7 +541,7 @@
       "createdAt": "2025-08-28T00:00:00.000Z"
     },
     {
-      "id": "ainow-72-1769738866788",
+      "id": "ainow-72-1769825034392",
       "title": "#DX",
       "url": "https://ainow.ai/tag/dx",
       "summary": "ainowから取得した記事です。",
@@ -553,7 +553,7 @@
       "createdAt": "2021-06-17T00:00:00.000Z"
     },
     {
-      "id": "ainow-109-1769738866793",
+      "id": "ainow-109-1769825034397",
       "title": "AINOW編集部",
       "url": "https://ainow.ai/category/ainoweditor",
       "summary": "ainowから取得した記事です。",
@@ -565,7 +565,7 @@
       "createdAt": "2021-06-17T00:00:00.000Z"
     },
     {
-      "id": "ainow-82-1769738866789",
+      "id": "ainow-82-1769825034393",
       "title": "#AI（人工知能）",
       "url": "https://ainow.ai/tag/ai%ef%bc%88%e4%ba%ba%e5%b7%a5%e7%9f%a5%e8%83%bd%ef%bc%89",
       "summary": "ainowから取得した記事です。",
@@ -577,7 +577,7 @@
       "createdAt": "2019-11-26T00:00:00.000Z"
     },
     {
-      "id": "ainow-91-1769738866790",
+      "id": "ainow-91-1769825034394",
       "title": "#pickup2",
       "url": "https://ainow.ai/tag/pickup2",
       "summary": "ainowから取得した記事です。",
