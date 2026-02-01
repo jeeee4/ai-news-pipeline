@@ -1,0 +1,28 @@
+{
+  "totalArticles": 48,
+  "activeArticles": 40,
+  "archivedArticles": 8,
+  "monthlyStats": [
+    {
+      "month": "2025-12",
+      "count": 3
+    },
+    {
+      "month": "2025-08",
+      "count": 1
+    },
+    {
+      "month": "2021-06",
+      "count": 2
+    },
+    {
+      "month": "2019-11",
+      "count": 1
+    },
+    {
+      "month": "2019-08",
+      "count": 1
+    }
+  ],
+  "lastUpdated": "2026-02-01T01:55:48.680Z"
+}

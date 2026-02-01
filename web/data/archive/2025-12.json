@@ -1,0 +1,42 @@
+{
+  "month": "2025-12",
+  "archivedAt": "2026-02-01T01:55:48.667Z",
+  "articles": [
+    {
+      "id": "aishinbun-4-1769825034972",
+      "title": "「AGIは実現したということで、次に行こう」",
+      "url": "https://community.exawizards.com/aishinbun/news-12-27-2025/",
+      "summary": "aishinbunから取得した記事です。",
+      "keyPoints": [
+        "ソース: aishinbun"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2025-12-27T00:00:00.000Z"
+    },
+    {
+      "id": 10018,
+      "title": "Agent Lightning: Adding reinforcement learning to AI agents without code rewrites",
+      "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/",
+      "summary": "By decoupling how agents work from how they’re trained, Agent Lightning turns each step an agent takes into data for reinforcement learning. This makes it easy for developers to improve agent performance with almost zero code changes.\nThe post Agent Lightning: Adding reinforcement learning to AI agents without code rewrites appeared first on Microsoft Research.",
+      "keyPoints": [
+        "ソース: Microsoft Research"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2025-12-11T17:00:00.000Z"
+    },
+    {
+      "id": 10019,
+      "title": "Promptions helps make AI prompting more precise with dynamic UI controls",
+      "url": "https://www.microsoft.com/en-us/research/blog/promptions-helps-make-ai-prompting-more-precise-with-dynamic-ui-controls/",
+      "summary": "Promptions helps developers add dynamic, context-aware controls to chat interfaces so users can guide generative AI responses. It lets users shape outputs quickly without writing long instructions.\nThe post Promptions helps make AI prompting more precise with dynamic UI controls appeared first on Microsoft Research.",
+      "keyPoints": [
+        "ソース: Microsoft Research"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2025-12-10T17:00:00.000Z"
+    }
+  ]
+}
