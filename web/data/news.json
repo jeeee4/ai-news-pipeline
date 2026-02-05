@@ -1,33 +1,9 @@
 {
-  "generatedAt": "2026-02-04T02:08:54.869Z",
+  "generatedAt": "2026-02-05T02:09:49.595Z",
   "articles": [
     {
-      "id": "ledge-5-1770170934846",
-      "title": "技術の思春期に入ったAI──Anthropic CEOダリオ・アモデイ氏、国家安全保障・経済・民主主義へのリスクに警鐘",
-      "url": "https://ledge.ai/articles/2040_ai_robot_human_resources_shortage_meti",
-      "summary": "ledgeから取得した記事です。",
-      "keyPoints": [
-        "ソース: ledge"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-04T02:08:54.846Z"
-    },
-    {
-      "id": "ledge-6-1770170934846",
-      "title": "技術の思春期に入ったAI──Anthropic CEOダリオ・アモデイ氏、国家安全保障・経済・民主主義へのリスクに警鐘",
-      "url": "https://ledge.ai/articles/google_ai_plus_launch_japan_1200yen",
-      "summary": "ledgeから取得した記事です。",
-      "keyPoints": [
-        "ソース: ledge"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-04T02:08:54.846Z"
-    },
-    {
-      "id": "ledge-1-1770170934845",
-      "title": "技術の思春期に入ったAI──Anthropic CEOダリオ・アモデイ氏、国家安全保障・経済・民主主義へのリスクに警鐘",
+      "id": "ledge-5-1770257387569",
+      "title": "SpaceX、AI企業xAIを買収──イーロン・マスク、AI・ロケット・衛星通信・モバイル通信を一体化した垂直統合型の技術基盤を構築へ",
       "url": "https://ledge.ai/articles/ai_technology_adolescence_amodei_democracy_risk",
       "summary": "ledgeから取得した記事です。",
       "keyPoints": [
@@ -35,49 +11,73 @@
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-04T02:08:54.845Z"
+      "createdAt": "2026-02-05T02:09:47.569Z"
     },
     {
-      "id": "ledge-3-1770170934845",
-      "title": "技術の思春期に入ったAI──Anthropic CEOダリオ・アモデイ氏、国家安全保障・経済・民主主義へのリスクに警鐘",
-      "url": "https://ledge.ai/articles/neurips_2025_hallucinated_citations_gptzero",
+      "id": "ledge-6-1770257387569",
+      "title": "SpaceX、AI企業xAIを買収──イーロン・マスク、AI・ロケット・衛星通信・モバイル通信を一体化した垂直統合型の技術基盤を構築へ",
+      "url": "https://ledge.ai/articles/amazon_openai_investment_50b_funding_100b_reported",
       "summary": "ledgeから取得した記事です。",
       "keyPoints": [
         "ソース: ledge"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-04T02:08:54.845Z"
+      "createdAt": "2026-02-05T02:09:47.569Z"
     },
     {
-      "id": "ledge-4-1770170934845",
-      "title": "技術の思春期に入ったAI──Anthropic CEOダリオ・アモデイ氏、国家安全保障・経済・民主主義へのリスクに警鐘",
-      "url": "https://ledge.ai/articles/gpt-4o_retirement_chatgpt_feb_13",
+      "id": "ledge-1-1770257387568",
+      "title": "SpaceX、AI企業xAIを買収──イーロン・マスク、AI・ロケット・衛星通信・モバイル通信を一体化した垂直統合型の技術基盤を構築へ",
+      "url": "https://ledge.ai/articles/spacex_acquires_xai_orbital_ai_data_center",
       "summary": "ledgeから取得した記事です。",
       "keyPoints": [
         "ソース: ledge"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-04T02:08:54.845Z"
+      "createdAt": "2026-02-05T02:09:47.568Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2153788",
-      "title": "ずぶの初心者がGoogleのIDE、Antigravityを触ってAIチャットボットを爆速で開発してみた件。",
-      "url": "https://qiita.com/0xshiba/items/ab0f0cca36f58381090b",
+      "id": "ledge-3-1770257387568",
+      "title": "SpaceX、AI企業xAIを買収──イーロン・マスク、AI・ロケット・衛星通信・モバイル通信を一体化した垂直統合型の技術基盤を構築へ",
+      "url": "https://ledge.ai/articles/google_project_genie_interactive_virtual_world_us_release",
+      "summary": "ledgeから取得した記事です。",
+      "keyPoints": [
+        "ソース: ledge"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-05T02:09:47.568Z"
+    },
+    {
+      "id": "ledge-4-1770257387568",
+      "title": "SpaceX、AI企業xAIを買収──イーロン・マスク、AI・ロケット・衛星通信・モバイル通信を一体化した垂直統合型の技術基盤を構築へ",
+      "url": "https://ledge.ai/articles/google_deepmind_alphagenome_nature_1mb_genome_prediction",
+      "summary": "ledgeから取得した記事です。",
+      "keyPoints": [
+        "ソース: ledge"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-05T02:09:47.568Z"
+    },
+    {
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2154249",
+      "title": "AIに「署名しろ」と言ったら、1社だけが本当に署名した",
+      "url": "https://qiita.com/unhaya/items/a4ef26de5c7bc9a2bc72",
       "summary": "qiitaから取得した記事です。",
       "keyPoints": [
         "ソース: qiita",
-        "投稿者: 0xshiba"
+        "投稿者: unhaya"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-04T02:02:46.000Z"
+      "createdAt": "2026-02-05T02:00:44.000Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2153783",
-      "title": "2026/02/04 今日のQiitaトレンド記事をポッドキャストで聴こう！",
-      "url": "https://qiita.com/ennagara128/items/03c4cbbe8d8b7ce93d85",
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2154246",
+      "title": "2026/02/05 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+      "url": "https://qiita.com/ennagara128/items/4b567c60d4e79de1ce41",
       "summary": "qiitaから取得した記事です。",
       "keyPoints": [
         "ソース: qiita",
@@ -85,123 +85,197 @@
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-04T01:50:59.000Z"
+      "createdAt": "2026-02-05T01:50:30.000Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2153779",
-      "title": "OpenClaw Assistant - あなたのAIをAndroidの音声アシスタントにするOSSアプリ",
-      "url": "https://qiita.com/hello_giita/items/739028364b9f1e778785",
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2154233",
+      "title": "Claude Code入門 #2: CLAUDE.mdの書き方と育て方",
+      "url": "https://qiita.com/dai_chi/items/8d9d3ac82cbd3c05c883",
       "summary": "qiitaから取得した記事です。",
       "keyPoints": [
         "ソース: qiita",
-        "投稿者: hello_giita"
+        "投稿者: dai_chi"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-04T01:42:59.000Z"
+      "createdAt": "2026-02-05T01:07:10.000Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2153772",
-      "title": "AutoGluonの基本的なAutoMLを試してみる",
-      "url": "https://qiita.com/hideki/items/ee4888d3ef05118bca7a",
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2154039",
+      "title": "プロンプト注入に負けない：システムプロンプト設計とユーザー入力の扱い方",
+      "url": "https://qiita.com/ABC-KeisukeKashio/items/dbad3867bb1a72a7b44c",
       "summary": "qiitaから取得した記事です。",
       "keyPoints": [
         "ソース: qiita",
-        "投稿者: hideki"
+        "投稿者: ABC-KeisukeKashio"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-04T01:22:28.000Z"
+      "createdAt": "2026-02-05T00:45:30.000Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2153768",
-      "title": "AIに使われるな、AIと「共奏」せよ。ダボス2026から読み解くエンジニアの生存戦略",
-      "url": "https://qiita.com/Shawin/items/d9b093dae5ac448ef2ec",
-      "summary": "qiitaから取得した記事です。",
+      "id": 10000,
+      "title": "Navigating health questions with ChatGPT",
+      "url": "https://openai.com/index/navigating-health-questions",
+      "summary": "A family shares how ChatGPT helped them prepare for critical cancer treatment decisions for their son alongside expert guidance from his doctors.",
       "keyPoints": [
-        "ソース: qiita",
-        "投稿者: Shawin"
+        "ソース: OpenAI"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-04T01:07:28.000Z"
+      "createdAt": "2026-02-05T00:00:00.000Z"
     },
     {
       "id": "itmedia-0",
-      "title": "Fitbit創業者がAIヘルスケアで再始動　家族のケアや介護をサポートする新会社「Luffu」設立",
-      "url": "https://www.itmedia.co.jp/news/articles/2602/04/news065.html",
+      "title": "NVIDIAとダッソーがCEO対談　産業AI基盤構築で戦略的パートナーシップ締結",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2602/05/news019.html",
       "summary": "itmediaから取得した記事です。",
       "keyPoints": [
         "ソース: itmedia"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-04T01:02:00.000Z"
+      "createdAt": "2026-02-05T00:00:00.000Z"
+    },
+    {
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2154209",
+      "title": "🎯 PLATE×事前学習モデルの継続学習×プラスチック性調整による効率的適応の実現",
+      "url": "https://qiita.com/GYact/items/ed26859e375a528ad998",
+      "summary": "qiitaから取得した記事です。",
+      "keyPoints": [
+        "ソース: qiita",
+        "投稿者: GYact"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-04T23:04:08.000Z"
     },
     {
       "id": "itmedia-1",
-      "title": "設計者を支える3つのAI仮想コンパニオン　探索×科学×実現で製品開発を伴走",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2602/04/news051.html",
+      "title": "中国電力、RAGの限界に直面し“電力業務特化型LLM”の構築を開始　国産LLMを基盤に",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2602/05/news040.html",
       "summary": "itmediaから取得した記事です。",
       "keyPoints": [
         "ソース: itmedia"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-04T23:00:00.000Z"
+    },
+    {
+      "id": "itmedia-2",
+      "title": "Anthropic、スーパーボウル向けCMを公開　OpenAIのアルトマンCEOは「不誠実な印象操作だ」と批判",
+      "url": "https://www.itmedia.co.jp/news/articles/2602/05/news062.html",
+      "summary": "itmediaから取得した記事です。",
+      "keyPoints": [
+        "ソース: itmedia"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-04T22:18:00.000Z"
+    },
+    {
+      "id": "itmedia-3",
+      "title": "フォックスコンがフィジカルAIで実現する「AX」とは、NVIDIAと川崎重工も講演",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2602/05/news034.html",
+      "summary": "itmediaから取得した記事です。",
+      "keyPoints": [
+        "ソース: itmedia"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-04T22:00:00.000Z"
+    },
+    {
+      "id": "itmedia-4",
+      "title": "Anthropic、AIへの広告導入はしないと宣言　「Claudeは思考のための純粋な道具であるべき」",
+      "url": "https://www.itmedia.co.jp/news/articles/2602/05/news060.html",
+      "summary": "itmediaから取得した記事です。",
+      "keyPoints": [
+        "ソース: itmedia"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-04T21:23:00.000Z"
+    },
+    {
+      "id": 46889703,
+      "title": "Claude Code for Infrastructure",
+      "url": "https://www.fluid.sh/",
+      "summary": "Hacker Newsで141ポイント、126件のコメントを獲得した記事です。",
+      "keyPoints": [
+        "スコア: 141",
+        "コメント数: 126",
+        "投稿者: aspectrr"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-04T18:34:08.000Z"
+    },
+    {
+      "id": 46888441,
+      "title": "AI is killing B2B SaaS",
+      "url": "https://nmn.gl/blog/ai-killing-b2b-saas",
+      "summary": "Hacker Newsで224ポイント、380件のコメントを獲得した記事です。",
+      "keyPoints": [
+        "スコア: 224",
+        "コメント数: 380",
+        "投稿者: namanyayg"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-04T17:09:28.000Z"
+    },
+    {
+      "id": 10001,
+      "title": "​Sequential Attention: Making AI models leaner and faster without sacrificing accuracy",
+      "url": "https://research.google/blog/sequential-attention-making-ai-models-leaner-and-faster-without-sacrificing-accuracy/",
+      "summary": "Algorithms & Theory",
+      "keyPoints": [
+        "ソース: Google Research"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-04T15:14:00.000Z"
+    },
+    {
+      "id": 10002,
+      "title": "Nemotron ColEmbed V2: Raising the Bar for Multimodal Retrieval with ViDoRe V3’s Top Model",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-colembed-v2",
+      "summary": "Hugging Faceの公式ブログ記事です。",
+      "keyPoints": [
+        "ソース: Hugging Face"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-04T15:00:40.000Z"
+    },
+    {
+      "id": 10003,
+      "title": "Unlocking the Codex harness: how we built the App Server",
+      "url": "https://openai.com/index/unlocking-the-codex-harness",
+      "summary": "Learn how to embed the Codex agent using the Codex App Server, a bidirectional JSON-RPC API powering streaming progress, tool use, approvals, and diffs.",
+      "keyPoints": [
+        "ソース: OpenAI"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-04T13:00:00.000Z"
+    },
+    {
+      "id": 10004,
+      "title": "VfL Wolfsburg turns ChatGPT into a club-wide capability",
+      "url": "https://openai.com/index/vfl-wolfsburg",
+      "summary": "By focusing on people, not pilots, the Bundesliga club is scaling efficiency, creativity, and knowledge—without losing its football identity.",
+      "keyPoints": [
+        "ソース: OpenAI"
       ],
       "category": "AI",
       "sentiment": "neutral",
       "createdAt": "2026-02-04T00:00:00.000Z"
     },
     {
-      "id": "itmedia-2",
-      "title": "AWSジャパン、600万ドル規模のフィジカルAI開発支援を発表　「日本のロボット産業の強みを生かす」",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2602/04/news027.html",
-      "summary": "itmediaから取得した記事です。",
-      "keyPoints": [
-        "ソース: itmedia"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-03T23:00:00.000Z"
-    },
-    {
-      "id": 46878338,
-      "title": "Notepad++ supply chain attack breakdown",
-      "url": "https://securelist.com/notepad-supply-chain-attack/118708/",
-      "summary": "Hacker Newsで174ポイント、80件のコメントを獲得した記事です。",
-      "keyPoints": [
-        "スコア: 174",
-        "コメント数: 80",
-        "投稿者: natebc"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-03T22:35:27.000Z"
-    },
-    {
-      "id": "itmedia-3",
-      "title": "Apple、「Xcode 26.3」提供開始　ClaudeとCodexを統合し「エージェンティックコーディング」導入",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2602/04/news063.html",
-      "summary": "itmediaから取得した記事です。",
-      "keyPoints": [
-        "ソース: itmedia"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-03T22:27:00.000Z"
-    },
-    {
-      "id": "itmedia-4",
-      "title": "企業広報の恐怖“意図しない炎上”は検知できるか　「AI炎上チェッカー」で過去事例を調べてみた",
-      "url": "https://kn.itmedia.co.jp/kn/articles/2602/04/news031.html",
-      "summary": "itmediaから取得した記事です。",
-      "keyPoints": [
-        "ソース: itmedia"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-03T22:00:00.000Z"
-    },
-    {
-      "id": 10000,
+      "id": 10005,
       "title": "Collaborating on a nationwide randomized study of AI in real-world virtual care",
       "url": "https://research.google/blog/collaborating-on-a-nationwide-randomized-study-of-ai-in-real-world-virtual-care/",
       "summary": "Generative AI",
@@ -213,21 +287,7 @@
       "createdAt": "2026-02-03T18:15:01.000Z"
     },
     {
-      "id": 46874619,
-      "title": "Xcode 26.3 – Developers can leverage coding agents directly in Xcode",
-      "url": "https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/",
-      "summary": "Hacker Newsで236ポイント、198件のコメントを獲得した記事です。",
-      "keyPoints": [
-        "スコア: 236",
-        "コメント数: 198",
-        "投稿者: davidbarker"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-03T18:04:08.000Z"
-    },
-    {
-      "id": 10001,
+      "id": 10006,
       "title": "H Company's new Holo2 model takes the lead in UI Localization",
       "url": "https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b",
       "summary": "Hugging Faceの公式ブログ記事です。",
@@ -239,7 +299,7 @@
       "createdAt": "2026-02-03T17:40:14.000Z"
     },
     {
-      "id": 10002,
+      "id": 10007,
       "title": "The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+",
       "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
       "summary": "Hugging Faceの公式ブログ記事です。",
@@ -251,7 +311,7 @@
       "createdAt": "2026-02-03T15:03:19.000Z"
     },
     {
-      "id": 10003,
+      "id": 10008,
       "title": "Training Design for Text-to-Image Models: Lessons from Ablations",
       "url": "https://huggingface.co/blog/Photoroom/prx-part2",
       "summary": "Hugging Faceの公式ブログ記事です。",
@@ -263,21 +323,7 @@
       "createdAt": "2026-02-03T11:25:53.000Z"
     },
     {
-      "id": 46868998,
-      "title": "X offices raided in France as UK opens fresh investigation into Grok",
-      "url": "https://www.bbc.com/news/articles/ce3ex92557jo",
-      "summary": "Hacker Newsで216ポイント、426件のコメントを獲得した記事です。",
-      "keyPoints": [
-        "スコア: 216",
-        "コメント数: 426",
-        "投稿者: vikaveri"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-03T10:08:52.000Z"
-    },
-    {
-      "id": 10004,
+      "id": 10009,
       "title": "The Sora feed philosophy",
       "url": "https://openai.com/index/sora-feed-philosophy",
       "summary": "Discover the Sora feed philosophy—built to spark creativity, foster connections, and keep experiences safe with personalized recommendations, parental controls, and strong guardrails.",
@@ -289,7 +335,7 @@
       "createdAt": "2026-02-03T00:00:00.000Z"
     },
     {
-      "id": 10005,
+      "id": 10010,
       "title": "Snowflake and OpenAI partner to bring frontier intelligence to enterprise data",
       "url": "https://openai.com/index/snowflake-partnership",
       "summary": "OpenAI and Snowflake partner in a $200M agreement to bring frontier intelligence into enterprise data, enabling AI agents and insights directly in Snowflake.",
@@ -301,55 +347,21 @@
       "createdAt": "2026-02-02T06:00:00.000Z"
     },
     {
-      "id": 10006,
-      "title": "Introducing the Codex app",
-      "url": "https://openai.com/index/introducing-the-codex-app",
-      "summary": "Introducing the Codex app for macOS—a command center for AI coding and software development with multiple agents, parallel workflows, and long-running tasks.",
+      "id": 46845845,
+      "title": "Claude Code: connect to a local model when your quota runs out",
+      "url": "https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/",
+      "summary": "Hacker Newsで188ポイント、97件のコメントを獲得した記事です。",
       "keyPoints": [
-        "ソース: OpenAI"
+        "スコア: 188",
+        "コメント数: 97",
+        "投稿者: fugu2"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-02T00:00:00.000Z"
+      "createdAt": "2026-02-01T12:43:41.000Z"
     },
     {
-      "id": 10007,
-      "title": "Introducing NVIDIA Cosmos Policy for Advanced Robot Control",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-policy-for-robot-control",
-      "summary": "Hugging Faceの公式ブログ記事です。",
-      "keyPoints": [
-        "ソース: Hugging Face"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-01-29T17:03:25.000Z"
-    },
-    {
-      "id": 10008,
-      "title": "Inside OpenAI’s in-house data agent",
-      "url": "https://openai.com/index/inside-our-in-house-data-agent",
-      "summary": "How OpenAI built an in-house AI data agent that uses GPT-5, Codex, and memory to reason over massive datasets and deliver reliable insights in minutes.",
-      "keyPoints": [
-        "ソース: OpenAI"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-01-29T10:00:00.000Z"
-    },
-    {
-      "id": 10009,
-      "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
-      "url": "https://openai.com/index/retiring-gpt-4o-and-older-models",
-      "summary": "On February 13, 2026, alongside the previously announced retirement⁠ of GPT‑5 (Instant, Thinking, and Pro), we will retire GPT‑4o, GPT‑4.1, GPT‑4.1 mini, and OpenAI o4-mini from ChatGPT. In the API, there are no changes at this time.",
-      "keyPoints": [
-        "ソース: OpenAI"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-01-29T00:00:00.000Z"
-    },
-    {
-      "id": 10010,
+      "id": 10011,
       "title": "Introducing Daggr: Chain apps programmatically, inspect visually",
       "url": "https://huggingface.co/blog/daggr",
       "summary": "Hugging Faceの公式ブログ記事です。",
@@ -361,7 +373,7 @@
       "createdAt": "2026-01-29T00:00:00.000Z"
     },
     {
-      "id": 10011,
+      "id": 10012,
       "title": "Towards a science of scaling agent systems: When and why agent systems work",
       "url": "https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/",
       "summary": "Generative AI",
@@ -373,7 +385,7 @@
       "createdAt": "2026-01-28T11:00:00.000Z"
     },
     {
-      "id": 10012,
+      "id": 10013,
       "title": "ATLAS: Practical scaling laws for multilingual models",
       "url": "https://research.google/blog/atlas-practical-scaling-laws-for-multilingual-models/",
       "summary": "Generative AI",
@@ -385,7 +397,7 @@
       "createdAt": "2026-01-27T18:58:00.000Z"
     },
     {
-      "id": 10013,
+      "id": 10014,
       "title": "UniRG: Scaling medical imaging report generation with multimodal reinforcement learning",
       "url": "https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning/",
       "summary": "AI can help generate medical image reports, but today’s models struggle with varying reporting schemes. Learn how UniRG uses reinforcement learning to boost performance of medical vision-language models.\nThe post UniRG: Scaling medical imaging report generation with multimodal reinforcement learning appeared first on Microsoft Research.",
@@ -397,7 +409,7 @@
       "createdAt": "2026-01-27T17:00:00.000Z"
     },
     {
-      "id": 10014,
+      "id": 10015,
       "title": "Introducing GIST: The next stage in smart sampling",
       "url": "https://research.google/blog/introducing-gist-the-next-stage-in-smart-sampling/",
       "summary": "Algorithms & Theory",
@@ -409,7 +421,7 @@
       "createdAt": "2026-01-23T17:46:00.000Z"
     },
     {
-      "id": "aishinbun-0-1770170933486",
+      "id": "aishinbun-0-1770257389252",
       "title": "1500億円契約をGoogleに奪われたOpenAIが、それでも「余裕」を見せる理由",
       "url": "https://community.exawizards.com/aishinbun/news-01-23-2026/",
       "summary": "aishinbunから取得した記事です。",
@@ -419,18 +431,6 @@
       "category": "AI",
       "sentiment": "neutral",
       "createdAt": "2026-01-23T00:00:00.000Z"
-    },
-    {
-      "id": 10015,
-      "title": "Small models, big results: Achieving superior intent extraction through decomposition",
-      "url": "https://research.google/blog/small-models-big-results-achieving-superior-intent-extraction-through-decomposition/",
-      "summary": "Generative AI",
-      "keyPoints": [
-        "ソース: Google Research"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-01-22T16:56:44.000Z"
     },
     {
       "id": 10016,
@@ -457,7 +457,7 @@
       "createdAt": "2026-01-15T14:00:00.000Z"
     },
     {
-      "id": "aishinbun-1-1770170933486",
+      "id": "aishinbun-1-1770257389253",
       "title": "寿命160歳時代の衝撃",
       "url": "https://community.exawizards.com/aishinbun/news-1-15-2026/",
       "summary": "aishinbunから取得した記事です。",
@@ -469,7 +469,7 @@
       "createdAt": "2026-01-15T00:00:00.000Z"
     },
     {
-      "id": "aishinbun-2-1770170933486",
+      "id": "aishinbun-2-1770257389253",
       "title": "AIが進化すると、なぜGDPは崩壊するのか？",
       "url": "https://community.exawizards.com/aishinbun/news-1-14-2026/",
       "summary": "aishinbunから取得した記事です。",
@@ -481,7 +481,7 @@
       "createdAt": "2026-01-14T00:00:00.000Z"
     },
     {
-      "id": "aishinbun-3-1770170933486",
+      "id": "aishinbun-3-1770257389253",
       "title": "2026年、AIは本当に「賢くなった」のか",
       "url": "https://community.exawizards.com/aishinbun/news-2026-1-7/",
       "summary": "aishinbunから取得した記事です。",
@@ -493,7 +493,7 @@
       "createdAt": "2026-01-06T00:00:00.000Z"
     },
     {
-      "id": "aishinbun-4-1770170933486",
+      "id": "aishinbun-4-1770257389253",
       "title": "「AGIは実現したということで、次に行こう」",
       "url": "https://community.exawizards.com/aishinbun/news-12-27-2025/",
       "summary": "aishinbunから取得した記事です。",
@@ -529,7 +529,7 @@
       "createdAt": "2025-12-10T17:00:00.000Z"
     },
     {
-      "id": "ainow-144-1770170932827",
+      "id": "ainow-144-1770257388152",
       "title": "新着記事",
       "url": "https://ainow.ai/2025/08/28/277802/",
       "summary": "ainowから取得した記事です。",
@@ -541,7 +541,7 @@
       "createdAt": "2025-08-28T00:00:00.000Z"
     },
     {
-      "id": "ainow-72-1770170932819",
+      "id": "ainow-72-1770257388144",
       "title": "#DX",
       "url": "https://ainow.ai/tag/dx",
       "summary": "ainowから取得した記事です。",
@@ -553,7 +553,7 @@
       "createdAt": "2021-06-17T00:00:00.000Z"
     },
     {
-      "id": "ainow-109-1770170932823",
+      "id": "ainow-109-1770257388150",
       "title": "AINOW編集部",
       "url": "https://ainow.ai/category/ainoweditor",
       "summary": "ainowから取得した記事です。",
@@ -565,7 +565,7 @@
       "createdAt": "2021-06-17T00:00:00.000Z"
     },
     {
-      "id": "ainow-82-1770170932820",
+      "id": "ainow-82-1770257388146",
       "title": "#AI（人工知能）",
       "url": "https://ainow.ai/tag/ai%ef%bc%88%e4%ba%ba%e5%b7%a5%e7%9f%a5%e8%83%bd%ef%bc%89",
       "summary": "ainowから取得した記事です。",
@@ -577,7 +577,7 @@
       "createdAt": "2019-11-26T00:00:00.000Z"
     },
     {
-      "id": "ainow-91-1770170932821",
+      "id": "ainow-91-1770257388147",
       "title": "#pickup2",
       "url": "https://ainow.ai/tag/pickup2",
       "summary": "ainowから取得した記事です。",
