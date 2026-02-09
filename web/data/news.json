@@ -1,20 +1,8 @@
 {
-  "generatedAt": "2026-02-08T02:39:17.936Z",
+  "generatedAt": "2026-02-09T02:25:21.765Z",
   "articles": [
     {
-      "id": "ledge-1-1770518357731",
-      "title": "Anthropic、最上位LLM「Claude Opus 4.6」公開——業務AIエージェント「Cowork」は大手SaaS各社の株価急落に影響を与える反響",
-      "url": "https://ledge.ai/articles/anthropic_claude_opus_4_6_cowork_saas_stock_reaction",
-      "summary": "ledgeから取得した記事です。",
-      "keyPoints": [
-        "ソース: ledge"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-08T02:39:17.731Z"
-    },
-    {
-      "id": "ledge-3-1770518357731",
+      "id": "ledge-3-1770603920545",
       "title": "Anthropic、最上位LLM「Claude Opus 4.6」公開——業務AIエージェント「Cowork」は大手SaaS各社の株価急落に影響を与える反響",
       "url": "https://ledge.ai/articles/moltbook_ai_agent_only_social_network_altman_comment",
       "summary": "ledgeから取得した記事です。",
@@ -23,10 +11,10 @@
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-08T02:39:17.731Z"
+      "createdAt": "2026-02-09T02:25:20.545Z"
     },
     {
-      "id": "ledge-4-1770518357731",
+      "id": "ledge-4-1770603920545",
       "title": "Anthropic、最上位LLM「Claude Opus 4.6」公開——業務AIエージェント「Cowork」は大手SaaS各社の株価急落に影響を与える反響",
       "url": "https://ledge.ai/articles/spacex_acquires_xai_orbital_ai_data_center",
       "summary": "ledgeから取得した記事です。",
@@ -35,10 +23,10 @@
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-08T02:39:17.731Z"
+      "createdAt": "2026-02-09T02:25:20.545Z"
     },
     {
-      "id": "ledge-5-1770518357731",
+      "id": "ledge-5-1770603920545",
       "title": "Anthropic、最上位LLM「Claude Opus 4.6」公開——業務AIエージェント「Cowork」は大手SaaS各社の株価急落に影響を与える反響",
       "url": "https://ledge.ai/articles/google_project_genie_interactive_virtual_world_us_release",
       "summary": "ledgeから取得した記事です。",
@@ -47,10 +35,10 @@
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-08T02:39:17.731Z"
+      "createdAt": "2026-02-09T02:25:20.545Z"
     },
     {
-      "id": "ledge-6-1770518357731",
+      "id": "ledge-6-1770603920545",
       "title": "Anthropic、最上位LLM「Claude Opus 4.6」公開——業務AIエージェント「Cowork」は大手SaaS各社の株価急落に影響を与える反響",
       "url": "https://ledge.ai/articles/softbank_robotics_pepper_plus_guinness",
       "summary": "ledgeから取得した記事です。",
@@ -59,117 +47,165 @@
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-08T02:39:17.731Z"
+      "createdAt": "2026-02-09T02:25:20.545Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2155684",
-      "title": "2026/02/08 今日のQiitaトレンド記事をポッドキャストで聴こう！",
-      "url": "https://qiita.com/ennagara128/items/cd170b99d3b525a0bbf0",
+      "id": "ledge-1-1770603920544",
+      "title": "Anthropic、最上位LLM「Claude Opus 4.6」公開——業務AIエージェント「Cowork」は大手SaaS各社の株価急落に影響を与える反響",
+      "url": "https://ledge.ai/articles/anthropic_claude_opus_4_6_cowork_saas_stock_reaction",
+      "summary": "ledgeから取得した記事です。",
+      "keyPoints": [
+        "ソース: ledge"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-09T02:25:20.544Z"
+    },
+    {
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2156172",
+      "title": "【手段】ChatGPT-5-nano の返答速度を、既存のアプリを用いて確認する",
+      "url": "https://qiita.com/uni928/items/be72f11d97b834b1037f",
       "summary": "qiitaから取得した記事です。",
       "keyPoints": [
         "ソース: qiita",
-        "投稿者: ennagara128"
+        "投稿者: uni928"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-08T02:32:23.000Z"
+      "createdAt": "2026-02-09T02:12:07.000Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2155679",
-      "title": "Mac M4 Proで「Fish Speech 1.5」を完全制圧せよ！日本語検閲官を成敗し、勝利の音声を響かせる奥義書",
-      "url": "https://qiita.com/u_ki0630/items/d6a793d1b291fc463c4b",
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2155980",
+      "title": "もう迷わない！copilot-instructions.mdに書くべき7つのこと",
+      "url": "https://qiita.com/shimada_slj/items/af82c137752e8dded0fb",
       "summary": "qiitaから取得した記事です。",
       "keyPoints": [
         "ソース: qiita",
-        "投稿者: u_ki0630"
+        "投稿者: shimada_slj"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-08T02:08:43.000Z"
+      "createdAt": "2026-02-09T00:42:16.000Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2155675",
-      "title": "AIでデータ分析-データ前処理(92)-ログ・監査：前処理ステップのログ記録",
-      "url": "https://qiita.com/masato_y/items/303851331fd6adf0648c",
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2156150",
+      "title": "SlickGridの列幅変更が動かない問題を、AIと原因切り分けで解決した記録",
+      "url": "https://qiita.com/tonbi_attack/items/f66eaa5b3461f26566c2",
       "summary": "qiitaから取得した記事です。",
       "keyPoints": [
         "ソース: qiita",
-        "投稿者: masato_y"
+        "投稿者: tonbi_attack"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-08T02:05:18.000Z"
+      "createdAt": "2026-02-09T00:32:33.000Z"
     },
     {
-      "id": 46930391,
-      "title": "Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory",
-      "url": "https://github.com/localgpt-app/localgpt",
-      "summary": "Hacker Newsで16ポイント、3件のコメントを獲得した記事です。",
-      "keyPoints": [
-        "スコア: 16",
-        "コメント数: 3",
-        "投稿者: yi_wang"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-08T01:26:38.000Z"
-    },
-    {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2155621",
-      "title": "【クラウド型ベクトルDB】Pineconeってなにもの？色々調べながら使ってみた",
-      "url": "https://qiita.com/nAotO01_03/items/7d364dccf1b75ba64883",
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2156145",
+      "title": "Claude Code入門 #3: パーミッション＆Sandbox完全ガイド",
+      "url": "https://qiita.com/dai_chi/items/4e7921ab38908fbc2ad5",
       "summary": "qiitaから取得した記事です。",
       "keyPoints": [
         "ソース: qiita",
-        "投稿者: nAotO01_03"
+        "投稿者: dai_chi"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-07T23:43:18.000Z"
+      "createdAt": "2026-02-09T00:15:35.000Z"
     },
     {
-      "id": 46928810,
-      "title": "FDA intends to take action against non-FDA-approved GLP-1 drugs",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-intends-take-action-against-non-fda-approved-glp-1-drugs",
-      "summary": "Hacker Newsで81ポイント、148件のコメントを獲得した記事です。",
-      "keyPoints": [
-        "スコア: 81",
-        "コメント数: 148",
-        "投稿者: randycupertino"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-07T22:25:03.000Z"
-    },
-    {
-      "id": 46925811,
-      "title": "Show HN: I saw this cool navigation reveal, so I made a simple HTML+CSS version",
-      "url": "https://github.com/Momciloo/fun-with-clip-path",
-      "summary": "Hacker Newsで61ポイント、11件のコメントを獲得した記事です。",
-      "keyPoints": [
-        "スコア: 61",
-        "コメント数: 11",
-        "投稿者: momciloo"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-07T17:45:27.000Z"
-    },
-    {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2155543",
-      "title": "🧊BlackIceを丸裸にせよ｜Azure Databricks検証環境を爆速構築⚡",
-      "url": "https://qiita.com/ikejiri-makoto2/items/d2e5983e3ab22797f560",
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2156140",
+      "title": "LLMの出力ってどうやって品質保証すればいいの？",
+      "url": "https://qiita.com/makotosaekit/items/7deda12efe80d9450ec8",
       "summary": "qiitaから取得した記事です。",
       "keyPoints": [
         "ソース: qiita",
-        "投稿者: ikejiri-makoto2"
+        "投稿者: makotosaekit"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-07T15:33:14.000Z"
+      "createdAt": "2026-02-09T00:02:15.000Z"
+    },
+    {
+      "id": 46939593,
+      "title": "AI makes the easy part easier and the hard part harder",
+      "url": "https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder",
+      "summary": "Hacker Newsで143ポイント、123件のコメントを獲得した記事です。",
+      "keyPoints": [
+        "スコア: 143",
+        "コメント数: 123",
+        "投稿者: weaksauce"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-08T23:13:34.000Z"
     },
     {
       "id": "itmedia-0",
+      "title": "ChatGPTで“存在しない判例”を引用　米国の弁護士に制裁、出禁や罰金",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2602/09/news039.html",
+      "summary": "itmediaから取得した記事です。",
+      "keyPoints": [
+        "ソース: itmedia"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-08T23:00:00.000Z"
+    },
+    {
+      "id": "itmedia-1",
+      "title": "「Claude Opus 4.6」に2.5倍速で利用料6倍の「fast mode」、リサーチプレビューとして登場",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2602/09/news063.html",
+      "summary": "itmediaから取得した記事です。",
+      "keyPoints": [
+        "ソース: itmedia"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-08T22:37:00.000Z"
+    },
+    {
+      "id": 46938903,
+      "title": "Shifts in U.S. Social Media Use, 2020–2024: Decline, Fragmentation, Polarization (2025)",
+      "url": "https://arxiv.org/abs/2510.25417",
+      "summary": "Hacker Newsで130ポイント、134件のコメントを獲得した記事です。",
+      "keyPoints": [
+        "スコア: 130",
+        "コメント数: 134",
+        "投稿者: vinnyglennon"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-08T21:52:28.000Z"
+    },
+    {
+      "id": "itmedia-2",
+      "title": "【Excelで学ぶデータ分析】内向的な人は感受性の幅が広いのか？［架空事例］（分布のばらつきの検定）",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2602/09/news009.html",
+      "summary": "itmediaから取得した記事です。",
+      "keyPoints": [
+        "ソース: itmedia"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-08T20:00:00.000Z"
+    },
+    {
+      "id": 46937012,
+      "title": "Roundcube Webmail: SVG feImage bypasses image blocking to track email opens",
+      "url": "https://nullcathedral.com/posts/2026-02-08-roundcube-svg-feimage-remote-image-bypass/",
+      "summary": "Hacker Newsで105ポイント、31件のコメントを獲得した記事です。",
+      "keyPoints": [
+        "スコア: 105",
+        "コメント数: 31",
+        "投稿者: nullcathedral"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-08T18:24:26.000Z"
+    },
+    {
+      "id": "itmedia-3",
       "title": "2027年に35％の国は「地域特化AI」でロックイン　AI主権の確立が進む",
       "url": "https://www.itmedia.co.jp/enterprise/articles/2602/07/news018.html",
       "summary": "itmediaから取得した記事です。",
@@ -181,7 +217,7 @@
       "createdAt": "2026-02-06T23:00:00.000Z"
     },
     {
-      "id": "itmedia-1",
+      "id": "itmedia-4",
       "title": "Waymo、DeepMindの「Genie 3」で自動運転をシミュレート　「もしも」の状況を無限に生成",
       "url": "https://www.itmedia.co.jp/aiplus/articles/2602/07/news026.html",
       "summary": "itmediaから取得した記事です。",
@@ -191,30 +227,6 @@
       "category": "AI",
       "sentiment": "neutral",
       "createdAt": "2026-02-06T22:42:00.000Z"
-    },
-    {
-      "id": "itmedia-2",
-      "title": "Gartner、2026年のセキュリティトレンドを発表　6つの変化にどう対応する？",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2602/07/news021.html",
-      "summary": "itmediaから取得した記事です。",
-      "keyPoints": [
-        "ソース: itmedia"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-06T22:30:00.000Z"
-    },
-    {
-      "id": "itmedia-3",
-      "title": "長期記憶で能力を進化　Googleらが脆弱性解析を自動実行するLLMを提案",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2602/07/news007.html",
-      "summary": "itmediaから取得した記事です。",
-      "keyPoints": [
-        "ソース: itmedia"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-06T22:00:00.000Z"
     },
     {
       "id": 10000,
@@ -239,18 +251,6 @@
       "category": "AI",
       "sentiment": "neutral",
       "createdAt": "2026-02-06T10:00:00.000Z"
-    },
-    {
-      "id": "itmedia-4",
-      "title": "Sakana AI、初の一般向けAIサービス開発中　テスター募集も",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2602/06/news110.html",
-      "summary": "itmediaから取得した記事です。",
-      "keyPoints": [
-        "ソース: itmedia"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-06T06:55:00.000Z"
     },
     {
       "id": 10002,
@@ -445,7 +445,7 @@
       "createdAt": "2026-01-27T17:00:00.000Z"
     },
     {
-      "id": "aishinbun-0-1770518357077",
+      "id": "aishinbun-0-1770603921717",
       "title": "1500億円契約をGoogleに奪われたOpenAIが、それでも「余裕」を見せる理由",
       "url": "https://community.exawizards.com/aishinbun/news-01-23-2026/",
       "summary": "aishinbunから取得した記事です。",
@@ -481,7 +481,7 @@
       "createdAt": "2026-01-15T14:00:00.000Z"
     },
     {
-      "id": "aishinbun-1-1770518357077",
+      "id": "aishinbun-1-1770603921717",
       "title": "寿命160歳時代の衝撃",
       "url": "https://community.exawizards.com/aishinbun/news-1-15-2026/",
       "summary": "aishinbunから取得した記事です。",
@@ -493,7 +493,7 @@
       "createdAt": "2026-01-15T00:00:00.000Z"
     },
     {
-      "id": "aishinbun-2-1770518357077",
+      "id": "aishinbun-2-1770603921717",
       "title": "AIが進化すると、なぜGDPは崩壊するのか？",
       "url": "https://community.exawizards.com/aishinbun/news-1-14-2026/",
       "summary": "aishinbunから取得した記事です。",
@@ -505,7 +505,7 @@
       "createdAt": "2026-01-14T00:00:00.000Z"
     },
     {
-      "id": "aishinbun-3-1770518357077",
+      "id": "aishinbun-3-1770603921717",
       "title": "2026年、AIは本当に「賢くなった」のか",
       "url": "https://community.exawizards.com/aishinbun/news-2026-1-7/",
       "summary": "aishinbunから取得した記事です。",
@@ -517,7 +517,7 @@
       "createdAt": "2026-01-06T00:00:00.000Z"
     },
     {
-      "id": "aishinbun-4-1770518357077",
+      "id": "aishinbun-4-1770603921717",
       "title": "「AGIは実現したということで、次に行こう」",
       "url": "https://community.exawizards.com/aishinbun/news-12-27-2025/",
       "summary": "aishinbunから取得した記事です。",
@@ -529,7 +529,7 @@
       "createdAt": "2025-12-27T00:00:00.000Z"
     },
     {
-      "id": "ainow-144-1770518356574",
+      "id": "ainow-144-1770603920945",
       "title": "新着記事",
       "url": "https://ainow.ai/2025/08/28/277802/",
       "summary": "ainowから取得した記事です。",
@@ -541,7 +541,7 @@
       "createdAt": "2025-08-28T00:00:00.000Z"
     },
     {
-      "id": "ainow-72-1770518356566",
+      "id": "ainow-72-1770603920938",
       "title": "#DX",
       "url": "https://ainow.ai/tag/dx",
       "summary": "ainowから取得した記事です。",
@@ -553,7 +553,7 @@
       "createdAt": "2021-06-17T00:00:00.000Z"
     },
     {
-      "id": "ainow-109-1770518356571",
+      "id": "ainow-109-1770603920943",
       "title": "AINOW編集部",
       "url": "https://ainow.ai/category/ainoweditor",
       "summary": "ainowから取得した記事です。",
@@ -565,7 +565,7 @@
       "createdAt": "2021-06-17T00:00:00.000Z"
     },
     {
-      "id": "ainow-82-1770518356568",
+      "id": "ainow-82-1770603920939",
       "title": "#AI（人工知能）",
       "url": "https://ainow.ai/tag/ai%ef%bc%88%e4%ba%ba%e5%b7%a5%e7%9f%a5%e8%83%bd%ef%bc%89",
       "summary": "ainowから取得した記事です。",
@@ -577,7 +577,7 @@
       "createdAt": "2019-11-26T00:00:00.000Z"
     },
     {
-      "id": "ainow-91-1770518356569",
+      "id": "ainow-91-1770603920940",
       "title": "#pickup2",
       "url": "https://ainow.ai/tag/pickup2",
       "summary": "ainowから取得した記事です。",
