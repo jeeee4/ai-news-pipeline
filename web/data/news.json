@@ -1,56 +1,8 @@
 {
-  "generatedAt": "2026-02-17T02:12:16.825Z",
+  "generatedAt": "2026-02-18T02:23:30.157Z",
   "articles": [
     {
-      "id": "ledge-6-1771294335017",
-      "title": "Anthropic、Claude無料プランを拡充──「ファイル作成」「コネクター」「Skills」をサブスク不要に",
-      "url": "https://ledge.ai/articles/gemini_science_impending_crisis_peer_review",
-      "summary": "ledgeから取得した記事です。",
-      "keyPoints": [
-        "ソース: ledge"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-17T02:12:15.017Z"
-    },
-    {
-      "id": "ledge-1-1771294335016",
-      "title": "Anthropic、Claude無料プランを拡充──「ファイル作成」「コネクター」「Skills」をサブスク不要に",
-      "url": "https://ledge.ai/articles/anthropic_claude_free_plan_expansion_2026",
-      "summary": "ledgeから取得した記事です。",
-      "keyPoints": [
-        "ソース: ledge"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-17T02:12:15.016Z"
-    },
-    {
-      "id": "ledge-3-1771294335016",
-      "title": "Anthropic、Claude無料プランを拡充──「ファイル作成」「コネクター」「Skills」をサブスク不要に",
-      "url": "https://ledge.ai/articles/chatgpt_ads_test_us_free_go_2026",
-      "summary": "ledgeから取得した記事です。",
-      "keyPoints": [
-        "ソース: ledge"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-17T02:12:15.016Z"
-    },
-    {
-      "id": "ledge-4-1771294335016",
-      "title": "Anthropic、Claude無料プランを拡充──「ファイル作成」「コネクター」「Skills」をサブスク不要に",
-      "url": "https://ledge.ai/articles/data_center_iown_ishikari_otemachi",
-      "summary": "ledgeから取得した記事です。",
-      "keyPoints": [
-        "ソース: ledge"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-17T02:12:15.016Z"
-    },
-    {
-      "id": "ledge-5-1771294335016",
+      "id": "ledge-5-1771381409126",
       "title": "Anthropic、Claude無料プランを拡充──「ファイル作成」「コネクター」「Skills」をサブスク不要に",
       "url": "https://ledge.ai/articles/halluhard_multi_turn_hallucination_search_on_30_percent",
       "summary": "ledgeから取得した記事です。",
@@ -59,38 +11,73 @@
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-17T02:12:15.016Z"
+      "createdAt": "2026-02-18T02:23:29.126Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2160122",
-      "title": "2026/02/17 今日のQiitaトレンド記事をポッドキャストで聴こう！",
-      "url": "https://qiita.com/ennagara128/items/0ad43a78c3dc113e623a",
-      "summary": "qiitaから取得した記事です。",
+      "id": "ledge-6-1771381409126",
+      "title": "Anthropic、Claude無料プランを拡充──「ファイル作成」「コネクター」「Skills」をサブスク不要に",
+      "url": "https://ledge.ai/articles/gemini_science_impending_crisis_peer_review",
+      "summary": "ledgeから取得した記事です。",
       "keyPoints": [
-        "ソース: qiita",
-        "投稿者: ennagara128"
+        "ソース: ledge"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-17T02:04:35.000Z"
+      "createdAt": "2026-02-18T02:23:29.126Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2160114",
-      "title": "AIチャットに「プロジェクト構造」を渡す — Rei CLI で構造化コンテキストを生成する",
-      "url": "https://qiita.com/fc0web/items/aa15af656577068c3060",
-      "summary": "qiitaから取得した記事です。",
+      "id": "ledge-1-1771381409125",
+      "title": "Anthropic、Claude無料プランを拡充──「ファイル作成」「コネクター」「Skills」をサブスク不要に",
+      "url": "https://ledge.ai/articles/anthropic_claude_free_plan_expansion_2026",
+      "summary": "ledgeから取得した記事です。",
       "keyPoints": [
-        "ソース: qiita",
-        "投稿者: fc0web"
+        "ソース: ledge"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-17T01:51:23.000Z"
+      "createdAt": "2026-02-18T02:23:29.125Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2160109",
-      "title": "2025年、生成AIを使ってみて @uni928",
-      "url": "https://qiita.com/uni928/items/2f80177dd977909c7271",
+      "id": "ledge-3-1771381409125",
+      "title": "Anthropic、Claude無料プランを拡充──「ファイル作成」「コネクター」「Skills」をサブスク不要に",
+      "url": "https://ledge.ai/articles/chatgpt_ads_test_us_free_go_2026",
+      "summary": "ledgeから取得した記事です。",
+      "keyPoints": [
+        "ソース: ledge"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-18T02:23:29.125Z"
+    },
+    {
+      "id": "ledge-4-1771381409125",
+      "title": "Anthropic、Claude無料プランを拡充──「ファイル作成」「コネクター」「Skills」をサブスク不要に",
+      "url": "https://ledge.ai/articles/data_center_iown_ishikari_otemachi",
+      "summary": "ledgeから取得した記事です。",
+      "keyPoints": [
+        "ソース: ledge"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-18T02:23:29.125Z"
+    },
+    {
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2160609",
+      "title": "Q-Learningにおいて生存コストはなぜ意味があるのか？",
+      "url": "https://qiita.com/tadanoisi/items/742a5fe407374dc66dcd",
+      "summary": "qiitaから取得した記事です。",
+      "keyPoints": [
+        "ソース: qiita",
+        "投稿者: tadanoisi"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-18T02:17:00.000Z"
+    },
+    {
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2160596",
+      "title": "API Key の運用で「対策」「メリット」「悪用の方向性」を挙げた表",
+      "url": "https://qiita.com/uni928/items/c4461cd00fad23c37369",
       "summary": "qiitaから取得した記事です。",
       "keyPoints": [
         "ソース: qiita",
@@ -98,138 +85,175 @@
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-17T01:37:42.000Z"
+      "createdAt": "2026-02-18T01:53:54.000Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2160104",
-      "title": "The Day an AI Said \"Left Brain\" — Dependent Origination in Transformer Self",
-      "url": "https://qiita.com/dosanko_tousan/items/017a53d99fa0c5e3ef27",
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2160589",
+      "title": "今日からClaude Sonnet 4.6 を使い始めた",
+      "url": "https://qiita.com/rikiza1989/items/7563ce33f160084b78a4",
       "summary": "qiitaから取得した記事です。",
       "keyPoints": [
         "ソース: qiita",
-        "投稿者: dosanko_tousan"
+        "投稿者: rikiza1989"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-17T01:21:15.000Z"
+      "createdAt": "2026-02-18T01:43:40.000Z"
     },
     {
-      "id": 47042136,
-      "title": "AI is destroying Open Source, and it's not even good yet",
-      "url": "https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/",
-      "summary": "Hacker Newsで107ポイント、66件のコメントを獲得した記事です。",
+      "id": 47055979,
+      "title": "Thousands of CEOs just admitted AI had no impact on employment or productivity",
+      "url": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
+      "summary": "Hacker Newsで36ポイント、14件のコメントを獲得した記事です。",
       "keyPoints": [
-        "スコア: 107",
-        "コメント数: 66",
-        "投稿者: VorpalWay"
+        "スコア: 36",
+        "コメント数: 14",
+        "投稿者: virgildotcodes"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-17T00:26:20.000Z"
+      "createdAt": "2026-02-18T01:40:52.000Z"
     },
     {
-      "id": 47041973,
-      "title": "Building for an audience of one: starting and finishing side projects with AI",
-      "url": "https://codemade.net/blog/building-for-one/",
-      "summary": "Hacker Newsで9ポイント、0件のコメントを獲得した記事です。",
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2160585",
+      "title": "「バイブコーディング」の先にあるもの。AntigravityのPlanning機能で、PoCの「スピード」と「品質」を両立させる実装術",
+      "url": "https://qiita.com/YushiYamamoto/items/8d590ce672d8d8e7a3f4",
+      "summary": "qiitaから取得した記事です。",
       "keyPoints": [
-        "スコア: 9",
-        "コメント数: 0",
-        "投稿者: lorisdev"
+        "ソース: qiita",
+        "投稿者: YushiYamamoto"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-17T00:00:03.000Z"
+      "createdAt": "2026-02-18T01:38:43.000Z"
     },
     {
-      "id": 47041836,
-      "title": "Show HN: Scanned 1927-1945 Daily USFS Work Diary",
-      "url": "https://forestrydiary.com/",
-      "summary": "Hacker Newsで51ポイント、8件のコメントを獲得した記事です。",
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2160581",
+      "title": "【n8n×ChatGPT】地球の裏側（ペルー）で働くために。寝ている間にSlackとメールを要約・下書きしてくれる「影のAI秘書」を構築した",
+      "url": "https://qiita.com/YushiYamamoto/items/a2918bb28fd76a48ba47",
+      "summary": "qiitaから取得した記事です。",
       "keyPoints": [
-        "スコア: 51",
-        "コメント数: 8",
-        "投稿者: dogline"
+        "ソース: qiita",
+        "投稿者: YushiYamamoto"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-16T23:40:33.000Z"
+      "createdAt": "2026-02-18T01:26:05.000Z"
     },
     {
       "id": "itmedia-0",
-      "title": "SOMPOグループCEOをAIで再現　本人とのガチンコ対談で見えた「人間の役割」",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2602/17/news029.html",
+      "title": "いまさら聞けない「Claude Code」　できることと使用感を実践レビュー",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2602/18/news029.html",
       "summary": "itmediaから取得した記事です。",
       "keyPoints": [
         "ソース: itmedia"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-16T23:30:00.000Z"
+      "createdAt": "2026-02-18T01:00:00.000Z"
     },
     {
       "id": "itmedia-1",
-      "title": "AIエージェント普及はリスクの転換点　OpenClawを例に防御ポイントを解説",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2602/17/news045.html",
+      "title": "AI学習目的の海賊版収集・利用は著作権法違反になるか？　柿沼太一弁護士の見解",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2602/16/news041.html",
       "summary": "itmediaから取得した記事です。",
       "keyPoints": [
         "ソース: itmedia"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-16T23:00:00.000Z"
-    },
-    {
-      "id": "itmedia-2",
-      "title": "会員数「1億人超え」　欧州最大ホテルチェーンが日本で仕掛ける“脱中国人依存”の戦略",
-      "url": "https://www.itmedia.co.jp/business/articles/2602/17/news059.html",
-      "summary": "itmediaから取得した記事です。",
-      "keyPoints": [
-        "ソース: itmedia"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-16T22:00:00.000Z"
-    },
-    {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2160020",
-      "title": "ローカルLLMで構築する最強の爆速・セキュアな開発環境「Sidecar」とは",
-      "url": "https://qiita.com/s_tsuchida/items/58606bf867e76af3939c",
-      "summary": "qiitaから取得した記事です。",
-      "keyPoints": [
-        "ソース: qiita",
-        "投稿者: s_tsuchida"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-16T20:34:55.000Z"
-    },
-    {
-      "id": "itmedia-3",
-      "title": "小ネタ：Claude Coworkのグローバル指示とフォルダ指示について調べてみた",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2602/17/news026.html",
-      "summary": "itmediaから取得した記事です。",
-      "keyPoints": [
-        "ソース: itmedia"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-16T20:00:00.000Z"
-    },
-    {
-      "id": "itmedia-4",
-      "title": "GPT-5.3-Codexが主要ツールで解禁　OS操作などを含む開発タスクを自律的に完遂する能力が大幅向上",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2602/17/news018.html",
-      "summary": "itmediaから取得した記事です。",
-      "keyPoints": [
-        "ソース: itmedia"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-16T20:00:00.000Z"
+      "createdAt": "2026-02-18T01:00:00.000Z"
     },
     {
       "id": 10000,
+      "title": "NVIDIA Nemotron 2 Nano 9B Japanese: 日本のソブリンAIを支える最先端小規模言語モデル",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-nano-9b-v2-japanese-ja",
+      "summary": "Hugging Faceの公式ブログ記事です。",
+      "keyPoints": [
+        "ソース: Hugging Face"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-17T23:28:52.000Z"
+    },
+    {
+      "id": "itmedia-2",
+      "title": "富士通、ソブリンAIサーバを国内製造開始　自社開発プロセッサー搭載版も",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2602/18/news028.html",
+      "summary": "itmediaから取得した記事です。",
+      "keyPoints": [
+        "ソース: itmedia"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-17T23:00:00.000Z"
+    },
+    {
+      "id": "itmedia-3",
+      "title": "WordPress.comにAIアシスタント　自然言語でWebサイトデザインや画像編集が可能に",
+      "url": "https://www.itmedia.co.jp/news/articles/2602/18/news063.html",
+      "summary": "itmediaから取得した記事です。",
+      "keyPoints": [
+        "ソース: itmedia"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-17T22:54:00.000Z"
+    },
+    {
+      "id": "itmedia-4",
+      "title": "シャドーAIエージェントを検出　Oktaが新機能「Agent Discovery」を発表",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2602/18/news036.html",
+      "summary": "itmediaから取得した記事です。",
+      "keyPoints": [
+        "ソース: itmedia"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-17T22:30:00.000Z"
+    },
+    {
+      "id": 10001,
+      "title": "Teaching AI to read a map",
+      "url": "https://research.google/blog/teaching-ai-to-read-a-map/",
+      "summary": "Machine Perception",
+      "keyPoints": [
+        "ソース: Google Research"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-17T21:37:00.000Z"
+    },
+    {
+      "id": 47050488,
+      "title": "Claude Sonnet 4.6",
+      "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
+      "summary": "Hacker Newsで880ポイント、789件のコメントを獲得した記事です。",
+      "keyPoints": [
+        "スコア: 880",
+        "コメント数: 789",
+        "投稿者: adocomplete"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-17T17:48:52.000Z"
+    },
+    {
+      "id": 47049628,
+      "title": "Async/Await on the GPU",
+      "url": "https://www.vectorware.com/blog/async-await-on-gpu/",
+      "summary": "Hacker Newsで157ポイント、45件のコメントを獲得した記事です。",
+      "keyPoints": [
+        "スコア: 157",
+        "コメント数: 45",
+        "投稿者: Philpax"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-17T16:53:05.000Z"
+    },
+    {
+      "id": 10002,
       "title": "GPT-5.2 derives a new result in theoretical physics",
       "url": "https://openai.com/index/new-result-theoretical-physics",
       "summary": "A new preprint shows GPT-5.2 proposing a new formula for a gluon amplitude, later formally proved and verified by OpenAI and academic collaborators.",
@@ -241,7 +265,7 @@
       "createdAt": "2026-02-13T11:00:00.000Z"
     },
     {
-      "id": 10001,
+      "id": 10003,
       "title": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
       "url": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
       "summary": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT to help organizations defend against prompt injection and AI-driven data exfiltration.",
@@ -253,7 +277,7 @@
       "createdAt": "2026-02-13T10:00:00.000Z"
     },
     {
-      "id": 10002,
+      "id": 10004,
       "title": "Beyond rate limits: scaling access to Codex and Sora",
       "url": "https://openai.com/index/beyond-rate-limits",
       "summary": "How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex.",
@@ -265,7 +289,7 @@
       "createdAt": "2026-02-13T09:00:00.000Z"
     },
     {
-      "id": 10003,
+      "id": 10005,
       "title": "Scaling social science research",
       "url": "https://openai.com/index/scaling-social-science-research",
       "summary": "GABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitative text and images into quantitative data, helping social scientists analyze research at scale.",
@@ -277,7 +301,7 @@
       "createdAt": "2026-02-13T09:00:00.000Z"
     },
     {
-      "id": 10004,
+      "id": 10006,
       "title": "Custom Kernels for All from Codex and Claude",
       "url": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
       "summary": "Hugging Faceの公式ブログ記事です。",
@@ -289,7 +313,7 @@
       "createdAt": "2026-02-13T00:00:00.000Z"
     },
     {
-      "id": 10005,
+      "id": 10007,
       "title": "Introducing GPT-5.3-Codex-Spark",
       "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
       "summary": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.",
@@ -301,7 +325,7 @@
       "createdAt": "2026-02-12T10:00:00.000Z"
     },
     {
-      "id": 10006,
+      "id": 10008,
       "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
       "url": "https://huggingface.co/blog/openenv-turing",
       "summary": "Hugging Faceの公式ブログ記事です。",
@@ -313,7 +337,7 @@
       "createdAt": "2026-02-12T00:00:00.000Z"
     },
     {
-      "id": 10007,
+      "id": 10009,
       "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
       "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/",
       "summary": "Algorithms & Theory",
@@ -325,7 +349,7 @@
       "createdAt": "2026-02-11T10:34:00.000Z"
     },
     {
-      "id": 10008,
+      "id": 10010,
       "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
       "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/",
       "summary": "Human-Computer Interaction and Visualization",
@@ -337,7 +361,7 @@
       "createdAt": "2026-02-10T18:30:00.000Z"
     },
     {
-      "id": 10009,
+      "id": 10011,
       "title": "How AI trained on birds is surfacing underwater mysteries",
       "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/",
       "summary": "Climate & Sustainability",
@@ -349,7 +373,7 @@
       "createdAt": "2026-02-09T18:38:00.000Z"
     },
     {
-      "id": 10010,
+      "id": 10012,
       "title": "Transformers.js v4 Preview: Now Available on NPM!",
       "url": "https://huggingface.co/blog/transformersjs-v4",
       "summary": "Hugging Faceの公式ブログ記事です。",
@@ -361,7 +385,7 @@
       "createdAt": "2026-02-09T00:00:00.000Z"
     },
     {
-      "id": 10011,
+      "id": 10013,
       "title": "Rethinking imitation learning with Predictive Inverse Dynamics Models",
       "url": "https://www.microsoft.com/en-us/research/blog/rethinking-imitation-learning-with-predictive-inverse-dynamics-models/",
       "summary": "This research looks at why Predictive Inverse Dynamics Models often outperform standard Behavior Cloning in imitation learning. By using simple predictions of what happens next, PIDMs reduce ambiguity and learn from far fewer demonstrations.\nThe post Rethinking imitation learning with Predictive Inverse Dynamics Models appeared first on Microsoft Research.",
@@ -373,7 +397,7 @@
       "createdAt": "2026-02-05T17:00:00.000Z"
     },
     {
-      "id": 10012,
+      "id": 10014,
       "title": "Introducing SyGra Studio",
       "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
       "summary": "Hugging Faceの公式ブログ記事です。",
@@ -385,7 +409,7 @@
       "createdAt": "2026-02-05T16:52:28.000Z"
     },
     {
-      "id": 10013,
+      "id": 10015,
       "title": "How AI tools can redefine universal design to increase accessibility",
       "url": "https://research.google/blog/how-ai-agents-can-redefine-universal-design-to-increase-accessibility/",
       "summary": "Education Innovation",
@@ -397,7 +421,7 @@
       "createdAt": "2026-02-05T08:28:00.000Z"
     },
     {
-      "id": 10014,
+      "id": 10016,
       "title": "Paza: Introducing automatic speech recognition benchmarks and models for low resource languages",
       "url": "https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/",
       "summary": "Microsoft Research unveils Paza, a human-centered speech pipeline, and PazaBench, the first leaderboard for low-resource languages. It covers 39 African languages and 52 models and is tested with communities in real settings. \nThe post Paza: Introducing automatic speech recognition benchmarks and models for low resource languages appeared first on Microsoft Research.",
@@ -407,30 +431,6 @@
       "category": "AI",
       "sentiment": "neutral",
       "createdAt": "2026-02-05T05:07:55.000Z"
-    },
-    {
-      "id": 10015,
-      "title": "​Sequential Attention: Making AI models leaner and faster without sacrificing accuracy",
-      "url": "https://research.google/blog/sequential-attention-making-ai-models-leaner-and-faster-without-sacrificing-accuracy/",
-      "summary": "Algorithms & Theory",
-      "keyPoints": [
-        "ソース: Google Research"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-04T15:14:00.000Z"
-    },
-    {
-      "id": 10016,
-      "title": "Nemotron ColEmbed V2: Raising the Bar for Multimodal Retrieval with ViDoRe V3’s Top Model",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-colembed-v2",
-      "summary": "Hugging Faceの公式ブログ記事です。",
-      "keyPoints": [
-        "ソース: Hugging Face"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-04T15:00:40.000Z"
     },
     {
       "id": 10017,
@@ -445,7 +445,7 @@
       "createdAt": "2026-01-27T17:00:00.000Z"
     },
     {
-      "id": "aishinbun-0-1771294336567",
+      "id": "aishinbun-0-1771381410111",
       "title": "1500億円契約をGoogleに奪われたOpenAIが、それでも「余裕」を見せる理由",
       "url": "https://community.exawizards.com/aishinbun/news-01-23-2026/",
       "summary": "aishinbunから取得した記事です。",
@@ -481,7 +481,7 @@
       "createdAt": "2026-01-15T14:00:00.000Z"
     },
     {
-      "id": "aishinbun-1-1771294336567",
+      "id": "aishinbun-1-1771381410111",
       "title": "寿命160歳時代の衝撃",
       "url": "https://community.exawizards.com/aishinbun/news-1-15-2026/",
       "summary": "aishinbunから取得した記事です。",
@@ -493,7 +493,7 @@
       "createdAt": "2026-01-15T00:00:00.000Z"
     },
     {
-      "id": "aishinbun-2-1771294336567",
+      "id": "aishinbun-2-1771381410111",
       "title": "AIが進化すると、なぜGDPは崩壊するのか？",
       "url": "https://community.exawizards.com/aishinbun/news-1-14-2026/",
       "summary": "aishinbunから取得した記事です。",
@@ -505,7 +505,7 @@
       "createdAt": "2026-01-14T00:00:00.000Z"
     },
     {
-      "id": "aishinbun-3-1771294336567",
+      "id": "aishinbun-3-1771381410111",
       "title": "2026年、AIは本当に「賢くなった」のか",
       "url": "https://community.exawizards.com/aishinbun/news-2026-1-7/",
       "summary": "aishinbunから取得した記事です。",
@@ -517,7 +517,7 @@
       "createdAt": "2026-01-06T00:00:00.000Z"
     },
     {
-      "id": "aishinbun-4-1771294336567",
+      "id": "aishinbun-4-1771381410111",
       "title": "「AGIは実現したということで、次に行こう」",
       "url": "https://community.exawizards.com/aishinbun/news-12-27-2025/",
       "summary": "aishinbunから取得した記事です。",
@@ -529,7 +529,7 @@
       "createdAt": "2025-12-27T00:00:00.000Z"
     },
     {
-      "id": "ainow-144-1771294335397",
+      "id": "ainow-144-1771381409539",
       "title": "新着記事",
       "url": "https://ainow.ai/2025/08/28/277802/",
       "summary": "ainowから取得した記事です。",
@@ -541,7 +541,7 @@
       "createdAt": "2025-08-28T00:00:00.000Z"
     },
     {
-      "id": "ainow-72-1771294335388",
+      "id": "ainow-72-1771381409529",
       "title": "#DX",
       "url": "https://ainow.ai/tag/dx",
       "summary": "ainowから取得した記事です。",
@@ -553,7 +553,7 @@
       "createdAt": "2021-06-17T00:00:00.000Z"
     },
     {
-      "id": "ainow-109-1771294335393",
+      "id": "ainow-109-1771381409535",
       "title": "AINOW編集部",
       "url": "https://ainow.ai/category/ainoweditor",
       "summary": "ainowから取得した記事です。",
@@ -565,7 +565,7 @@
       "createdAt": "2021-06-17T00:00:00.000Z"
     },
     {
-      "id": "ainow-82-1771294335389",
+      "id": "ainow-82-1771381409531",
       "title": "#AI（人工知能）",
       "url": "https://ainow.ai/tag/ai%ef%bc%88%e4%ba%ba%e5%b7%a5%e7%9f%a5%e8%83%bd%ef%bc%89",
       "summary": "ainowから取得した記事です。",
@@ -577,7 +577,7 @@
       "createdAt": "2019-11-26T00:00:00.000Z"
     },
     {
-      "id": "ainow-91-1771294335390",
+      "id": "ainow-91-1771381409532",
       "title": "#pickup2",
       "url": "https://ainow.ai/tag/pickup2",
       "summary": "ainowから取得した記事です。",
