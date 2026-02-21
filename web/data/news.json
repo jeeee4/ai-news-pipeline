@@ -1,45 +1,9 @@
 {
-  "generatedAt": "2026-02-20T02:10:24.263Z",
+  "generatedAt": "2026-02-21T02:05:04.729Z",
   "articles": [
     {
-      "id": "ledge-6-1771553423304",
-      "title": "Google、推論特化「Gemini 3 Deep Think」アップデート──ARC-AGI-2で84.6%など主要ベンチマークで軒並み高評価、科学・研究・工学領域の高度な問題解決に照準",
-      "url": "https://ledge.ai/articles/anthropic_claude_free_plan_expansion_2026",
-      "summary": "ledgeから取得した記事です。",
-      "keyPoints": [
-        "ソース: ledge"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-20T02:10:23.304Z"
-    },
-    {
-      "id": "ledge-1-1771553423303",
-      "title": "Google、推論特化「Gemini 3 Deep Think」アップデート──ARC-AGI-2で84.6%など主要ベンチマークで軒並み高評価、科学・研究・工学領域の高度な問題解決に照準",
-      "url": "https://ledge.ai/articles/gemini_3_deep_think_arc_agi_2_84_6",
-      "summary": "ledgeから取得した記事です。",
-      "keyPoints": [
-        "ソース: ledge"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-20T02:10:23.303Z"
-    },
-    {
-      "id": "ledge-3-1771553423303",
-      "title": "Google、推論特化「Gemini 3 Deep Think」アップデート──ARC-AGI-2で84.6%など主要ベンチマークで軒並み高評価、科学・研究・工学領域の高度な問題解決に照準",
-      "url": "https://ledge.ai/articles/waymo_6th_gen_waymo_driver_fully_autonomous_severe_weather",
-      "summary": "ledgeから取得した記事です。",
-      "keyPoints": [
-        "ソース: ledge"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-20T02:10:23.303Z"
-    },
-    {
-      "id": "ledge-4-1771553423303",
-      "title": "Google、推論特化「Gemini 3 Deep Think」アップデート──ARC-AGI-2で84.6%など主要ベンチマークで軒並み高評価、科学・研究・工学領域の高度な問題解決に照準",
+      "id": "ledge-6-1771639503417",
+      "title": "Gemini 3.1 Pro、ARC-AGI-2で77.1%──“Deep Think級推論”を一般提供へ",
       "url": "https://ledge.ai/articles/fujitsu_sovereign_ai_server_made_in_japan_start",
       "summary": "ledgeから取得した記事です。",
       "keyPoints": [
@@ -47,87 +11,261 @@
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-20T02:10:23.303Z"
+      "createdAt": "2026-02-21T02:05:03.417Z"
     },
     {
-      "id": "ledge-5-1771553423303",
-      "title": "Google、推論特化「Gemini 3 Deep Think」アップデート──ARC-AGI-2で84.6%など主要ベンチマークで軒並み高評価、科学・研究・工学領域の高度な問題解決に照準",
-      "url": "https://ledge.ai/articles/government_ai_guideline_revision_human_judgment_required_x_debate",
+      "id": "ledge-1-1771639503416",
+      "title": "Gemini 3.1 Pro、ARC-AGI-2で77.1%──“Deep Think級推論”を一般提供へ",
+      "url": "https://ledge.ai/articles/gemini_3_1_pro_arc_agi_2_77_1_deep_think_general_release",
       "summary": "ledgeから取得した記事です。",
       "keyPoints": [
         "ソース: ledge"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-20T02:10:23.303Z"
+      "createdAt": "2026-02-21T02:05:03.416Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2161660",
-      "title": "2026/02/20 今日のQiitaトレンド記事をポッドキャストで聴こう！",
-      "url": "https://qiita.com/ennagara128/items/8a8d7259a2a2bcbad0a7",
-      "summary": "qiitaから取得した記事です。",
+      "id": "ledge-3-1771639503416",
+      "title": "Gemini 3.1 Pro、ARC-AGI-2で77.1%──“Deep Think級推論”を一般提供へ",
+      "url": "https://ledge.ai/articles/alibaba_rynnbrain_robotics_spatiotemporal_grounded_ai",
+      "summary": "ledgeから取得した記事です。",
       "keyPoints": [
-        "ソース: qiita",
-        "投稿者: ennagara128"
+        "ソース: ledge"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-20T02:03:53.000Z"
+      "createdAt": "2026-02-21T02:05:03.416Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2161658",
-      "title": "QED-Nanoを試してみた",
-      "url": "https://qiita.com/nano_on_fire/items/6933ecf7f92043ef9aad",
-      "summary": "qiitaから取得した記事です。",
+      "id": "ledge-4-1771639503416",
+      "title": "Gemini 3.1 Pro、ARC-AGI-2で77.1%──“Deep Think級推論”を一般提供へ",
+      "url": "https://ledge.ai/articles/expanding_distillation_debate_openai_congress_warning_google_extraction_attacks",
+      "summary": "ledgeから取得した記事です。",
       "keyPoints": [
-        "ソース: qiita",
-        "投稿者: nano_on_fire"
+        "ソース: ledge"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-20T01:58:33.000Z"
+      "createdAt": "2026-02-21T02:05:03.416Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2161656",
-      "title": "Claude Codeで10日間に82個の無料Webツールを作った開発プロセス",
-      "url": "https://qiita.com/zeronova/items/3e8f7cedf73e2beb6630",
-      "summary": "qiitaから取得した記事です。",
+      "id": "ledge-5-1771639503416",
+      "title": "Gemini 3.1 Pro、ARC-AGI-2で77.1%──“Deep Think級推論”を一般提供へ",
+      "url": "https://ledge.ai/articles/waymo_6th_gen_waymo_driver_fully_autonomous_severe_weather",
+      "summary": "ledgeから取得した記事です。",
       "keyPoints": [
-        "ソース: qiita",
-        "投稿者: zeronova"
+        "ソース: ledge"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-20T01:58:09.000Z"
+      "createdAt": "2026-02-21T02:05:03.416Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2161655",
-      "title": "プログラミング雑記 2026年2月20日",
-      "url": "https://qiita.com/ishisaka/items/2cd006bbb8c84f830480",
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2162140",
+      "title": "Nemotron 9B-v2-Japaneseの推論過程垂れ流し問題(DGX Spark)",
+      "url": "https://qiita.com/y_hoshiba/items/479a6223f721d85849db",
       "summary": "qiitaから取得した記事です。",
       "keyPoints": [
         "ソース: qiita",
-        "投稿者: ishisaka"
+        "投稿者: y_hoshiba"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-20T01:56:39.000Z"
+      "createdAt": "2026-02-21T01:59:18.000Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2161622",
-      "title": "【FastAPI × Azure OpenAI】LLMの回答を「文字送り」で返すServer-Sent Events (SSE) 実装と、タイムアウト回避の非同期処理設計",
-      "url": "https://qiita.com/YushiYamamoto/items/a5b0aa1d49df6e9e35d1",
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2162131",
+      "title": "「ブラウザの記憶」が「認可」を欺く。TryHackMe \"Session Management\" × ゼロトラスト・AI時代のセッション管理備忘録",
+      "url": "https://qiita.com/FumiakiC/items/0a676c2450bb0111cfb2",
       "summary": "qiitaから取得した記事です。",
       "keyPoints": [
         "ソース: qiita",
-        "投稿者: YushiYamamoto"
+        "投稿者: FumiakiC"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-20T00:14:21.000Z"
+      "createdAt": "2026-02-21T01:44:33.000Z"
+    },
+    {
+      "id": 47096466,
+      "title": "Cord: Coordinating Trees of AI Agents",
+      "url": "https://www.june.kim/cord",
+      "summary": "Hacker Newsで9ポイント、0件のコメントを獲得した記事です。",
+      "keyPoints": [
+        "スコア: 9",
+        "コメント数: 0",
+        "投稿者: gfortaine"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-21T01:27:35.000Z"
+    },
+    {
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2162115",
+      "title": "Totonoi ScoreにユーザーRatingを反映させてみた —— 客観と主観をつなぐ補正ロジック",
+      "url": "https://qiita.com/tutumun/items/f61727872da2079ffb37",
+      "summary": "qiitaから取得した記事です。",
+      "keyPoints": [
+        "ソース: qiita",
+        "投稿者: tutumun"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-21T01:02:04.000Z"
+    },
+    {
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2162111",
+      "title": "🎊 欧州就職活動で内定をもらえたよ Re: 就職活動のためにLangGraph+ローカルLLMでアプリを作ったら、意外にも使える子に仕上がったので自慢させてくれ",
+      "url": "https://qiita.com/Ultra-grand-child/items/03965e431f2e63a11f06",
+      "summary": "qiitaから取得した記事です。",
+      "keyPoints": [
+        "ソース: qiita",
+        "投稿者: Ultra-grand-child"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-21T00:44:53.000Z"
+    },
+    {
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2162103",
+      "title": "ReadonlyデータベースとSession肥満症：データ永続化層の2つの隠れた脅威",
+      "url": "https://qiita.com/linou/items/2efa8ee1f1dee93815eb",
+      "summary": "qiitaから取得した記事です。",
+      "keyPoints": [
+        "ソース: qiita",
+        "投稿者: linou"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-21T00:24:28.000Z"
+    },
+    {
+      "id": "aishinbun-0-1771639504499",
+      "title": "知能を産業にせよ  18ヶ月で決まる評価軸が次の100年を決める",
+      "url": "https://community.exawizards.com/aishinbun/news-02-21-2026/",
+      "summary": "aishinbunから取得した記事です。",
+      "keyPoints": [
+        "ソース: aishinbun"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-21T00:00:00.000Z"
+    },
+    {
+      "id": "itmedia-0",
+      "title": "富士通、開発の全工程をAIで自動化し「生産性100倍」　自社LLMのTakaneを活用",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2602/21/news013.html",
+      "summary": "itmediaから取得した記事です。",
+      "keyPoints": [
+        "ソース: itmedia"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-20T23:00:00.000Z"
+    },
+    {
+      "id": "itmedia-1",
+      "title": "VS Code拡張機能4件に重大な脆弱性　累計ダウンロード数は1.2億",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2602/21/news012.html",
+      "summary": "itmediaから取得した記事です。",
+      "keyPoints": [
+        "ソース: itmedia"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-20T23:00:00.000Z"
+    },
+    {
+      "id": 47092203,
+      "title": "Every company building your AI assistant is now an ad company",
+      "url": "https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company",
+      "summary": "Hacker Newsで96ポイント、44件のコメントを獲得した記事です。",
+      "keyPoints": [
+        "スコア: 96",
+        "コメント数: 44",
+        "投稿者: ajuhasz"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-20T18:55:15.000Z"
     },
     {
       "id": 10000,
+      "title": "Our First Proof submissions",
+      "url": "https://openai.com/index/first-proof-submissions",
+      "summary": "We share our AI model’s proof attempts for the First Proof math challenge, testing research-grade reasoning on expert-level problems.",
+      "keyPoints": [
+        "ソース: OpenAI"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-20T14:30:00.000Z"
+    },
+    {
+      "id": 47088037,
+      "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
+      "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
+      "summary": "Hacker Newsで663ポイント、163件のコメントを獲得した記事です。",
+      "keyPoints": [
+        "スコア: 663",
+        "コメント数: 163",
+        "投稿者: lairv"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-20T13:51:04.000Z"
+    },
+    {
+      "id": "itmedia-2",
+      "title": "三菱UFJ銀行、AIで提案書作成　“独自フォーマットに完全準拠したスライド”生成",
+      "url": "https://www.itmedia.co.jp/news/articles/2602/20/news105.html",
+      "summary": "itmediaから取得した記事です。",
+      "keyPoints": [
+        "ソース: itmedia"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-20T08:16:00.000Z"
+    },
+    {
+      "id": "itmedia-3",
+      "title": "自分の部屋がCIAみたいになる？　国際情勢ダッシュボード「World Monitor」話題　開発は「週末にClaudeで」",
+      "url": "https://www.itmedia.co.jp/news/articles/2602/20/news098.html",
+      "summary": "itmediaから取得した記事です。",
+      "keyPoints": [
+        "ソース: itmedia"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-20T07:09:00.000Z"
+    },
+    {
+      "id": "itmedia-4",
+      "title": "カシオ、AIペットロボット「Moflin」を小児病棟に提供　無菌病床で活用",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2602/20/news087.html",
+      "summary": "itmediaから取得した記事です。",
+      "keyPoints": [
+        "ソース: itmedia"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-20T06:13:00.000Z"
+    },
+    {
+      "id": 10001,
+      "title": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
+      "url": "https://huggingface.co/blog/ggml-joins-hf",
+      "summary": "Hugging Faceの公式ブログ記事です。",
+      "keyPoints": [
+        "ソース: Hugging Face"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-20T00:00:00.000Z"
+    },
+    {
+      "id": 10002,
       "title": "Train AI models with Unsloth and Hugging Face Jobs for FREE",
       "url": "https://huggingface.co/blog/unsloth-jobs",
       "summary": "Hugging Faceの公式ブログ記事です。",
@@ -139,69 +277,7 @@
       "createdAt": "2026-02-20T00:00:00.000Z"
     },
     {
-      "id": "itmedia-0",
-      "title": "関西電力が「AIファースト企業」化に本気　脱JTCを図る背景と全従業員“AI武装化”の全貌",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2601/28/news006.html",
-      "summary": "itmediaから取得した記事です。",
-      "keyPoints": [
-        "ソース: itmedia"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-19T23:00:00.000Z"
-    },
-    {
-      "id": "itmedia-1",
-      "title": "急成長中の中国ヒューマノイド大手AgiBotの技術戦略",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2602/20/news029.html",
-      "summary": "itmediaから取得した記事です。",
-      "keyPoints": [
-        "ソース: itmedia"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-19T22:30:00.000Z"
-    },
-    {
-      "id": "itmedia-2",
-      "title": "Google、推論を強化した「Gemini 3.1 Pro」発表　GitHub Copilotでも利用可能に",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2602/20/news060.html",
-      "summary": "itmediaから取得した記事です。",
-      "keyPoints": [
-        "ソース: itmedia"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-19T22:14:00.000Z"
-    },
-    {
-      "id": 47080267,
-      "title": "Single vaccine could protect against all coughs, colds and flus",
-      "url": "https://www.bbc.com/news/articles/cx2g8rz7yedo",
-      "summary": "Hacker Newsで124ポイント、76件のコメントを獲得した記事です。",
-      "keyPoints": [
-        "スコア: 124",
-        "コメント数: 76",
-        "投稿者: dabinat"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-19T22:08:24.000Z"
-    },
-    {
-      "id": "itmedia-3",
-      "title": "Pythonの「~True」はなぜFalseではなく、-2を返すのか？　3.16での廃止案を巡り活発化する議論",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2602/20/news020.html",
-      "summary": "itmediaから取得した記事です。",
-      "keyPoints": [
-        "ソース: itmedia"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-19T20:00:00.000Z"
-    },
-    {
-      "id": 10001,
+      "id": 10003,
       "title": "Media Authenticity Methods in Practice: Capabilities, Limitations, and Directions",
       "url": "https://www.microsoft.com/en-us/research/blog/media-authenticity-methods-in-practice-capabilities-limitations-and-directions/",
       "summary": "As synthetic media grows, verifying what’s real, and the origin of content, matters more than ever. Our latest report explores media integrity and authentication methods, their limits, and practical paths toward trustworthy provenance across images, audio, and video.\nThe post Media Authenticity Methods in Practice: Capabilities, Limitations, and Directions appeared first on Microsoft Research.",
@@ -213,7 +289,7 @@
       "createdAt": "2026-02-19T16:00:51.000Z"
     },
     {
-      "id": 10002,
+      "id": 10004,
       "title": "「データ不足」の壁を越える：合成ペルソナが日本のAI開発を加速",
       "url": "https://huggingface.co/blog/nvidia/nemotron-personas-japan-nttdata-ja",
       "summary": "Hugging Faceの公式ブログ記事です。",
@@ -225,21 +301,7 @@
       "createdAt": "2026-02-19T15:32:38.000Z"
     },
     {
-      "id": 47074735,
-      "title": "Gemini 3.1 Pro",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
-      "summary": "Hacker Newsで534ポイント、701件のコメントを獲得した記事です。",
-      "keyPoints": [
-        "スコア: 534",
-        "コメント数: 701",
-        "投稿者: MallocVoidstar"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-19T15:19:57.000Z"
-    },
-    {
-      "id": 10003,
+      "id": 10005,
       "title": "Advancing independent research on AI alignment",
       "url": "https://openai.com/index/advancing-independent-research-ai-alignment",
       "summary": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks.",
@@ -251,19 +313,7 @@
       "createdAt": "2026-02-19T10:00:00.000Z"
     },
     {
-      "id": "itmedia-4",
-      "title": "北海道で最も人口が少ない村に「AI副村長」、年齢は“17歳”　村民をチャットでサポート",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2602/19/news141.html",
-      "summary": "itmediaから取得した記事です。",
-      "keyPoints": [
-        "ソース: itmedia"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-19T09:54:00.000Z"
-    },
-    {
-      "id": 10004,
+      "id": 10006,
       "title": "Introducing OpenAI for India",
       "url": "https://openai.com/index/openai-for-india",
       "summary": "OpenAI for India expands AI access across the country—building local infrastructure, powering enterprises, and advancing workforce skills.",
@@ -275,7 +325,7 @@
       "createdAt": "2026-02-18T21:00:00.000Z"
     },
     {
-      "id": 10005,
+      "id": 10007,
       "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
       "url": "https://huggingface.co/blog/ibm-research/itbenchandmast",
       "summary": "Hugging Faceの公式ブログ記事です。",
@@ -287,7 +337,7 @@
       "createdAt": "2026-02-18T16:15:45.000Z"
     },
     {
-      "id": 10006,
+      "id": 10008,
       "title": "Project Silica’s advances in glass storage technology",
       "url": "https://www.microsoft.com/en-us/research/blog/project-silicas-advances-in-glass-storage-technology/",
       "summary": "Project Silica introduces new techniques for encoding data in borosilicate glass, as described in the journal Nature. These advances lower media cost and simplify writing and reading systems while supporting 10,000-year data preservation.\nThe post Project Silica’s advances in glass storage technology appeared first on Microsoft Research.",
@@ -299,7 +349,7 @@
       "createdAt": "2026-02-18T16:11:45.000Z"
     },
     {
-      "id": 10007,
+      "id": 10009,
       "title": "One-Shot Any Web App with Gradio's gr.HTML",
       "url": "https://huggingface.co/blog/gradio-html-one-shot-apps",
       "summary": "Hugging Faceの公式ブログ記事です。",
@@ -311,7 +361,7 @@
       "createdAt": "2026-02-18T00:00:00.000Z"
     },
     {
-      "id": 10008,
+      "id": 10010,
       "title": "Teaching AI to read a map",
       "url": "https://research.google/blog/teaching-ai-to-read-a-map/",
       "summary": "Machine Perception",
@@ -323,21 +373,7 @@
       "createdAt": "2026-02-17T21:37:00.000Z"
     },
     {
-      "id": 47038032,
-      "title": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
-      "url": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
-      "summary": "Hacker Newsで182ポイント、76件のコメントを獲得した記事です。",
-      "keyPoints": [
-        "スコア: 182",
-        "コメント数: 76",
-        "投稿者: benbreen"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-16T17:57:46.000Z"
-    },
-    {
-      "id": 10009,
+      "id": 10011,
       "title": "GPT-5.2 derives a new result in theoretical physics",
       "url": "https://openai.com/index/new-result-theoretical-physics",
       "summary": "A new preprint shows GPT-5.2 proposing a new formula for a gluon amplitude, later formally proved and verified by OpenAI and academic collaborators.",
@@ -349,7 +385,7 @@
       "createdAt": "2026-02-13T11:00:00.000Z"
     },
     {
-      "id": 10010,
+      "id": 10012,
       "title": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
       "url": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
       "summary": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT to help organizations defend against prompt injection and AI-driven data exfiltration.",
@@ -359,30 +395,6 @@
       "category": "AI",
       "sentiment": "neutral",
       "createdAt": "2026-02-13T10:00:00.000Z"
-    },
-    {
-      "id": 10011,
-      "title": "Scaling social science research",
-      "url": "https://openai.com/index/scaling-social-science-research",
-      "summary": "GABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitative text and images into quantitative data, helping social scientists analyze research at scale.",
-      "keyPoints": [
-        "ソース: OpenAI"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-13T09:00:00.000Z"
-    },
-    {
-      "id": 10012,
-      "title": "Custom Kernels for All from Codex and Claude",
-      "url": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
-      "summary": "Hugging Faceの公式ブログ記事です。",
-      "keyPoints": [
-        "ソース: Hugging Face"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-13T00:00:00.000Z"
     },
     {
       "id": 10013,
@@ -469,7 +481,7 @@
       "createdAt": "2026-01-27T17:00:00.000Z"
     },
     {
-      "id": "aishinbun-0-1771553424226",
+      "id": "aishinbun-1-1771639504500",
       "title": "1500億円契約をGoogleに奪われたOpenAIが、それでも「余裕」を見せる理由",
       "url": "https://community.exawizards.com/aishinbun/news-01-23-2026/",
       "summary": "aishinbunから取得した記事です。",
@@ -481,7 +493,7 @@
       "createdAt": "2026-01-23T00:00:00.000Z"
     },
     {
-      "id": "aishinbun-1-1771553424226",
+      "id": "aishinbun-2-1771639504500",
       "title": "寿命160歳時代の衝撃",
       "url": "https://community.exawizards.com/aishinbun/news-1-15-2026/",
       "summary": "aishinbunから取得した記事です。",
@@ -493,7 +505,7 @@
       "createdAt": "2026-01-15T00:00:00.000Z"
     },
     {
-      "id": "aishinbun-2-1771553424226",
+      "id": "aishinbun-3-1771639504500",
       "title": "AIが進化すると、なぜGDPは崩壊するのか？",
       "url": "https://community.exawizards.com/aishinbun/news-1-14-2026/",
       "summary": "aishinbunから取得した記事です。",
@@ -505,7 +517,7 @@
       "createdAt": "2026-01-14T00:00:00.000Z"
     },
     {
-      "id": "aishinbun-3-1771553424226",
+      "id": "aishinbun-4-1771639504500",
       "title": "2026年、AIは本当に「賢くなった」のか",
       "url": "https://community.exawizards.com/aishinbun/news-2026-1-7/",
       "summary": "aishinbunから取得した記事です。",
@@ -517,19 +529,7 @@
       "createdAt": "2026-01-06T00:00:00.000Z"
     },
     {
-      "id": "aishinbun-4-1771553424226",
-      "title": "「AGIは実現したということで、次に行こう」",
-      "url": "https://community.exawizards.com/aishinbun/news-12-27-2025/",
-      "summary": "aishinbunから取得した記事です。",
-      "keyPoints": [
-        "ソース: aishinbun"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2025-12-27T00:00:00.000Z"
-    },
-    {
-      "id": "ainow-144-1771553423691",
+      "id": "ainow-144-1771639503872",
       "title": "新着記事",
       "url": "https://ainow.ai/2025/08/28/277802/",
       "summary": "ainowから取得した記事です。",
@@ -541,7 +541,7 @@
       "createdAt": "2025-08-28T00:00:00.000Z"
     },
     {
-      "id": "ainow-72-1771553423682",
+      "id": "ainow-72-1771639503864",
       "title": "#DX",
       "url": "https://ainow.ai/tag/dx",
       "summary": "ainowから取得した記事です。",
@@ -553,7 +553,7 @@
       "createdAt": "2021-06-17T00:00:00.000Z"
     },
     {
-      "id": "ainow-109-1771553423687",
+      "id": "ainow-109-1771639503869",
       "title": "AINOW編集部",
       "url": "https://ainow.ai/category/ainoweditor",
       "summary": "ainowから取得した記事です。",
@@ -565,7 +565,7 @@
       "createdAt": "2021-06-17T00:00:00.000Z"
     },
     {
-      "id": "ainow-82-1771553423683",
+      "id": "ainow-82-1771639503865",
       "title": "#AI（人工知能）",
       "url": "https://ainow.ai/tag/ai%ef%bc%88%e4%ba%ba%e5%b7%a5%e7%9f%a5%e8%83%bd%ef%bc%89",
       "summary": "ainowから取得した記事です。",
@@ -577,7 +577,7 @@
       "createdAt": "2019-11-26T00:00:00.000Z"
     },
     {
-      "id": "ainow-91-1771553423684",
+      "id": "ainow-91-1771639503866",
       "title": "#pickup2",
       "url": "https://ainow.ai/tag/pickup2",
       "summary": "ainowから取得した記事です。",
