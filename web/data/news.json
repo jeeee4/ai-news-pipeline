@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-02-28T01:58:47.521Z",
+  "generatedAt": "2026-03-01T02:28:45.144Z",
   "articles": [
     {
-      "id": "ledge-3-1772243925814",
+      "id": "ledge-3-1772332124210",
       "title": "Anthropic、AIの「使いこなし力」を可視化する指標「AI Fluency Index」を公表──今後は単なる導入率からAI流暢性重視に",
       "url": "https://ledge.ai/articles/karpathy_chat_code_claw_ai_stack_new_layer",
       "summary": "ledgeから取得した記事です。",
@@ -11,10 +11,10 @@
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-28T01:58:45.814Z"
+      "createdAt": "2026-03-01T02:28:44.210Z"
     },
     {
-      "id": "ledge-4-1772243925814",
+      "id": "ledge-4-1772332124210",
       "title": "Anthropic、AIの「使いこなし力」を可視化する指標「AI Fluency Index」を公表──今後は単なる導入率からAI流暢性重視に",
       "url": "https://ledge.ai/articles/openai_frontier_alliances_bcg_mckinsey_accenture_capgemini",
       "summary": "ledgeから取得した記事です。",
@@ -23,10 +23,10 @@
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-28T01:58:45.814Z"
+      "createdAt": "2026-03-01T02:28:44.210Z"
     },
     {
-      "id": "ledge-5-1772243925814",
+      "id": "ledge-5-1772332124210",
       "title": "Anthropic、AIの「使いこなし力」を可視化する指標「AI Fluency Index」を公表──今後は単なる導入率からAI流暢性重視に",
       "url": "https://ledge.ai/articles/gpt_oss_qwen3_swallow_japanese_reasoning_llm_tokyo_science_aist",
       "summary": "ledgeから取得した記事です。",
@@ -35,10 +35,10 @@
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-28T01:58:45.814Z"
+      "createdAt": "2026-03-01T02:28:44.210Z"
     },
     {
-      "id": "ledge-6-1772243925814",
+      "id": "ledge-6-1772332124210",
       "title": "Anthropic、AIの「使いこなし力」を可視化する指標「AI Fluency Index」を公表──今後は単なる導入率からAI流暢性重視に",
       "url": "https://ledge.ai/articles/ai_intellectual_work_majority_2028_altman",
       "summary": "ledgeから取得した記事です。",
@@ -47,10 +47,10 @@
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-28T01:58:45.814Z"
+      "createdAt": "2026-03-01T02:28:44.210Z"
     },
     {
-      "id": "ledge-1-1772243925813",
+      "id": "ledge-1-1772332124209",
       "title": "Anthropic、AIの「使いこなし力」を可視化する指標「AI Fluency Index」を公表──今後は単なる導入率からAI流暢性重視に",
       "url": "https://ledge.ai/articles/ai_fluency_index_anthropic_education_report_20260223",
       "summary": "ledgeから取得した記事です。",
@@ -59,163 +59,189 @@
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-28T01:58:45.813Z"
+      "createdAt": "2026-03-01T02:28:44.209Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2165687",
-      "title": "Claude Code同士をSlackみたいに会話させるプラグインを作ったらTRPGが始まった",
-      "url": "https://qiita.com/suruseas/items/8979bc36545054449aa9",
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2166285",
+      "title": "【AWS】Strands Labs ー フォーマット変換・型変換・カラム名修正を全部ai-functionsに丸投げする",
+      "url": "https://qiita.com/yakumo_09/items/58e733b16e96b255dfec",
       "summary": "qiitaから取得した記事です。",
       "keyPoints": [
         "ソース: qiita",
-        "投稿者: suruseas"
+        "投稿者: yakumo_09"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-28T01:35:29.000Z"
+      "createdAt": "2026-03-01T02:25:26.000Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2164547",
-      "title": "CLAUDE.mdの防御は本当に効くのか？ — 10種の攻撃で検証してみた",
-      "url": "https://qiita.com/kenimo49/items/3273fd4406bf0aa03acf",
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2166279",
+      "title": "EM アルゴリズム の数式メモ",
+      "url": "https://qiita.com/curoa/items/27ca87d8eeabfc1391e3",
       "summary": "qiitaから取得した記事です。",
       "keyPoints": [
         "ソース: qiita",
-        "投稿者: kenimo49"
+        "投稿者: curoa"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-28T01:01:12.000Z"
+      "createdAt": "2026-03-01T02:06:48.000Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2165663",
-      "title": "GAS+Geminiで作る社内RAGチャットボット",
-      "url": "https://qiita.com/ogaryo/items/8f7bb5f8768c309dcece",
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2166270",
+      "title": "バイブコーディングでWEB本屋を作った話",
+      "url": "https://qiita.com/yusuke0511/items/e83a9ff15b0730352ef9",
       "summary": "qiitaから取得した記事です。",
       "keyPoints": [
         "ソース: qiita",
-        "投稿者: ogaryo"
+        "投稿者: yusuke0511"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-28T00:25:49.000Z"
+      "createdAt": "2026-03-01T01:48:13.000Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2165660",
-      "title": "AI",
-      "url": "https://qiita.com/buraiha/items/28cb693a421333b7251a",
+      "id": 47202708,
+      "title": "Microgpt",
+      "url": "http://karpathy.github.io/2026/02/12/microgpt/",
+      "summary": "Hacker Newsで25ポイント、5件のコメントを獲得した記事です。",
+      "keyPoints": [
+        "スコア: 25",
+        "コメント数: 5",
+        "投稿者: tambourine_man"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-03-01T01:39:26.000Z"
+    },
+    {
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2166260",
+      "title": "2026/03/01 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+      "url": "https://qiita.com/ennagara128/items/d9b41a8d24cedf6fcf40",
       "summary": "qiitaから取得した記事です。",
       "keyPoints": [
         "ソース: qiita",
-        "投稿者: buraiha"
+        "投稿者: ennagara128"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-28T00:19:48.000Z"
+      "createdAt": "2026-03-01T01:17:40.000Z"
+    },
+    {
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2166247",
+      "title": "[スペック駆動開発] ウォーターフォール回帰を避け、サイクルを回し続けるための「Docs-as-Code」設計",
+      "url": "https://qiita.com/aganesy/items/971db0ed620cfad525ee",
+      "summary": "qiitaから取得した記事です。",
+      "keyPoints": [
+        "ソース: qiita",
+        "投稿者: aganesy"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-03-01T00:34:53.000Z"
+    },
+    {
+      "id": 47201816,
+      "title": "Show HN: Xmloxide – an agent made rust replacement for libxml2",
+      "url": "https://github.com/jonwiggins/xmloxide",
+      "summary": "Hacker Newsで25ポイント、15件のコメントを獲得した記事です。",
+      "keyPoints": [
+        "スコア: 25",
+        "コメント数: 15",
+        "投稿者: jawiggins"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-28T23:44:41.000Z"
     },
     {
       "id": "itmedia-0",
-      "title": "攻撃者のAI利用はもはや“当たり前”　日本はランサムウェア検出率で世界3位に",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2602/28/news014.html",
+      "title": "日本の社長は「AI投資に慎重だけど責任感強い」　AI時代の競争力向上に必要な姿勢とは",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/01/news004.html",
       "summary": "itmediaから取得した記事です。",
       "keyPoints": [
         "ソース: itmedia"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-27T23:00:00.000Z"
-    },
-    {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2165638",
-      "title": "プログラミング雑記 2026年2月28日",
-      "url": "https://qiita.com/ishisaka/items/c73a5163658b0de24bff",
-      "summary": "qiitaから取得した記事です。",
-      "keyPoints": [
-        "ソース: qiita",
-        "投稿者: ishisaka"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-27T22:42:43.000Z"
-    },
-    {
-      "id": 47186677,
-      "title": "I am directing the Department of War to designate Anthropic a supply-chain risk",
-      "url": "https://twitter.com/secwar/status/2027507717469049070",
-      "summary": "Hacker Newsで1029ポイント、851件のコメントを獲得した記事です。",
-      "keyPoints": [
-        "スコア: 1029",
-        "コメント数: 851",
-        "投稿者: jacobedawson"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-27T22:31:18.000Z"
+      "createdAt": "2026-02-28T23:00:00.000Z"
     },
     {
       "id": "itmedia-1",
-      "title": "トランプ大統領、Anthropicを「極左の意識高い系企業」と非難し　政府機関での製品使用を即時停止",
-      "url": "https://www.itmedia.co.jp/news/articles/2602/28/news030.html",
+      "title": "日立と塩野義、生成AIで規制文書作成を最大50％短縮　医薬品開発の効率化目指す",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/01/news003.html",
       "summary": "itmediaから取得した記事です。",
       "keyPoints": [
         "ソース: itmedia"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-27T22:26:00.000Z"
+      "createdAt": "2026-02-28T23:00:00.000Z"
     },
     {
       "id": "itmedia-2",
-      "title": "Claude Codeに重大な脆弱性　設定ファイル経由でRCEやAPIキー窃取の恐れ",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2602/28/news013.html",
+      "title": "米国防長官、Anthropicを「サプライチェーンリスク」に指定へ　同社は法廷闘争を宣言",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/01/news020.html",
       "summary": "itmediaから取得した記事です。",
       "keyPoints": [
         "ソース: itmedia"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-27T22:00:00.000Z"
-    },
-    {
-      "id": 47181211,
-      "title": "OpenAI raises $110B on $730B pre-money valuation",
-      "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
-      "summary": "Hacker Newsで379ポイント、462件のコメントを獲得した記事です。",
-      "keyPoints": [
-        "スコア: 379",
-        "コメント数: 462",
-        "投稿者: zlatkov"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-27T14:56:05.000Z"
+      "createdAt": "2026-02-28T22:52:00.000Z"
     },
     {
       "id": "itmedia-3",
-      "title": "「18歳未満の画像をAIで性的加工」2025年に114件　被害者は中高生が9割　警察庁",
-      "url": "https://www.itmedia.co.jp/news/articles/2602/27/news136.html",
+      "title": "OpenAI、米国防総省とAI導入で合意　Anthropicへの強硬措置の沈静化を要請",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/01/news019.html",
       "summary": "itmediaから取得した記事です。",
       "keyPoints": [
         "ソース: itmedia"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-27T10:49:00.000Z"
+      "createdAt": "2026-02-28T22:16:00.000Z"
     },
     {
-      "id": "itmedia-4",
-      "title": "日本語入力の老舗「ATOK」の生成AI新機能を試す　無料IMEが充実するなか、実質値上げに見合うのか",
-      "url": "https://www.itmedia.co.jp/news/articles/2602/27/news125.html",
-      "summary": "itmediaから取得した記事です。",
+      "id": 47200420,
+      "title": "We do not think Anthropic should be designated as a supply chain risk",
+      "url": "https://twitter.com/OpenAI/status/2027846016423321831",
+      "summary": "Hacker Newsで267ポイント、116件のコメントを獲得した記事です。",
       "keyPoints": [
-        "ソース: itmedia"
+        "スコア: 267",
+        "コメント数: 116",
+        "投稿者: golfer"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-27T07:30:00.000Z"
+      "createdAt": "2026-02-28T21:24:16.000Z"
     },
     {
       "id": 10000,
+      "title": "Our agreement with the Department of War",
+      "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
+      "summary": "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.",
+      "keyPoints": [
+        "ソース: OpenAI"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-28T12:30:00.000Z"
+    },
+    {
+      "id": "itmedia-4",
+      "title": "OpenAI、17兆円超の資金調達　Amazon、NVIDIA、SBGが出資",
+      "url": "https://www.itmedia.co.jp/news/articles/2602/28/news035.html",
+      "summary": "itmediaから取得した記事です。",
+      "keyPoints": [
+        "ソース: itmedia"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-02-28T09:50:00.000Z"
+    },
+    {
+      "id": 10001,
       "title": "Joint Statement from OpenAI and Microsoft",
       "url": "https://openai.com/index/continuing-microsoft-partnership",
       "summary": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
@@ -227,31 +253,7 @@
       "createdAt": "2026-02-27T05:30:00.000Z"
     },
     {
-      "id": 10001,
-      "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
-      "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
-      "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
-      "keyPoints": [
-        "ソース: OpenAI"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-27T05:30:00.000Z"
-    },
-    {
       "id": 10002,
-      "title": "Scaling AI for everyone",
-      "url": "https://openai.com/index/scaling-ai-for-everyone",
-      "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
-      "keyPoints": [
-        "ソース: OpenAI"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-02-27T05:30:00.000Z"
-    },
-    {
-      "id": 10003,
       "title": "OpenAI and Amazon announce strategic partnership",
       "url": "https://openai.com/index/amazon-partnership",
       "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
@@ -263,30 +265,28 @@
       "createdAt": "2026-02-27T05:30:00.000Z"
     },
     {
-      "id": 10004,
-      "title": "An update on our mental health-related work",
-      "url": "https://openai.com/index/update-on-mental-health-related-work",
-      "summary": "OpenAI shares updates on its mental health safety work, including parental controls, trusted contacts, improved distress detection, and recent litigation developments.",
+      "id": 10003,
+      "title": "Scaling AI for everyone",
+      "url": "https://openai.com/index/scaling-ai-for-everyone",
+      "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
       "keyPoints": [
         "ソース: OpenAI"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-27T00:00:00.000Z"
+      "createdAt": "2026-02-27T05:30:00.000Z"
     },
     {
-      "id": 47170030,
-      "title": "Smallest transformer that can add two 10-digit numbers",
-      "url": "https://github.com/anadim/AdderBoard",
-      "summary": "Hacker Newsで54ポイント、8件のコメントを獲得した記事です。",
+      "id": 10004,
+      "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
+      "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
+      "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
       "keyPoints": [
-        "スコア: 54",
-        "コメント数: 8",
-        "投稿者: ks2048"
+        "ソース: OpenAI"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-02-26T18:29:56.000Z"
+      "createdAt": "2026-02-27T05:30:00.000Z"
     },
     {
       "id": 10005,
@@ -325,7 +325,7 @@
       "createdAt": "2026-02-24T00:00:21.000Z"
     },
     {
-      "id": "aishinbun-0-1772243927497",
+      "id": "aishinbun-0-1772332125102",
       "title": "知能を産業にせよ  18ヶ月で決まる評価軸が次の100年を決める",
       "url": "https://community.exawizards.com/aishinbun/news-02-21-2026/",
       "summary": "aishinbunから取得した記事です。",
@@ -479,6 +479,114 @@
       "category": "AI",
       "sentiment": "neutral",
       "createdAt": "2026-02-05T05:07:55.000Z"
+    },
+    {
+      "id": "aishinbun-1-1772332125102",
+      "title": "1500億円契約をGoogleに奪われたOpenAIが、それでも「余裕」を見せる理由",
+      "url": "https://community.exawizards.com/aishinbun/news-01-23-2026/",
+      "summary": "aishinbunから取得した記事です。",
+      "keyPoints": [
+        "ソース: aishinbun"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-01-23T00:00:00.000Z"
+    },
+    {
+      "id": "aishinbun-2-1772332125102",
+      "title": "寿命160歳時代の衝撃",
+      "url": "https://community.exawizards.com/aishinbun/news-1-15-2026/",
+      "summary": "aishinbunから取得した記事です。",
+      "keyPoints": [
+        "ソース: aishinbun"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-01-15T00:00:00.000Z"
+    },
+    {
+      "id": "aishinbun-3-1772332125102",
+      "title": "AIが進化すると、なぜGDPは崩壊するのか？",
+      "url": "https://community.exawizards.com/aishinbun/news-1-14-2026/",
+      "summary": "aishinbunから取得した記事です。",
+      "keyPoints": [
+        "ソース: aishinbun"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-01-14T00:00:00.000Z"
+    },
+    {
+      "id": "aishinbun-4-1772332125102",
+      "title": "2026年、AIは本当に「賢くなった」のか",
+      "url": "https://community.exawizards.com/aishinbun/news-2026-1-7/",
+      "summary": "aishinbunから取得した記事です。",
+      "keyPoints": [
+        "ソース: aishinbun"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-01-06T00:00:00.000Z"
+    },
+    {
+      "id": "ainow-144-1772332124615",
+      "title": "新着記事",
+      "url": "https://ainow.ai/2025/08/28/277802/",
+      "summary": "ainowから取得した記事です。",
+      "keyPoints": [
+        "ソース: ainow"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2025-08-28T00:00:00.000Z"
+    },
+    {
+      "id": "ainow-72-1772332124606",
+      "title": "#DX",
+      "url": "https://ainow.ai/tag/dx",
+      "summary": "ainowから取得した記事です。",
+      "keyPoints": [
+        "ソース: ainow"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2021-06-17T00:00:00.000Z"
+    },
+    {
+      "id": "ainow-109-1772332124612",
+      "title": "AINOW編集部",
+      "url": "https://ainow.ai/category/ainoweditor",
+      "summary": "ainowから取得した記事です。",
+      "keyPoints": [
+        "ソース: ainow"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2021-06-17T00:00:00.000Z"
+    },
+    {
+      "id": "ainow-82-1772332124608",
+      "title": "#AI（人工知能）",
+      "url": "https://ainow.ai/tag/ai%ef%bc%88%e4%ba%ba%e5%b7%a5%e7%9f%a5%e8%83%bd%ef%bc%89",
+      "summary": "ainowから取得した記事です。",
+      "keyPoints": [
+        "ソース: ainow"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2019-11-26T00:00:00.000Z"
+    },
+    {
+      "id": "ainow-91-1772332124609",
+      "title": "#pickup2",
+      "url": "https://ainow.ai/tag/pickup2",
+      "summary": "ainowから取得した記事です。",
+      "keyPoints": [
+        "ソース: ainow"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2019-08-06T00:00:00.000Z"
     }
   ]
 }
