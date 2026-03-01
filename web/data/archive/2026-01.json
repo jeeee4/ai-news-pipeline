@@ -1,0 +1,54 @@
+{
+  "month": "2026-01",
+  "archivedAt": "2026-03-01T01:53:45.215Z",
+  "articles": [
+    {
+      "id": "aishinbun-1-1772243927497",
+      "title": "1500億円契約をGoogleに奪われたOpenAIが、それでも「余裕」を見せる理由",
+      "url": "https://community.exawizards.com/aishinbun/news-01-23-2026/",
+      "summary": "aishinbunから取得した記事です。",
+      "keyPoints": [
+        "ソース: aishinbun"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-01-23T00:00:00.000Z"
+    },
+    {
+      "id": "aishinbun-2-1772243927497",
+      "title": "寿命160歳時代の衝撃",
+      "url": "https://community.exawizards.com/aishinbun/news-1-15-2026/",
+      "summary": "aishinbunから取得した記事です。",
+      "keyPoints": [
+        "ソース: aishinbun"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-01-15T00:00:00.000Z"
+    },
+    {
+      "id": "aishinbun-3-1772243927497",
+      "title": "AIが進化すると、なぜGDPは崩壊するのか？",
+      "url": "https://community.exawizards.com/aishinbun/news-1-14-2026/",
+      "summary": "aishinbunから取得した記事です。",
+      "keyPoints": [
+        "ソース: aishinbun"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-01-14T00:00:00.000Z"
+    },
+    {
+      "id": "aishinbun-4-1772243927497",
+      "title": "2026年、AIは本当に「賢くなった」のか",
+      "url": "https://community.exawizards.com/aishinbun/news-2026-1-7/",
+      "summary": "aishinbunから取得した記事です。",
+      "keyPoints": [
+        "ソース: aishinbun"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-01-06T00:00:00.000Z"
+    }
+  ]
+}

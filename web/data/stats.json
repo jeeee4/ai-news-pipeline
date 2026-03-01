@@ -1,28 +1,32 @@
 {
-  "totalArticles": 48,
-  "activeArticles": 40,
-  "archivedArticles": 8,
+  "totalArticles": 56,
+  "activeArticles": 39,
+  "archivedArticles": 17,
   "monthlyStats": [
+    {
+      "month": "2026-01",
+      "count": 4
+    },
     {
       "month": "2025-12",
       "count": 3
     },
     {
       "month": "2025-08",
-      "count": 1
-    },
-    {
-      "month": "2021-06",
       "count": 2
     },
     {
+      "month": "2021-06",
+      "count": 4
+    },
+    {
       "month": "2019-11",
-      "count": 1
+      "count": 2
     },
     {
       "month": "2019-08",
-      "count": 1
+      "count": 2
     }
   ],
-  "lastUpdated": "2026-02-01T01:55:48.680Z"
+  "lastUpdated": "2026-03-01T01:53:45.230Z"
 }

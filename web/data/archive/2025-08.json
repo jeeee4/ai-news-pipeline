@@ -1,9 +1,21 @@
 {
   "month": "2025-08",
-  "archivedAt": "2026-02-01T01:55:48.667Z",
+  "archivedAt": "2026-03-01T01:53:45.216Z",
   "articles": [
     {
       "id": "ainow-144-1769825034401",
+      "title": "新着記事",
+      "url": "https://ainow.ai/2025/08/28/277802/",
+      "summary": "ainowから取得した記事です。",
+      "keyPoints": [
+        "ソース: ainow"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2025-08-28T00:00:00.000Z"
+    },
+    {
+      "id": "ainow-144-1772243926287",
       "title": "新着記事",
       "url": "https://ainow.ai/2025/08/28/277802/",
       "summary": "ainowから取得した記事です。",

@@ -1,9 +1,21 @@
 {
   "month": "2019-08",
-  "archivedAt": "2026-02-01T01:55:48.668Z",
+  "archivedAt": "2026-03-01T01:53:45.217Z",
   "articles": [
     {
       "id": "ainow-91-1769825034394",
+      "title": "#pickup2",
+      "url": "https://ainow.ai/tag/pickup2",
+      "summary": "ainowから取得した記事です。",
+      "keyPoints": [
+        "ソース: ainow"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2019-08-06T00:00:00.000Z"
+    },
+    {
+      "id": "ainow-91-1772243926281",
       "title": "#pickup2",
       "url": "https://ainow.ai/tag/pickup2",
       "summary": "ainowから取得した記事です。",
