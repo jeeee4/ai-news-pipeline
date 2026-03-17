@@ -1,20 +1,8 @@
 {
-  "generatedAt": "2026-03-16T02:33:52.572Z",
+  "generatedAt": "2026-03-17T02:12:27.261Z",
   "articles": [
     {
-      "id": "ledge-3-1773628431231",
-      "title": "Google、次世代埋め込みモデル「Gemini Embedding 2」発表　テキスト、画像、動画、音声などを同一ベクトル空間で扱うマルチモーダル対応で検索・推薦を強化",
-      "url": "https://ledge.ai/articles/china_openclaw_ai_shrimp_boom_subsidy_workbuddy",
-      "summary": "ledgeから取得した記事です。",
-      "keyPoints": [
-        "ソース: ledge"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-03-16T02:33:51.231Z"
-    },
-    {
-      "id": "ledge-4-1773628431231",
+      "id": "ledge-4-1773713546303",
       "title": "Google、次世代埋め込みモデル「Gemini Embedding 2」発表　テキスト、画像、動画、音声などを同一ベクトル空間で扱うマルチモーダル対応で検索・推薦を強化",
       "url": "https://ledge.ai/articles/anthropic_ai_labor_market_impacts_task_level_change_claude_data",
       "summary": "ledgeから取得した記事です。",
@@ -23,10 +11,10 @@
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-03-16T02:33:51.231Z"
+      "createdAt": "2026-03-17T02:12:26.303Z"
     },
     {
-      "id": "ledge-5-1773628431231",
+      "id": "ledge-5-1773713546303",
       "title": "Google、次世代埋め込みモデル「Gemini Embedding 2」発表　テキスト、画像、動画、音声などを同一ベクトル空間で扱うマルチモーダル対応で検索・推薦を強化",
       "url": "https://ledge.ai/articles/ntt_iown_photonics_ai_infrastructure_mwc26",
       "summary": "ledgeから取得した記事です。",
@@ -35,10 +23,10 @@
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-03-16T02:33:51.231Z"
+      "createdAt": "2026-03-17T02:12:26.303Z"
     },
     {
-      "id": "ledge-6-1773628431231",
+      "id": "ledge-6-1773713546303",
       "title": "Google、次世代埋め込みモデル「Gemini Embedding 2」発表　テキスト、画像、動画、音声などを同一ベクトル空間で扱うマルチモーダル対応で検索・推薦を強化",
       "url": "https://ledge.ai/articles/meta_acquires_moltbook_ai_agent_social_network",
       "summary": "ledgeから取得した記事です。",
@@ -47,10 +35,10 @@
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-03-16T02:33:51.231Z"
+      "createdAt": "2026-03-17T02:12:26.303Z"
     },
     {
-      "id": "ledge-1-1773628431230",
+      "id": "ledge-1-1773713546302",
       "title": "Google、次世代埋め込みモデル「Gemini Embedding 2」発表　テキスト、画像、動画、音声などを同一ベクトル空間で扱うマルチモーダル対応で検索・推薦を強化",
       "url": "https://ledge.ai/articles/google_gemini_embedding_2_multimodal_embedding_model",
       "summary": "ledgeから取得した記事です。",
@@ -59,78 +47,76 @@
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-03-16T02:33:51.230Z"
+      "createdAt": "2026-03-17T02:12:26.302Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2174441",
-      "title": "この1ヶ月のClaude Codeの進化まとめ",
-      "url": "https://qiita.com/noaz/items/69dc0f319c2b9e391161",
+      "id": "ledge-3-1773713546302",
+      "title": "Google、次世代埋め込みモデル「Gemini Embedding 2」発表　テキスト、画像、動画、音声などを同一ベクトル空間で扱うマルチモーダル対応で検索・推薦を強化",
+      "url": "https://ledge.ai/articles/china_openclaw_ai_shrimp_boom_subsidy_workbuddy",
+      "summary": "ledgeから取得した記事です。",
+      "keyPoints": [
+        "ソース: ledge"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-03-17T02:12:26.302Z"
+    },
+    {
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2174988",
+      "title": "「データ枯渇」の壁を超える：合成データが再定義するLLM事前学習の未来",
+      "url": "https://qiita.com/teppei_nakano/items/61e3688d361ecf7eff5b",
       "summary": "qiitaから取得した記事です。",
       "keyPoints": [
         "ソース: qiita",
-        "投稿者: noaz"
+        "投稿者: teppei_nakano"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-03-16T02:33:34.000Z"
+      "createdAt": "2026-03-17T02:11:11.000Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2174432",
-      "title": "「ローカルLLMって難しそう」← 5分で動きます。業務日記をぶつけたら微妙だったので聞き方を3回変えてみた",
-      "url": "https://qiita.com/hibiki_hangai/items/3c46a25e83bf4d9363b6",
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2174981",
+      "title": "松尾研LLMコンペ2025 アドバンスド参戦記 — 100+モデル作って学んだこと",
+      "url": "https://qiita.com/toki_owl/items/bce9eda7c0893a3d0837",
       "summary": "qiitaから取得した記事です。",
       "keyPoints": [
         "ソース: qiita",
-        "投稿者: hibiki_hangai"
+        "投稿者: toki_owl"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-03-16T02:17:40.000Z"
+      "createdAt": "2026-03-17T01:54:57.000Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2174420",
-      "title": "2026/03/16 今日のQiitaトレンド記事をポッドキャストで聴こう！",
-      "url": "https://qiita.com/ennagara128/items/69cc39447f4c6b505d5a",
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2174973",
+      "title": "Difyチャットフローを使ってみた",
+      "url": "https://qiita.com/Da_neon_to_tora/items/43ba0b53e0622432c307",
       "summary": "qiitaから取得した記事です。",
       "keyPoints": [
         "ソース: qiita",
-        "投稿者: ennagara128"
+        "投稿者: Da_neon_to_tora"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-03-16T01:42:10.000Z"
+      "createdAt": "2026-03-17T01:34:32.000Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2174414",
-      "title": "AIエージェントに専用メールを。AgentMailが変える自律型ワークフロー",
-      "url": "https://qiita.com/sarubot/items/084e4ebfe017120d397b",
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2174960",
+      "title": "Claude Code 即効プロンプト20選 — コピペで使える開発加速チートシート",
+      "url": "https://qiita.com/th19930828/items/a7fd2e564cec49a4194b",
       "summary": "qiitaから取得した記事です。",
       "keyPoints": [
         "ソース: qiita",
-        "投稿者: sarubot"
+        "投稿者: th19930828"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-03-16T01:25:42.000Z"
+      "createdAt": "2026-03-17T01:00:06.000Z"
     },
     {
-      "id": 47393619,
-      "title": "Cannabinoids remove plaque-forming Alzheimer's proteins from brain cells (2016)",
-      "url": "https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/",
-      "summary": "Hacker Newsで66ポイント、27件のコメントを獲得した記事です。",
-      "keyPoints": [
-        "スコア: 66",
-        "コメント数: 27",
-        "投稿者: anjel"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-03-16T00:22:48.000Z"
-    },
-    {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2170998",
-      "title": "AI エージェントとは？",
-      "url": "https://qiita.com/fujimaro_/items/64b983ddefd1b8d18960",
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2171001",
+      "title": "Azure AI Agentを使おう",
+      "url": "https://qiita.com/fujimaro_/items/2d9feaaf5a32344cc628",
       "summary": "qiitaから取得した記事です。",
       "keyPoints": [
         "ソース: qiita",
@@ -138,10 +124,160 @@
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-03-16T00:16:19.000Z"
+      "createdAt": "2026-03-17T00:42:56.000Z"
     },
     {
-      "id": "aishinbun-0-1773628432332",
+      "id": "itmedia-0",
+      "title": "NVIDIA、推論特化チップ「Groq 3 LPU」発表　「Vera Rubin」と組み合わせてAI性能最大35倍に",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/17/news059.html",
+      "summary": "itmediaから取得した記事です。",
+      "keyPoints": [
+        "ソース: itmedia"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-03-17T00:00:00.000Z"
+    },
+    {
+      "id": "aishinbun-0-1773713547183",
+      "title": "培養脳細胞がゲームをプレイ",
+      "url": "https://community.exawizards.com/aishinbun/news-3-17-2026/",
+      "summary": "aishinbunから取得した記事です。",
+      "keyPoints": [
+        "ソース: aishinbun"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-03-17T00:00:00.000Z"
+    },
+    {
+      "id": "itmedia-1",
+      "title": "「期待外れ」の生成AI活用、オンプレLLMが突破口になり得るワケ　課題とコツを整理する",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/19/news011.html",
+      "summary": "itmediaから取得した記事です。",
+      "keyPoints": [
+        "ソース: itmedia"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-03-16T23:00:00.000Z"
+    },
+    {
+      "id": "itmedia-2",
+      "title": "AIエージェントは情報漏えいの温床　ガートナーが指摘する「管理不能リスク」",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/17/news029.html",
+      "summary": "itmediaから取得した記事です。",
+      "keyPoints": [
+        "ソース: itmedia"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-03-16T22:30:00.000Z"
+    },
+    {
+      "id": "itmedia-3",
+      "title": "ゲームがまるで実写に　NVIDIA、AI活用「DLSS 5」発表　「リアルタイムレイトレ以来の技術革新」",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/17/news057.html",
+      "summary": "itmediaから取得した記事です。",
+      "keyPoints": [
+        "ソース: itmedia"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-03-16T22:10:00.000Z"
+    },
+    {
+      "id": 10000,
+      "title": "The First Healthcare Robotics Dataset and Foundational Physical AI Models for Healthcare Robotics",
+      "url": "https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics",
+      "summary": "Hugging Faceの公式ブログ記事です。",
+      "keyPoints": [
+        "ソース: Hugging Face"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-03-16T21:58:40.000Z"
+    },
+    {
+      "id": "itmedia-4",
+      "title": "NVIDIA、「NemoClaw」発表　OpenClawを1コマンドで導入、安全に実行可能に",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/17/news056.html",
+      "summary": "itmediaから取得した記事です。",
+      "keyPoints": [
+        "ソース: itmedia"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-03-16T21:10:00.000Z"
+    },
+    {
+      "id": 10001,
+      "title": "Testing LLMs on superconductivity research questions",
+      "url": "https://research.google/blog/testing-llms-on-superconductivity-research-questions/",
+      "summary": "Education Innovation",
+      "keyPoints": [
+        "ソース: Google Research"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-03-16T17:31:00.000Z"
+    },
+    {
+      "id": 47401042,
+      "title": "Launch HN: Voygr (YC W26) – A better maps API for agents and AI apps",
+      "url": null,
+      "summary": "Hacker Newsで65ポイント、48件のコメントを獲得した記事です。",
+      "keyPoints": [
+        "スコア: 65",
+        "コメント数: 48",
+        "投稿者: ymarkov"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-03-16T16:21:07.000Z"
+    },
+    {
+      "id": 47398681,
+      "title": "AirPods Max 2",
+      "url": "https://www.apple.com/airpods-max/",
+      "summary": "Hacker Newsで213ポイント、385件のコメントを獲得した記事です。",
+      "keyPoints": [
+        "スコア: 213",
+        "コメント数: 385",
+        "投稿者: ssijak"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-03-16T13:22:03.000Z"
+    },
+    {
+      "id": 47396264,
+      "title": "Starlink Mini as a failover",
+      "url": "https://www.jackpearce.co.uk/posts/starlink-failover/",
+      "summary": "Hacker Newsで200ポイント、169件のコメントを獲得した記事です。",
+      "keyPoints": [
+        "スコア: 200",
+        "コメント数: 169",
+        "投稿者: jkpe"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-03-16T08:07:29.000Z"
+    },
+    {
+      "id": 10002,
+      "title": "Why Codex Security Doesn’t Include a SAST Report",
+      "url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+      "summary": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
+      "keyPoints": [
+        "ソース: OpenAI"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-03-16T00:00:00.000Z"
+    },
+    {
+      "id": "aishinbun-1-1773713547183",
       "title": "「ポストLLM戦争」が始まったヤン・ルカン氏、新AI研究所AMIで10億ドル調達",
       "url": "https://community.exawizards.com/aishinbun/%e3%80%8c%e3%83%9d%e3%82%b9%e3%83%88llm%e6%88%a6%e4%ba%89%e3%80%8d%e3%81%8c%e5%a7%8b%e3%81%be%e3%81%a3%e3%81%9f%e3%83%a4%e3%83%b3%e3%83%bb%e3%83%ab%e3%82%ab%e3%83%b3%e6%b0%8f%e3%80%81%e6%96%b0ai/",
       "summary": "aishinbunから取得した記事です。",
@@ -153,95 +289,7 @@
       "createdAt": "2026-03-16T00:00:00.000Z"
     },
     {
-      "id": "itmedia-0",
-      "title": "高市政権、AIロボットで「世界シェア3割」目指す　関連技術への投資を本格化",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/16/news036.html",
-      "summary": "itmediaから取得した記事です。",
-      "keyPoints": [
-        "ソース: itmedia"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-03-15T23:00:00.000Z"
-    },
-    {
-      "id": "itmedia-1",
-      "title": "DeNA、「Devin」を全社2000人超に導入　「作業効率6倍」でレガシーコードを刷新",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/16/news034.html",
-      "summary": "itmediaから取得した記事です。",
-      "keyPoints": [
-        "ソース: itmedia"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-03-15T23:00:00.000Z"
-    },
-    {
-      "id": 47392547,
-      "title": "A new Bigfoot documentary helps explain our conspiracy-minded era",
-      "url": "https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px",
-      "summary": "Hacker Newsで51ポイント、16件のコメントを獲得した記事です。",
-      "keyPoints": [
-        "スコア: 51",
-        "コメント数: 16",
-        "投稿者: zdw"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-03-15T22:15:50.000Z"
-    },
-    {
-      "id": "itmedia-2",
-      "title": "データ分析が「30分→5分」に　ドコモ法人営業、1億超の会員データを武器に変えた改革の全容",
-      "url": "https://www.itmedia.co.jp/business/articles/2603/16/news015.html",
-      "summary": "itmediaから取得した記事です。",
-      "keyPoints": [
-        "ソース: itmedia"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-03-15T22:00:00.000Z"
-    },
-    {
-      "id": "itmedia-3",
-      "title": "MCPは死んでない？　MCPの2026年ロードマップ公開　「AIツール接続」から「AI自律連携インフラ」へ",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/16/news011.html",
-      "summary": "itmediaから取得した記事です。",
-      "keyPoints": [
-        "ソース: itmedia"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-03-15T20:00:00.000Z"
-    },
-    {
-      "id": "itmedia-4",
-      "title": "Open WebUIと自作MCPツールで「ローカル操作を“安全に”自動化する」方法",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/16/news007.html",
-      "summary": "itmediaから取得した記事です。",
-      "keyPoints": [
-        "ソース: itmedia"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-03-15T20:00:00.000Z"
-    },
-    {
-      "id": 47388676,
-      "title": "LLM Architecture Gallery",
-      "url": "https://sebastianraschka.com/llm-architecture-gallery/",
-      "summary": "Hacker Newsで257ポイント、20件のコメントを獲得した記事です。",
-      "keyPoints": [
-        "スコア: 257",
-        "コメント数: 20",
-        "投稿者: tzury"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-03-15T16:01:09.000Z"
-    },
-    {
-      "id": "aishinbun-1-1773628432332",
+      "id": "aishinbun-2-1773713547183",
       "title": "シンギュラリティは天国になるのか地獄になるのか",
       "url": "https://community.exawizards.com/aishinbun/news-3-15-2026/",
       "summary": "aishinbunから取得した記事です。",
@@ -253,7 +301,7 @@
       "createdAt": "2026-03-15T00:00:00.000Z"
     },
     {
-      "id": "aishinbun-2-1773628432332",
+      "id": "aishinbun-3-1773713547183",
       "title": "AIエージェントが「顧客」になる日",
       "url": "https://community.exawizards.com/aishinbun/news-3-14-2026/",
       "summary": "aishinbunから取得した記事です。",
@@ -265,19 +313,7 @@
       "createdAt": "2026-03-14T00:00:00.000Z"
     },
     {
-      "id": 10000,
-      "title": "Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever’s Generalizable Agentic Retrieval Pipeline",
-      "url": "https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval",
-      "summary": "Hugging Faceの公式ブログ記事です。",
-      "keyPoints": [
-        "ソース: Hugging Face"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-03-13T20:00:00.000Z"
-    },
-    {
-      "id": "aishinbun-3-1773628432332",
+      "id": "aishinbun-4-1773713547183",
       "title": "AI経済の4つの未来",
       "url": "https://community.exawizards.com/aishinbun/news-03-13-2026/",
       "summary": "aishinbunから取得した記事です。",
@@ -289,7 +325,7 @@
       "createdAt": "2026-03-13T00:00:00.000Z"
     },
     {
-      "id": 10001,
+      "id": 10003,
       "title": "Protecting cities with AI-driven flash flood forecasting",
       "url": "https://research.google/blog/protecting-cities-with-ai-driven-flash-flood-forecasting/",
       "summary": "Climate & Sustainability",
@@ -301,7 +337,7 @@
       "createdAt": "2026-03-12T13:03:15.000Z"
     },
     {
-      "id": 10002,
+      "id": 10004,
       "title": "Introducing Groundsource: Turning news reports into data with Gemini",
       "url": "https://research.google/blog/introducing-groundsource-turning-news-reports-into-data-with-gemini/",
       "summary": "Climate & Sustainability",
@@ -313,19 +349,7 @@
       "createdAt": "2026-03-12T10:42:00.000Z"
     },
     {
-      "id": "aishinbun-4-1773628432332",
-      "title": "Anthropic、企業AI初回導入で70%シェア獲得",
-      "url": "https://community.exawizards.com/aishinbun/news-03-12-2026-2/",
-      "summary": "aishinbunから取得した記事です。",
-      "keyPoints": [
-        "ソース: aishinbun"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-03-12T00:00:00.000Z"
-    },
-    {
-      "id": 10003,
+      "id": 10005,
       "title": "Exploring the feasibility of conversational diagnostic AI in a real-world clinical study",
       "url": "https://research.google/blog/exploring-the-feasibility-of-conversational-diagnostic-ai-in-a-real-world-clinical-study/",
       "summary": "Generative AI",
@@ -337,7 +361,7 @@
       "createdAt": "2026-03-11T16:58:00.000Z"
     },
     {
-      "id": 10004,
+      "id": 10006,
       "title": "Rakuten fixes issues twice as fast with Codex",
       "url": "https://openai.com/index/rakuten",
       "summary": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
@@ -349,7 +373,7 @@
       "createdAt": "2026-03-11T13:00:00.000Z"
     },
     {
-      "id": 10005,
+      "id": 10007,
       "title": "Designing AI agents to resist prompt injection",
       "url": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
       "summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
@@ -361,19 +385,7 @@
       "createdAt": "2026-03-11T11:30:00.000Z"
     },
     {
-      "id": 10006,
-      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-      "url": "https://openai.com/index/wayfair",
-      "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
-      "keyPoints": [
-        "ソース: OpenAI"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-03-11T11:00:00.000Z"
-    },
-    {
-      "id": 10007,
+      "id": 10008,
       "title": "From model to agent: Equipping the Responses API with a computer environment ",
       "url": "https://openai.com/index/equip-responses-api-computer-environment",
       "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
@@ -385,19 +397,19 @@
       "createdAt": "2026-03-11T11:00:00.000Z"
     },
     {
-      "id": 10008,
-      "title": "Improving instruction hierarchy in frontier LLMs",
-      "url": "https://openai.com/index/instruction-hierarchy-challenge",
-      "summary": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
+      "id": 10009,
+      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+      "url": "https://openai.com/index/wayfair",
+      "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
       "keyPoints": [
         "ソース: OpenAI"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-03-10T11:00:00.000Z"
+      "createdAt": "2026-03-11T11:00:00.000Z"
     },
     {
-      "id": 10009,
+      "id": 10010,
       "title": "Introducing Storage Buckets on the Hugging Face Hub",
       "url": "https://huggingface.co/blog/storage-buckets",
       "summary": "Hugging Faceの公式ブログ記事です。",
@@ -409,7 +421,7 @@
       "createdAt": "2026-03-10T00:00:00.000Z"
     },
     {
-      "id": 10010,
+      "id": 10011,
       "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
       "url": "https://huggingface.co/blog/async-rl-training-landscape",
       "summary": "Hugging Faceの公式ブログ記事です。",
@@ -421,7 +433,7 @@
       "createdAt": "2026-03-10T00:00:00.000Z"
     },
     {
-      "id": 10011,
+      "id": 10012,
       "title": "Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge",
       "url": "https://huggingface.co/blog/ibm-granite/granite-4-speech",
       "summary": "Hugging Faceの公式ブログ記事です。",
@@ -433,7 +445,7 @@
       "createdAt": "2026-03-09T18:36:33.000Z"
     },
     {
-      "id": 10012,
+      "id": 10013,
       "title": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
       "url": "https://huggingface.co/blog/ulysses-sp",
       "summary": "Hugging Faceの公式ブログ記事です。",
@@ -445,7 +457,7 @@
       "createdAt": "2026-03-09T00:00:00.000Z"
     },
     {
-      "id": 10013,
+      "id": 10014,
       "title": "WAXAL: A large-scale open resource for African language speech technology",
       "url": "https://research.google/blog/waxal-a-large-scale-open-resource-for-african-language-speech-technology/",
       "summary": "Natural Language Processing",
@@ -457,19 +469,7 @@
       "createdAt": "2026-03-06T20:06:00.000Z"
     },
     {
-      "id": 10014,
-      "title": "Where wild things roam: Identifying wildlife with SpeciesNet",
-      "url": "https://research.google/blog/where-wild-things-roam-identifying-wildlife-with-speciesnet/",
-      "summary": "Climate & Sustainability",
-      "keyPoints": [
-        "ソース: Google Research"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-03-06T17:59:38.000Z"
-    },
-    {
-      "id": "ainow-144-1773628431602",
+      "id": "ainow-144-1773713546661",
       "title": "新着記事",
       "url": "https://ainow.ai/2025/08/28/277802/",
       "summary": "ainowから取得した記事です。",
@@ -481,7 +481,7 @@
       "createdAt": "2025-08-28T00:00:00.000Z"
     },
     {
-      "id": "ainow-72-1773628431594",
+      "id": "ainow-72-1773713546653",
       "title": "#DX",
       "url": "https://ainow.ai/tag/dx",
       "summary": "ainowから取得した記事です。",
@@ -493,7 +493,7 @@
       "createdAt": "2021-06-17T00:00:00.000Z"
     },
     {
-      "id": "ainow-109-1773628431599",
+      "id": "ainow-109-1773713546657",
       "title": "AINOW編集部",
       "url": "https://ainow.ai/category/ainoweditor",
       "summary": "ainowから取得した記事です。",
@@ -505,7 +505,7 @@
       "createdAt": "2021-06-17T00:00:00.000Z"
     },
     {
-      "id": "ainow-82-1773628431595",
+      "id": "ainow-82-1773713546654",
       "title": "#AI（人工知能）",
       "url": "https://ainow.ai/tag/ai%ef%bc%88%e4%ba%ba%e5%b7%a5%e7%9f%a5%e8%83%bd%ef%bc%89",
       "summary": "ainowから取得した記事です。",
@@ -517,7 +517,7 @@
       "createdAt": "2019-11-26T00:00:00.000Z"
     },
     {
-      "id": "ainow-91-1773628431596",
+      "id": "ainow-91-1773713546655",
       "title": "#pickup2",
       "url": "https://ainow.ai/tag/pickup2",
       "summary": "ainowから取得した記事です。",
