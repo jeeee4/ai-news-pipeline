@@ -1,20 +1,8 @@
 {
-  "generatedAt": "2026-03-29T02:34:22.199Z",
+  "generatedAt": "2026-03-30T02:37:10.764Z",
   "articles": [
     {
-      "id": "ledge-4-1774751660621",
-      "title": "Anthropic、ClaudeがユーザのPCを操作できる機能「computer use」を公開――スマホからAIにPC作業を指示することも可能に",
-      "url": "https://ledge.ai/articles/openai_sora_consumer_app_shutdown_world_simulation_research",
-      "summary": "ledgeから取得した記事です。",
-      "keyPoints": [
-        "ソース: ledge"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-03-29T02:34:20.621Z"
-    },
-    {
-      "id": "ledge-5-1774751660621",
+      "id": "ledge-6-1774838229647",
       "title": "Anthropic、ClaudeがユーザのPCを操作できる機能「computer use」を公開――スマホからAIにPC作業を指示することも可能に",
       "url": "https://ledge.ai/articles/minimax_openroom_gui_agent_open_source_virtual_desktop",
       "summary": "ledgeから取得した記事です。",
@@ -23,34 +11,22 @@
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-03-29T02:34:20.621Z"
+      "createdAt": "2026-03-30T02:37:09.647Z"
     },
     {
-      "id": "ledge-6-1774751660621",
+      "id": "ledge-3-1774838229646",
       "title": "Anthropic、ClaudeがユーザのPCを操作できる機能「computer use」を公開――スマホからAIにPC作業を指示することも可能に",
-      "url": "https://ledge.ai/articles/sakana_ai_namazu_post_training_japan_llm_sakana_chat",
+      "url": "https://ledge.ai/articles/gemini_3_1_flash_live_search_live_global_launch",
       "summary": "ledgeから取得した記事です。",
       "keyPoints": [
         "ソース: ledge"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-03-29T02:34:20.621Z"
+      "createdAt": "2026-03-30T02:37:09.646Z"
     },
     {
-      "id": "ledge-1-1774751660620",
-      "title": "Anthropic、ClaudeがユーザのPCを操作できる機能「computer use」を公開――スマホからAIにPC作業を指示することも可能に",
-      "url": "https://ledge.ai/articles/anthropic_claude_computer_use_dispatch_pc_control",
-      "summary": "ledgeから取得した記事です。",
-      "keyPoints": [
-        "ソース: ledge"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-03-29T02:34:20.620Z"
-    },
-    {
-      "id": "ledge-3-1774751660620",
+      "id": "ledge-4-1774838229646",
       "title": "Anthropic、ClaudeがユーザのPCを操作できる機能「computer use」を公開――スマホからAIにPC作業を指示することも可能に",
       "url": "https://ledge.ai/articles/tencent_wechat_clawbot_openclaw_ai_agent_13b_users",
       "summary": "ledgeから取得した記事です。",
@@ -59,64 +35,75 @@
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-03-29T02:34:20.620Z"
+      "createdAt": "2026-03-30T02:37:09.646Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2182407",
-      "title": "【2026年最新】プロンプトエンジニアリング完全ガイド — GPT-5.4 / Gemini 3.1 / Claude Opus 4.6 対応",
-      "url": "https://qiita.com/instancestudio23/items/2009a24604bc53d1cff4",
-      "summary": "qiitaから取得した記事です。",
+      "id": "ledge-5-1774838229646",
+      "title": "Anthropic、ClaudeがユーザのPCを操作できる機能「computer use」を公開――スマホからAIにPC作業を指示することも可能に",
+      "url": "https://ledge.ai/articles/sakana_ai_namazu_post_training_japan_llm_sakana_chat",
+      "summary": "ledgeから取得した記事です。",
       "keyPoints": [
-        "ソース: qiita",
-        "投稿者: instancestudio23"
+        "ソース: ledge"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-03-29T02:24:44.000Z"
+      "createdAt": "2026-03-30T02:37:09.646Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2182406",
-      "title": "サーバー不要・アカウント不要。ブラウザだけで動く完全OSSのAIエージェント「ChromeClaw」が想像以上にヤバい 🦞",
-      "url": "https://qiita.com/algopian1/items/f3355dca5d20cfc0b2b7",
-      "summary": "qiitaから取得した記事です。",
+      "id": "ledge-1-1774838229645",
+      "title": "Anthropic、ClaudeがユーザのPCを操作できる機能「computer use」を公開――スマホからAIにPC作業を指示することも可能に",
+      "url": "https://ledge.ai/articles/anthropic_claude_computer_use_dispatch_pc_control",
+      "summary": "ledgeから取得した記事です。",
       "keyPoints": [
-        "ソース: qiita",
-        "投稿者: algopian1"
+        "ソース: ledge"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-03-29T02:20:47.000Z"
+      "createdAt": "2026-03-30T02:37:09.645Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2182390",
-      "title": "AIで研究が\"30秒\"になった世界──人間に残された3つの価値【実体験】",
-      "url": "https://qiita.com/d94231/items/73cd8ddca1695a7c397d",
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2183078",
+      "title": "Claude Desktop で Utsuho の半角・全角変換及び平仮名・片仮名変換機能を利用する。",
+      "url": "https://qiita.com/juno_rmks/items/6267555f45e4ffa3575c",
       "summary": "qiitaから取得した記事です。",
       "keyPoints": [
         "ソース: qiita",
-        "投稿者: d94231"
+        "投稿者: juno_rmks"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-03-29T01:58:49.000Z"
+      "createdAt": "2026-03-30T02:33:53.000Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2182388",
-      "title": "イーロンマスクの未来予測",
-      "url": "https://qiita.com/HinanoKawahori/items/533af6c01f250527b9a4",
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2180176",
+      "title": "PleasanterにAIエージェントを活用したアプリを実装しよう【Gemini】",
+      "url": "https://qiita.com/gyunyu_daisuki/items/96b3281f788e970b8e1e",
       "summary": "qiitaから取得した記事です。",
       "keyPoints": [
         "ソース: qiita",
-        "投稿者: HinanoKawahori"
+        "投稿者: gyunyu_daisuki"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-03-29T01:54:45.000Z"
+      "createdAt": "2026-03-30T02:25:30.000Z"
     },
     {
-      "id": "qiita-tag:qiita.com,2005:PublicArticle/2182315",
-      "title": "Pythonの asyncio を実践で使いこなす ─ async/await 入門から並列API呼び出しまで",
-      "url": "https://qiita.com/AI-SKILL-LAB/items/7c6593d49a4c57a46626",
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2183072",
+      "title": "生成AIのための抽象AI数学",
+      "url": "https://qiita.com/ieie55550000/items/eade6ce4c59f2d3d2edb",
+      "summary": "qiitaから取得した記事です。",
+      "keyPoints": [
+        "ソース: qiita",
+        "投稿者: ieie55550000"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-03-30T02:19:08.000Z"
+    },
+    {
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2183068",
+      "title": "MCPのセキュリティリスク — AIエージェントにツールを渡す前に検証すべきこと",
+      "url": "https://qiita.com/AI-SKILL-LAB/items/f759b37897b51e35e77a",
       "summary": "qiitaから取得した記事です。",
       "keyPoints": [
         "ソース: qiita",
@@ -124,52 +111,149 @@
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-03-28T21:32:31.000Z"
+      "createdAt": "2026-03-30T02:12:38.000Z"
     },
     {
-      "id": 47557185,
-      "title": "The first 40 months of the AI era",
-      "url": "https://lzon.ca/posts/other/thoughts-ai-era/",
-      "summary": "Hacker Newsで126ポイント、57件のコメントを獲得した記事です。",
+      "id": "qiita-tag:qiita.com,2005:PublicArticle/2182990",
+      "title": "AIエージェントの「コンテキスト」が消える問題 — セッションをまたいで記憶を保つ設計",
+      "url": "https://qiita.com/AI-SKILL-LAB/items/79e77b6c9ef10adb148a",
+      "summary": "qiitaから取得した記事です。",
       "keyPoints": [
-        "スコア: 126",
-        "コメント数: 57",
-        "投稿者: jpmitchell"
+        "ソース: qiita",
+        "投稿者: AI-SKILL-LAB"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-03-28T18:42:08.000Z"
+      "createdAt": "2026-03-30T00:34:11.000Z"
     },
     {
-      "id": 47557166,
-      "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
-      "url": "https://twitter.com/BoWang87/status/2037648937453232504",
-      "summary": "Hacker Newsで153ポイント、106件のコメントを獲得した記事です。",
+      "id": "aishinbun-0-1774838230700",
+      "title": "AIを使っても勝てない企業が続出する理由",
+      "url": "https://community.exawizards.com/aishinbun/news-03-30-2026/",
+      "summary": "aishinbunから取得した記事です。",
       "keyPoints": [
-        "スコア: 153",
-        "コメント数: 106",
-        "投稿者: mean_mistreater"
+        "ソース: aishinbun"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-03-28T18:38:59.000Z"
+      "createdAt": "2026-03-30T00:00:00.000Z"
     },
     {
-      "id": 47554773,
-      "title": "AI overly affirms users asking for personal advice",
-      "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
-      "summary": "Hacker Newsで533ポイント、412件のコメントを獲得した記事です。",
+      "id": "itmedia-0",
+      "title": "「職員が激減」に備えよ──2040年問題に向けて「自治体」に残された生存戦略",
+      "url": "https://www.itmedia.co.jp/business/articles/2603/30/news038.html",
+      "summary": "itmediaから取得した記事です。",
       "keyPoints": [
-        "スコア: 533",
-        "コメント数: 412",
-        "投稿者: oldfrenchfries"
+        "ソース: itmedia"
       ],
       "category": "AI",
       "sentiment": "neutral",
-      "createdAt": "2026-03-28T14:08:33.000Z"
+      "createdAt": "2026-03-29T23:00:00.000Z"
     },
     {
-      "id": "aishinbun-0-1774751662135",
+      "id": "itmedia-1",
+      "title": "地銀の属人的業務をAIに任せられるか　中国銀行と日立が描く自律化ロードマップ",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/30/news024.html",
+      "summary": "itmediaから取得した記事です。",
+      "keyPoints": [
+        "ソース: itmedia"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-03-29T23:00:00.000Z"
+    },
+    {
+      "id": "itmedia-2",
+      "title": "Bluesky、AIとの対話でカスタムフィードを作る新アプリ「Attie」　招待制で提供開始",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/30/news080.html",
+      "summary": "itmediaから取得した記事です。",
+      "keyPoints": [
+        "ソース: itmedia"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-03-29T22:31:00.000Z"
+    },
+    {
+      "id": 47567969,
+      "title": "Claude Code runs Git reset –hard origin/main against project repo every 10 mins",
+      "url": "https://github.com/anthropics/claude-code/issues/40710",
+      "summary": "Hacker Newsで186ポイント、113件のコメントを獲得した記事です。",
+      "keyPoints": [
+        "スコア: 186",
+        "コメント数: 113",
+        "投稿者: mthwsjc_"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-03-29T22:15:06.000Z"
+    },
+    {
+      "id": "itmedia-3",
+      "title": "フジクラが米ビッグテックに指名買いされる理由　生成AIが伸びると、なぜ「光配線」が儲かるのか",
+      "url": "https://www.itmedia.co.jp/business/articles/2603/30/news055.html",
+      "summary": "itmediaから取得した記事です。",
+      "keyPoints": [
+        "ソース: itmedia"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-03-29T22:00:00.000Z"
+    },
+    {
+      "id": "itmedia-4",
+      "title": "家電・EVの次は「通信」で勝つ　世界インフラの主戦場で描く「日本企業の逆転劇」",
+      "url": "https://www.itmedia.co.jp/business/articles/2603/30/news042.html",
+      "summary": "itmediaから取得した記事です。",
+      "keyPoints": [
+        "ソース: itmedia"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-03-29T22:00:00.000Z"
+    },
+    {
+      "id": 47566865,
+      "title": "ChatGPT won't let you type until Cloudflare reads your React state",
+      "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
+      "summary": "Hacker Newsで349ポイント、263件のコメントを獲得した記事です。",
+      "keyPoints": [
+        "スコア: 349",
+        "コメント数: 263",
+        "投稿者: alberto-m"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-03-29T20:21:05.000Z"
+    },
+    {
+      "id": 47566653,
+      "title": "Midnight train from GA: A view of America from the tracks as airports struggle",
+      "url": "https://isp.netscape.com/news/story/0001/20260329/e4d8ea591b3b036142c2bf2dee7dff5a",
+      "summary": "Hacker Newsで74ポイント、61件のコメントを獲得した記事です。",
+      "keyPoints": [
+        "スコア: 74",
+        "コメント数: 61",
+        "投稿者: walterbell"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-03-29T20:00:02.000Z"
+    },
+    {
+      "id": "aishinbun-1-1774838230700",
+      "title": "NVIDIAの推論王国拡大中　SemiAnalysisのレポートから",
+      "url": "https://community.exawizards.com/aishinbun/nvidia%e3%81%ae%e6%8e%a8%e8%ab%96%e7%8e%8b%e5%9b%bd%e6%8b%a1%e5%a4%a7%e4%b8%ad%e3%80%80semianalysis%e3%81%ae%e3%83%ac%e3%83%9d%e3%83%bc%e3%83%88%e3%81%8b%e3%82%89/",
+      "summary": "aishinbunから取得した記事です。",
+      "keyPoints": [
+        "ソース: aishinbun"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2026-03-29T00:00:00.000Z"
+    },
+    {
+      "id": "aishinbun-2-1774838230700",
       "title": "ソフトバンク、AI社会インフラ企業に　米で10GW級データセンター開発",
       "url": "https://community.exawizards.com/aishinbun/news-03-28-2026/",
       "summary": "aishinbunから取得した記事です。",
@@ -179,30 +263,6 @@
       "category": "AI",
       "sentiment": "neutral",
       "createdAt": "2026-03-28T00:00:00.000Z"
-    },
-    {
-      "id": "itmedia-0",
-      "title": "Notion、日本と韓国でデータ保管可能に　26年5月から提供開始",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/28/news017.html",
-      "summary": "itmediaから取得した記事です。",
-      "keyPoints": [
-        "ソース: itmedia"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-03-27T23:00:00.000Z"
-    },
-    {
-      "id": "itmedia-1",
-      "title": "ドラクエで「対話型AIバディ」誕生　ゲーム業界の機能不全をどう突破するか",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/28/news016.html",
-      "summary": "itmediaから取得した記事です。",
-      "keyPoints": [
-        "ソース: itmedia"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-03-27T23:00:00.000Z"
     },
     {
       "id": 10000,
@@ -217,42 +277,6 @@
       "createdAt": "2026-03-27T22:00:00.000Z"
     },
     {
-      "id": "itmedia-2",
-      "title": "“AI不使用”の作品に「AI生成」と誤表記――電子書籍配信「クロスフォリオ出版」が謝罪",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/27/news115.html",
-      "summary": "itmediaから取得した記事です。",
-      "keyPoints": [
-        "ソース: itmedia"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-03-27T08:03:00.000Z"
-    },
-    {
-      "id": "itmedia-3",
-      "title": "サイバー子会社・AI Shift、名前が似た企業との混同に注意喚起　「SHIFT」や「SHIFT AI」との誤認が発生か",
-      "url": "https://www.itmedia.co.jp/news/articles/2603/27/news112.html",
-      "summary": "itmediaから取得した記事です。",
-      "keyPoints": [
-        "ソース: itmedia"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-03-27T07:03:00.000Z"
-    },
-    {
-      "id": "itmedia-4",
-      "title": "Wikipedia、LLMによる記事生成を原則禁止に",
-      "url": "https://www.itmedia.co.jp/news/articles/2603/27/news100.html",
-      "summary": "itmediaから取得した記事です。",
-      "keyPoints": [
-        "ソース: itmedia"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-03-27T05:14:00.000Z"
-    },
-    {
       "id": 10001,
       "title": "Liberate your OpenClaw",
       "url": "https://huggingface.co/blog/liberate-your-openclaw",
@@ -265,7 +289,7 @@
       "createdAt": "2026-03-27T00:00:00.000Z"
     },
     {
-      "id": "aishinbun-1-1774751662135",
+      "id": "aishinbun-3-1774838230700",
       "title": "推論が主戦場に　NVIDIAが築く「AI工場」の競争軸",
       "url": "https://community.exawizards.com/aishinbun/news-03-27-2026/",
       "summary": "aishinbunから取得した記事です。",
@@ -277,7 +301,7 @@
       "createdAt": "2026-03-27T00:00:00.000Z"
     },
     {
-      "id": "aishinbun-2-1774751662135",
+      "id": "aishinbun-4-1774838230700",
       "title": "OpenAI、次世代モデル「Spud」事前学習完了　Soraは整理へ",
       "url": "https://community.exawizards.com/aishinbun/news-03-26-2026/",
       "summary": "aishinbunから取得した記事です。",
@@ -319,18 +343,6 @@
       "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
       "keyPoints": [
         "ソース: OpenAI"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-03-25T00:00:00.000Z"
-    },
-    {
-      "id": "aishinbun-3-1774751662136",
-      "title": "Stargateは失速したって本当？　OpenAI巨額インフラ構想の今",
-      "url": "https://community.exawizards.com/aishinbun/news-03-25-2026/",
-      "summary": "aishinbunから取得した記事です。",
-      "keyPoints": [
-        "ソース: aishinbun"
       ],
       "category": "AI",
       "sentiment": "neutral",
@@ -397,18 +409,6 @@
       "createdAt": "2026-03-24T02:01:52.000Z"
     },
     {
-      "id": "aishinbun-4-1774751662136",
-      "title": "OpenClawは生成AIの第３の波　企業組織が大きく変わる転換点",
-      "url": "https://community.exawizards.com/aishinbun/news-03-24-2026/",
-      "summary": "aishinbunから取得した記事です。",
-      "keyPoints": [
-        "ソース: aishinbun"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2026-03-24T00:00:00.000Z"
-    },
-    {
       "id": 10010,
       "title": "Build a Domain-Specific Embedding Model in Under a Day",
       "url": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
@@ -469,7 +469,7 @@
       "createdAt": "2026-03-17T16:37:55.000Z"
     },
     {
-      "id": "ainow-144-1774751661065",
+      "id": "ainow-144-1774838230045",
       "title": "新着記事",
       "url": "https://ainow.ai/2025/08/28/277802/",
       "summary": "ainowから取得した記事です。",
@@ -481,7 +481,7 @@
       "createdAt": "2025-08-28T00:00:00.000Z"
     },
     {
-      "id": "ainow-72-1774751661056",
+      "id": "ainow-72-1774838230036",
       "title": "#DX",
       "url": "https://ainow.ai/tag/dx",
       "summary": "ainowから取得した記事です。",
@@ -493,7 +493,7 @@
       "createdAt": "2021-06-17T00:00:00.000Z"
     },
     {
-      "id": "ainow-109-1774751661061",
+      "id": "ainow-109-1774838230041",
       "title": "AINOW編集部",
       "url": "https://ainow.ai/category/ainoweditor",
       "summary": "ainowから取得した記事です。",
@@ -505,7 +505,7 @@
       "createdAt": "2021-06-17T00:00:00.000Z"
     },
     {
-      "id": "ainow-82-1774751661057",
+      "id": "ainow-82-1774838230037",
       "title": "#AI（人工知能）",
       "url": "https://ainow.ai/tag/ai%ef%bc%88%e4%ba%ba%e5%b7%a5%e7%9f%a5%e8%83%bd%ef%bc%89",
       "summary": "ainowから取得した記事です。",
@@ -517,7 +517,7 @@
       "createdAt": "2019-11-26T00:00:00.000Z"
     },
     {
-      "id": "ainow-91-1774751661059",
+      "id": "ainow-91-1774838230038",
       "title": "#pickup2",
       "url": "https://ainow.ai/tag/pickup2",
       "summary": "ainowから取得した記事です。",
