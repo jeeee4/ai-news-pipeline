@@ -1,6 +1,6 @@
 {
   "month": "2019-11",
-  "archivedAt": "2026-03-01T01:53:45.216Z",
+  "archivedAt": "2026-04-01T02:06:35.489Z",
   "articles": [
     {
       "id": "ainow-82-1769825034393",
@@ -16,6 +16,18 @@
     },
     {
       "id": "ainow-82-1772243926280",
+      "title": "#AI（人工知能）",
+      "url": "https://ainow.ai/tag/ai%ef%bc%88%e4%ba%ba%e5%b7%a5%e7%9f%a5%e8%83%bd%ef%bc%89",
+      "summary": "ainowから取得した記事です。",
+      "keyPoints": [
+        "ソース: ainow"
+      ],
+      "category": "AI",
+      "sentiment": "neutral",
+      "createdAt": "2019-11-26T00:00:00.000Z"
+    },
+    {
+      "id": "ainow-82-1774924320556",
       "title": "#AI（人工知能）",
       "url": "https://ainow.ai/tag/ai%ef%bc%88%e4%ba%ba%e5%b7%a5%e7%9f%a5%e8%83%bd%ef%bc%89",
       "summary": "ainowから取得した記事です。",

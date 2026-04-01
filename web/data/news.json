@@ -467,66 +467,6 @@
       "category": "AI",
       "sentiment": "neutral",
       "createdAt": "2026-03-17T16:37:55.000Z"
-    },
-    {
-      "id": "ainow-144-1774924320563",
-      "title": "新着記事",
-      "url": "https://ainow.ai/2025/08/28/277802/",
-      "summary": "ainowから取得した記事です。",
-      "keyPoints": [
-        "ソース: ainow"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2025-08-28T00:00:00.000Z"
-    },
-    {
-      "id": "ainow-72-1774924320555",
-      "title": "#DX",
-      "url": "https://ainow.ai/tag/dx",
-      "summary": "ainowから取得した記事です。",
-      "keyPoints": [
-        "ソース: ainow"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2021-06-17T00:00:00.000Z"
-    },
-    {
-      "id": "ainow-109-1774924320560",
-      "title": "AINOW編集部",
-      "url": "https://ainow.ai/category/ainoweditor",
-      "summary": "ainowから取得した記事です。",
-      "keyPoints": [
-        "ソース: ainow"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2021-06-17T00:00:00.000Z"
-    },
-    {
-      "id": "ainow-82-1774924320556",
-      "title": "#AI（人工知能）",
-      "url": "https://ainow.ai/tag/ai%ef%bc%88%e4%ba%ba%e5%b7%a5%e7%9f%a5%e8%83%bd%ef%bc%89",
-      "summary": "ainowから取得した記事です。",
-      "keyPoints": [
-        "ソース: ainow"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2019-11-26T00:00:00.000Z"
-    },
-    {
-      "id": "ainow-91-1774924320557",
-      "title": "#pickup2",
-      "url": "https://ainow.ai/tag/pickup2",
-      "summary": "ainowから取得した記事です。",
-      "keyPoints": [
-        "ソース: ainow"
-      ],
-      "category": "AI",
-      "sentiment": "neutral",
-      "createdAt": "2019-08-06T00:00:00.000Z"
     }
   ]
 }

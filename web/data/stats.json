@@ -1,7 +1,7 @@
 {
-  "totalArticles": 56,
-  "activeArticles": 39,
-  "archivedArticles": 17,
+  "totalArticles": 60,
+  "activeArticles": 38,
+  "archivedArticles": 22,
   "monthlyStats": [
     {
       "month": "2026-01",
@@ -13,20 +13,20 @@
     },
     {
       "month": "2025-08",
-      "count": 2
+      "count": 3
     },
     {
       "month": "2021-06",
-      "count": 4
+      "count": 6
     },
     {
       "month": "2019-11",
-      "count": 2
+      "count": 3
     },
     {
       "month": "2019-08",
-      "count": 2
+      "count": 3
     }
   ],
-  "lastUpdated": "2026-03-01T01:53:45.230Z"
+  "lastUpdated": "2026-04-01T02:06:35.502Z"
 }
